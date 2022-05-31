@@ -28,15 +28,8 @@ The mixes are built using different SNR levels that range from -15 dB to +5 dB.
 
 The mixes are built using different SNR levels that range from -10 dB to +10 dB.
 
-
 ### Creating the mix
 
 Once the target, masker and SNR are selected, random segments of the audio files are chosen to build the mix. 
 
-### Data summary
-
-trainset: 
-605 speakers / 113hrs (there is at least 9mins of data per speaker)
-devset: 
-85 speakers / 9hrs (there is between 5 to 9mins of data per speaker)
 
