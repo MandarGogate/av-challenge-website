@@ -4,7 +4,7 @@ To obtain the data and baseline code, please see the download page.
 
 # AV noise dataset
 
-Our AV dataset is built based on the following video and audio data sources:
+The dataset is built based on the following video and audio data sources:
 
 ## Video data:
 
