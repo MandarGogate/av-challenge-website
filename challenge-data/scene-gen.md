@@ -1,6 +1,6 @@
 # Scene Generation
 
-Scenes are generated based on two scenarios involving a target and a masker:
+Scenes are generated based on two scenarios involving a target and an interferer:
 
 * Target speaker + Competing speaker
 * Target speaker + Noise
@@ -9,14 +9,18 @@ Information about the speech and noise data can be found [here](https://challeng
 
 ## Building the scenes
 
-Next, we present an overview of the scene generation process:
+Each scene in the training and development datasets is composed by a different target and a unique noise segment.
 
-### Target and a Masker selection
+**Target and a Interferer selection**
 
-Targets are randomly selected. Half of the maskers are competing speakers and half of them are noises. 
-Noises are selected so that all noise categories present in the training and development sets are balanced.
+Targets are randomly selected. Selection of interferers is balanced so that there is the same amount of competing speaker scenes as there are noise scenes. Moreover, noises are also selected so that all categories are equally presents. 
+The noise categories are:
 
-### SNR ranges and computation
+* From Clarity Challenge:
+* From DEMAND:
+* From DNS: 
+
+**SNR ranges and computation**
 
 To calculate the SNR levels between speech and masker we apply the method of Clarity Challenge that implements a speech-weighted function in the computation of the SNR. 
 
