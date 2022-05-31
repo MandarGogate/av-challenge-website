@@ -9,7 +9,7 @@ Information about the speech and noise data can be found [here](https://challeng
 
 ## Building the scenes
 
-Next, we present and overview of the scene generation process:
+Next, we present an overview of the scene generation process:
 
 ### Selecting a Target and a masker
 
