@@ -11,7 +11,7 @@ Information about the speech and noise data can be found [here](https://challeng
 
 Each scene in the training and development datasets is composed by a different target and a unique noise segment.
 
-**Target and a Interferer selection**
+**Target and Interferer selection**
 
 Targets are randomly selected. Selection of interferers is balanced so that there is the same amount of competing speaker scenes as there are noise scenes. Moreover, noises are also selected so that all categories are similarly present. 
 
