@@ -37,12 +37,14 @@ To access the dataset you can either:
 
 ## Training
 
-The training set consists of 605 speakers (113hrs).\ 
+The training set consists of 605 speakers (113hrs).
+&nbsp;
 There are at least 9 minutes of data per speaker.
 
 ## Development
 
-The training development set consists of 85 speakers (9hrs).\ 
+The training development set consists of 85 speakers (9hrs).
+&nbsp;
 There are 5-9 minutes of data per speaker.
 
 ## Evaluation
