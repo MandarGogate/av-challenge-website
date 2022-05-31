@@ -1,6 +1,6 @@
 # Meet the team
 
-#### Challenge co-ordinators
+#### Challenge Co-ordinators
 
 - Amir Hussain (Edinburgh Napier University)
 - Peter Bell (University of Edinburgh)
@@ -10,9 +10,11 @@
 
 #### Challenge Technical Lead
 - Mandar Gogate (Edinburgh Napier University)
+- Cassia Valentini Botinhao (University of Edinburgh)
+- Lorena Aldana (University of Edinburgh)
 
 #### Challenge Technical Co-lead
-- Lorena Aldana (University of Edinburgh)
+- Ondřej Klejch (University of Edinburgh)
 - Kia Dashtipour (Edinburgh Napier University)
 - Tassadaq Hussain (Edinburgh Napier University)
 
