@@ -5,7 +5,7 @@ To obtain the data and baseline code, please see the download page.
 
 # Video and audio data sources
 
-The video and audio data sources are as follows:
+Our dataset is built based on the following video and audio data sources:
 
 ## Video data:
 
@@ -25,7 +25,7 @@ Audio data can be split into two main categories: speech and noise.
 
 All audios are single channel downsampled to 16 KHz and a bit depth of 16.
 
-## A. Training, development, evaluation data
+## Training, development, evaluation data
 
 The dataset is divided into training and development data. 
 The evaluation dataset will be released later on. 
@@ -35,18 +35,19 @@ To access the dataset you can either:
 - Use the provided scripts to build the scenes. 
 - Download the file containing the built scenes. 
 
-# Data summary 
+## Training
 
-Training and development datasets are as follows:
-
-**Training**
-
-The training set consists of 605 speakers (113hrs). 
+The training set consists of 605 speakers (113hrs).\ 
 There are at least 9 minutes of data per speaker.
 
-**Development**
+## Development
 
-The training development set consists of 85 speakers (9hrs). 
+The training development set consists of 85 speakers (9hrs).\ 
 There are 5-9 minutes of data per speaker.
+
+## Evaluation
+
+To be released later on.
+
 
 
