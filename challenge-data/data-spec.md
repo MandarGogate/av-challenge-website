@@ -19,9 +19,9 @@ Audio data can be split into two main categories: speech and noise.
 
 **Noise:** the noise dataset is built based on three different datasets. These are:
 
-- [1st Clarity Enhancement Challenge](https://github.com/claritychallenge/clarity/tree/main/recipes/cec1): The Clarity Challenge noise dataset comprises around 6 hours of domestic noises. 
-- [DEMAND](https://zenodo.org/record/1227121#.YpZHLRPMLPY): The DEMAND noise dataset includes multi-channel recordings of 18 soundscapes that account for a little over 1 hour of data. Each soundscape is recorded using 16-channel array. We select only one of the channels to be used in our dataset. Moreover, we don't consider soundscapes assigned to the "domestic" category as there can be overlapping to the sounds of the Clarity Challenge. Additionally, 
-- [Deep Noise Supression challenge (DNS) 2nd version](https://github.com/microsoft/DNS-Challenge): From the DNS dataset we consider only audios that are obtained from Freesound, that results in around 29 hours of data. 
+- [1st Clarity Enhancement Challenge](https://github.com/claritychallenge/clarity/tree/main/recipes/cec1): The Clarity Challenge noise dataset comprises around 7 hours of domestic noises. 
+- [DEMAND](https://zenodo.org/record/1227121#.YpZHLRPMLPY): The DEMAND noise dataset includes multi-channel recordings of 18 soundscapes that account for a little over 1 hour of data. Each soundscape is recorded using 16-channel array. We select only one of the channels to be used in our dataset. Moreover, we don't consider soundscapes assigned to the "domestic" category to avoid overlapping with the sounds of the Clarity Challenge. Additionally, we remove the soundscape labeled as OMEETING because this examples resembles the competing speaker scenario. The selections results in around 1 hours of audio.  
+- [Deep Noise Supression challenge (DNS) 2nd version](https://github.com/microsoft/DNS-Challenge): From the DNS dataset we consider only audios that are obtained from Freesound. Moreover, we remove sounds that belong to the *FAN* category to avoid overlapping with Clarity Challenge sounds. As a result there are 25 hours of data. 
 
 All audios are single channel downsampled to 16 KHz and a bit depth of 16.
 
@@ -33,7 +33,7 @@ The evaluation dataset will be released later on.
 To access the dataset you can either:
 
 - Use the provided scripts to build the scenes. 
-- Download the file containing built scenes. 
+- Download the file containing the built scenes. 
 
 # Data summary 
 
