@@ -36,10 +36,10 @@ The dataset is composed of:
 
 ## Training data
 
-Each scene in the training set comprises:
+Each scene in the training set includes the following files:
 
 - Target.
-- Masker.
+- Interferer.
 - Mix.
 
 Metadata is also provided as a JSON file. Metadata includes information such as scene number, target, masker, masker type (speech/noise) and segment selection offset. 
@@ -47,10 +47,10 @@ Metadata is also provided as a JSON file. Metadata includes information such as 
 
 ## Development data
 
-Each scene in the training set comprises:
+Each scene in the development set includes the following files:
 
 - Target.
-- Masker.
+- Interferer.
 - Mix.
 
 Metadata is also provided as a JSON file.
