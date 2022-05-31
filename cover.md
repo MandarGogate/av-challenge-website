@@ -7,4 +7,6 @@
 
 [Get Started](/docs#getting-started)
 
+This site provides full documentation of the challenge datasets, baseline systems and rules for participation.
+
 ![color](#f0f0f0)

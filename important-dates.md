@@ -1,7 +1,7 @@
 # Important Dates
 
-- 25st May 2022: Challenge website launch
-- 31st May 2022: Release of training and development data 
+- 31st May 2022: Challenge website launch
+- 1st June 2022: Release of training and development data 
 - 1st June 2022: Registration for challenge entrants opens
 - 5th June 2022: Release of baseline system
 - 25th July 2022: Evaluation data released 
