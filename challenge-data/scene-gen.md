@@ -11,7 +11,7 @@ Information about the speech and noise data can be found [here](https://challeng
 
 Next, we present an overview of the scene generation process:
 
-### Selecting a Target and a Masker
+### Target and a Masker selection
 
 Targets are randomly selected. Half of the maskers are competing speakers and half of them are noises. 
 Noises are selected so that all noise categories present in the training and development sets are balanced.
@@ -28,8 +28,8 @@ The mixes are built using different SNR levels that range from -15 dB to +5 dB.
 
 The mixes are built using different SNR levels that range from -10 dB to +10 dB.
 
-### Creating the mix
+### Mix
 
-Once the target, masker and SNR are selected, random segments of the audio files are chosen to build the mix. 
+Once the target, masker and SNR are selected, random segments of the noise files are chosen to build the mix. 
 
 
