@@ -2,7 +2,6 @@
 
 To obtain the data and baseline code, please see the download page.
 
-
 # Video and audio data sources
 
 Our dataset is built based on the following video and audio data sources:
@@ -21,35 +20,45 @@ Audio data can be split into two main categories: speech and noise.
 
 - [1st Clarity Enhancement Challenge](https://github.com/claritychallenge/clarity/tree/main/recipes/cec1): The Clarity Challenge noise dataset comprises around 7 hours of domestic noises. 
 - [DEMAND](https://zenodo.org/record/1227121#.YpZHLRPMLPY): The DEMAND noise dataset includes multi-channel recordings of 18 soundscapes that account for a little over 1 hour of data. Each soundscape is recorded using 16-channel array. We select only one of the channels to be used in our dataset. Moreover, we don't consider soundscapes assigned to the "domestic" category to avoid overlapping with the sounds of the Clarity Challenge. Additionally, we remove the soundscape labeled as OMEETING because this examples resembles the competing speaker scenario. The selections results in around 1 hours of audio.  
-- [Deep Noise Supression challenge (DNS) 2nd version](https://github.com/microsoft/DNS-Challenge): From the DNS dataset we consider only audios that are obtained from Freesound. Moreover, we remove sounds that belong to the *FAN* category to avoid overlapping with Clarity Challenge sounds. As a result there are 25 hours of data. 
+- [Deep Noise Supression challenge (DNS) 2nd version](https://github.com/microsoft/DNS-Challenge): From the DNS dataset we consider only audios that are obtained from Freesound. Moreover, we remove sounds that belong to the *Fan* category to avoid overlapping with Clarity Challenge sounds. As a result there are 25 hours of data. 
 
-All audios are single channel downsampled to 16 KHz and a bit depth of 16.
+All audios are single channel, downsampled to 16 KHz and a bit depth of 16.
 
 ## Training, development, evaluation data
 
 The dataset is divided into training and development data. 
 The evaluation dataset will be released later on. 
 
-To access the dataset you can either:
+The dataset is composed of:
 
-- Use the provided scripts to build the scenes. 
-- Download the file containing the built scenes. 
+* Training set: 605 speakers (113hrs).
+* Development set: 85 speakers (9hrs)
 
-## Training
+## Training data
 
-The training set consists of 605 speakers (113hrs).
-&nbsp;
-There are at least 9 minutes of data per speaker.
+Each scene in the training set comprises:
 
-## Development
+- Target.
+- Masker.
+- Mix.
 
-The training development set consists of 85 speakers (9hrs).
-&nbsp;
-There are 5-9 minutes of data per speaker.
+Metadata is also provided as a JSON file. Metadat includes information such as Scene number, target, masker, masker type (speech/noise), segment selection offset. 
+
+
+## Development data
+
+Each scene in the training set comprises:
+
+- Target.
+- Masker.
+- Mix.
+
+Metadata is also provided as a JSON file.
+
 
 ## Evaluation
 
-To be released later on.
+The evaluation set will be released later on. 
 
 
 
