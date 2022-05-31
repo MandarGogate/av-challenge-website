@@ -2,9 +2,9 @@
 
 ## Software
 
-All the necessary software tools are available as a single GitHub repository.
+All the necessary software tools are available as a single [GitHub repository](https://github.com/cogmhear/avse_challenge).
 
-We recommend installing the software first and then following the instructions in the repositorys README for downloading and unpacking the data.
+The software tools can be used to generate more data and the baseline model can be used for comparison.
 
 ## Data
 
