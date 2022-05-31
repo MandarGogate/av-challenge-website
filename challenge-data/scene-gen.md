@@ -3,7 +3,7 @@
 Scenes are generated based on two scenarios:
 
 * Target speaker + Competing speaker
-* Target speaker + noise
+* Target speaker + Noise
 
 ## Scenario 1: Target speech + Competing speaker
 
@@ -14,7 +14,7 @@ To calculate the SNR levels we use the scripts provided by the Clarity Challenge
 
 ## Scenario 2: Target speech + noise
 
-Target speakers are obtained from TED talks and then mixed with a selection of [noises] (https://github.com/MandarGogate/av-challenge-website/challenge-data/data-spec.md) using different SNR levels that range from -10 dB to +10 dB. 
+Target speakers are obtained from TED talks and then mixed with a selection of [noises](https://challenge.cogmhear.org/#/challenge-data/data-spec) using different SNR levels that range from -10 dB to +10 dB. 
 
 
 
