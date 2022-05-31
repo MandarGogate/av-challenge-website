@@ -1,6 +1,5 @@
 # 1st COG-MHEAR Audio-Visual Speech Enhancement Challenge
-### A machine learning challenge for next-generation hearing devices
-
+## A machine learning challenge for next-generation hearing devices
 
 ### Challenge Summary
 Human performance in everyday noisy situations is known to be dependent upon both aural and visual senses that are contextually combined by the brain’s multi-level integration strategies. The multimodal nature of speech is well established, with listeners known to unconsciously lip read to improve the intelligibility of speech in a real noisy environment. Studies in neuroscience have shown that the visual aspect of speech has a potentially strong impact on the ability of humans to focus their auditory attention on a particular stimulus.

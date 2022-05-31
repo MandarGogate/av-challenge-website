@@ -16,7 +16,6 @@
   :root {
     /* Reduce the font size */
     --base-font-size: 16px;
-    --theme-color   : purple;
     /* Change the theme color hue */
     /* --theme-hue: ; */
   }
@@ -29,7 +28,10 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      coverpage: false,
+      formatUpdated: '{YYYY}/{MM}/{DD} {HH}:{mm}',
+      search: 'auto', // default
+      coverpage: 'cover.md',
+
     onlyCover: false,
     loadNavbar: true,
     loadSidebar: true,
@@ -42,12 +44,29 @@
         codeFontFamily: 'Roboto Mono, Monaco, courier, monospace',
         bodyFontSize: '16px',
         dark: {
-          accent: '#8f42b9'
+          accent: '#8f42b9',
+          coverBackground : '#091a28',
+
         },
         light: {
           accent: '#8f42b9',
+          coverBackground : '#fff',
         },
-      }
+      },
+      plugins: [
+        function(hook) {
+          var footer = [
+            '<hr/>',
+            '<footer>',
+            '<span>The COG-MHEAR research programme is funded by the Engineering and Physical Sciences Research Council (Grant number EP/T021063/1)</span>',
+            '</footer>'
+          ].join('');
+
+          hook.afterEach(function(html) {
+            return html + footer;
+          });
+        }
+      ]
   }
   </script>
   <!-- Docsify v4 -->
@@ -56,5 +75,7 @@
           src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
           type="text/javascript">
   </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+
 </body>
 </html>
