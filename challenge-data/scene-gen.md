@@ -13,12 +13,7 @@ Each scene in the training and development datasets is composed by a different t
 
 **Target and a Interferer selection**
 
-Targets are randomly selected. Selection of interferers is balanced so that there is the same amount of competing speaker scenes as there are noise scenes. Moreover, noises are also selected so that all categories are equally presents. 
-The noise categories are:
-
-* From Clarity Challenge:
-* From DEMAND:
-* From DNS: 
+Targets are randomly selected. Selection of interferers is balanced so that there is the same amount of competing speaker scenes as there are noise scenes. Moreover, noises are also selected so that all categories are similarly present. 
 
 **SNR ranges and computation**
 
@@ -32,8 +27,5 @@ The mixes are built using different SNR levels that range from -15 dB to +5 dB.
 
 The mixes are built using different SNR levels that range from -10 dB to +10 dB.
 
-### Mix
-
-Once the target, masker and SNR are selected, random segments of the noise files are chosen to build the mix. 
 
 
