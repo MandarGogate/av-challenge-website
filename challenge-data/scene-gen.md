@@ -11,14 +11,14 @@ Information about the speech and noise data can be found [here](https://challeng
 
 Next, we present an overview of the scene generation process:
 
-### Selecting a Target and a masker
+### Selecting a Target and a Masker
 
 Targets are randomly selected. Half of the maskers are competing speakers and half of them are noises. 
 Noises are selected so that all noise categories present in the training and development sets are balanced.
 
-### SNR ranges and calculation
+### SNR ranges and computation
 
-To calculate the SNR levels between speech and masker we apply the method found in the Clarity Challenge scripts that implements a speech-weighted when determining SNR levels. 
+To calculate the SNR levels between speech and masker we apply the method of Clarity Challenge that implements a speech-weighted function in the computation of the SNR. 
 
 **Target speech + Competing speaker**
 
