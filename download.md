@@ -8,4 +8,4 @@ The software tools can be used to generate more data and the baseline model can 
 
 ## Data
 
-The data is available for download here.
+The data will be made available here by 1st June 2022.

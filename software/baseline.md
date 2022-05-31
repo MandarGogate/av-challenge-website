@@ -1,5 +1,13 @@
 # Baseline model
 
-Figure 1 shows a simplified schematic of the baseline system. For simplicity, not all signal paths are shown. 
+Challenge entrants are supplied with a fully functioning baseline model. Figure 1 shows a simplified schematic:
 
-As stated in the rules, you are free to choose which parts of the baseline are useful to your approach, and reconfigure the system as you feel fit.
+<p align="center">
+  <img src="software/baseline_model.png" alt="drawing" width="500"/>
+</p>
+
+You are free to use any parts of the baseline that are useful to you, and reconfigure the system as you feel fit.
+
+The model code is available at: [GitHub](https://github.com/cogmhear/avse_challenge)
+
+The pretrained models will be made available here shortly.
