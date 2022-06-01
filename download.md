@@ -8,4 +8,4 @@ The software tools can be used to generate more data and the baseline model can 
 
 ## Data
 
-The data will be made available here by 1st June 2022.
+The data can be generated using code available at [GitHub repository](https://github.com/cogmhear/avse_challenge).
