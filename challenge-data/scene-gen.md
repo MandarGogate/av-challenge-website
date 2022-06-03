@@ -19,7 +19,7 @@ Targets are randomly selected. Selection of interferers is balanced so that ther
 
 **SNR ranges and computation**
 
-To calculate the SNR levels between speech and interferer we apply the method of Clarity Challenge that implements a speech-weighted function in the computation of the SNR. 
+To calculate the SNR levels between speech and interferer we apply the method of Clarity Challenge that implements a speech frequency-weighted function in the computation of the SNR. 
 
 **Target speech + Competing speaker**
 
