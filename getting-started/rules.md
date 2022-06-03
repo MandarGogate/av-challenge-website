@@ -12,7 +12,11 @@
 
 ## What information can I use?
 
-There is no limit on the amount of training data that can be generated using our tools and training data sets. Teams can also use their own data for training or expand the training data through simple automated modifications. 
+- Participants should only use the provided training data. It is not allowed to add own data for training purposes. 
+- Teams are allowed to create more training data using our provided tools and dataset. 
+- Participants are allowed to use audio-only or visual-only pretrained models, however, it is not allowed to use AV pretrained models. 
+
+<!-- There is no limit on the amount of training data that can be generated using our tools and training data sets. Teams can also use their own data for training or expand the training data through simple automated modifications.  -->
 
 ## Computational restrictions
 
