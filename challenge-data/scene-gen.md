@@ -1,15 +1,17 @@
 # Scene Generation
 
-Scenes are generated based on two scenarios involving a target and an interferer:
+Scenes are generated based on two scenarios involving a target and an interferer. 
+Interferers can be either a competing speaker or a noise:
 
-* Target speaker + Competing speaker
-* Target speaker + Noise
+* Scenario 1: Target speaker + Competing speaker
+* Scenario 2: Target speaker + Noise
 
 Information about the speech and noise data can be found [here](https://challenge.cogmhear.org/#/challenge-data/data-spec).
 
 ## Building the scenes
 
-Each scene in the training and development datasets is composed by a different target and a unique noise segment.
+Training and development datasets are disjoint regarding speakers and noises. 
+Each scene is composed by a unique target and a unique noise.
 
 **Target and Interferer selection**
 
