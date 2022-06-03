@@ -26,7 +26,7 @@ All audios are single channel, downsampled to 16 KHz and a bit depth of 16.
 
 \* From DEMAND, we only select one channel per soundscape. Moreover, we don't consider soundscapes assigned to the "domestic" category to avoid overlapping with the sounds of the Clarity Challenge. Additionally, we remove the soundscape labeled as OMEETING because this example resembles the competing speaker scenario. 
 
-\*\* From DNS, we remove sounds that belong to the *Fan* category to avoid overlapping with Clarity Challenge sounds. As a result there are 25 hours of data. 
+\*\* From DNS, we remove sounds that belong to the *Fan* category to avoid overlapping with Clarity Challenge sounds. As a result in our noise dataset there are 25 hours of data derived from DNS noises. 
 
 ## Training, development, evaluation data
 
@@ -42,23 +42,23 @@ The dataset is composed of:
 
 Each scene in the training set includes the following files:
 
-- Target.
-- Interferer.
-- Mix.
+- Video -without audio- (.mp4)
+- Target (.wav)
+- Interferer (.wav)
+- Mix (.wav)
 
 Metadata is also provided as a JSON file. Metadata includes information such as scene number, target, masker, masker type (speech/noise) and segment selection offset. 
-
 
 ## Development data
 
 Each scene in the development set includes the following files:
 
-- Target.
-- Interferer.
-- Mix.
+- Video -without audio- (.mp4)
+- Target (.wav)
+- Interferer (.wav)
+- Mix (.wav)
 
 Metadata is also provided as a JSON file.
-
 
 ## Evaluation
 
