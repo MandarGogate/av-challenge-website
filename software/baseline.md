@@ -10,4 +10,4 @@ You are free to use any parts of the baseline that are useful to you, and reconf
 
 The model code is available at: [GitHub](https://github.com/cogmhear/avse_challenge)
 
-The pretrained models will be made available here shortly.
+The pretrained models is available at: [link](https://drive.google.com/file/d/1Jds9Bs51DKsiJD3D1zqSISR-w4elaMrp/view?usp=sharing)
