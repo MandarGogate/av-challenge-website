@@ -29,12 +29,12 @@ We have two types of interferers:
 ## Datasets: training and development
 
 * Training dataset: 
-  - 34,524 scenes (113hours:17mins:6secs)
+  - 34,524 scenes (113hours 17mins)
   - 605 target speakers
   - interferers were selected from a pool of 405 competing speakers and 7,346 noise files (15 noise categories)
 
 * Development dataset: 
-  - 3,365 scenes (9hrs:30mins:24secs)
+  - 3,365 scenes (9hrs 30mins)
   - 85 target speakers
   - interferers were selected from a pool of 30 competing speakers and 1,825 noise files (same 15 noise categories) 
 
