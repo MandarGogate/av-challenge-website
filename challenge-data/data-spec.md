@@ -1,64 +1,53 @@
 # Data
 
-To obtain the data and baseline code, please see the download page.
+To obtain the necessary data and baseline code, please regsiter for the challenge. You will then get a link for the download page and the necessary credentials to download it.
 
-# AV noise dataset
+Data preparation scripts are located in our [GitHub page](https://github.com/cogmhear/avse_challenge) (see readme on "Data preparation").
 
-The dataset is built based on the following video and audio data sources:
+All audio files are single channel, downsampled to 16 kHz and a bit depth of 16.
 
-## Video data:
+## Target
 
-Video data is from the [LRS3 dataset](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs3.html). LRS3 is composed by spoken sentences from TED and TEDx videos. 
+The target data is composed of videos retrieved from the [LRS3 dataset](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs3.html). LRS3 is composed by spoken sentences from TED and TEDx videos. 
 
-## Audio data:
+## Interferers
 
-Audio data can be split into two categories: speech and noise. 
+We have two types of interferers:
 
-**Speech:** speech signals for both target speakers and competing speakers are from LRS3 dataset video segments. 
+**Speech:** competing speakers are derived from the [LRS3 dataset](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs3.html). Competing speakers and target speakers are disjoint sets.
 
-**Noise:** the noise dataset is built based on three different datasets. These are:
+**Noise:** the noise dataset is built based on three different datasets:
 
 - [Clarity Enhancement Challenge (CEC1)](https://github.com/claritychallenge/clarity/tree/main/recipes/cec1): The Clarity Challenge noise dataset comprises around 7 hours of domestic noises. 
 - [DEMAND](https://zenodo.org/record/1227121#.YpZHLRPMLPY): The DEMAND noise dataset includes multi-channel recordings of 18 soundscapes that represent over 1 hour of data. Each soundscape is recorded using a 16-channel array.\*
 - [Deep Noise Supression challenge (DNS) 2nd version](https://github.com/microsoft/DNS-Challenge): The DNS dataset released in the second version of the challenge is composed by sounds from AudioSet, DEMAND and Freesound. In our selection we only consider audios that are obtained from Freesound.\*\* 
 
-All audios are single channel, downsampled to 16 KHz and a bit depth of 16.
-
 \* From DEMAND, we only select one channel per soundscape. Moreover, we don't consider soundscapes assigned to the "domestic" category to avoid overlapping with the sounds of the Clarity Challenge. Additionally, we remove the soundscape labeled as OMEETING because this example resembles the competing speaker scenario. 
 
 \*\* From DNS, we remove sounds that belong to the *Fan* category to avoid overlapping with Clarity Challenge sounds. As a result in our noise dataset there are 25 hours of data derived from DNS noises. 
 
-## Training, development, evaluation data
+## Datasets: training and development
 
-The dataset is divided into training and development data. 
-The evaluation dataset will be released later on. 
+* Training dataset: 
+  - 34,524 scenes (113hours:17mins:6secs)
+  - 605 target speakers
+  - interferers were selected from a pool of 405 competing speakers and 7,346 noise files (15 noise categories)
 
-The dataset is composed of:
+* Development dataset: 
+  - 3,365 scenes (9hrs:30mins:24secs)
+  - 85 target speakers
+  - interferers were selected from a pool of 30 competing speakers and 1,825 noise files (same 15 noise categories) 
 
-* Training set: 605 speakers (113hrs).
-* Development set: 85 speakers (9hrs)
+The data preparation script will generate, for each scene, the following files:
+- S00001_silent.mp4 (video without audio)
+- S00001_target.wav (target audio)
+- S00001_interferer.wav (interferer audio)
+- S00001_mixed.wav (mixed audio = target audio + interferer audio)
+where S00001 is the scene ID.
 
-## Training data
+Metadata on the scenes is provided as JSON files (scenes.train.json and scenes.dev.json). Metadata includes information such as scene ID, target, SNR, masker, masker type (speech/noise) and segment selection offset. 
 
-Each scene in the training set includes the following files:
-
-- Video -without audio- (.mp4)
-- Target (.wav)
-- Interferer (.wav)
-- Mix (.wav)
-
-Metadata is also provided as a JSON file. Metadata includes information such as scene number, target, masker, masker type (speech/noise) and segment selection offset. 
-
-## Development data
-
-Each scene in the development set includes the following files:
-
-- Video -without audio- (.mp4)
-- Target (.wav)
-- Interferer (.wav)
-- Mix (.wav)
-
-Metadata is also provided as a JSON file.
+Metadata on target speakers (target_speech_list.json) and interfereres (masker_noise_list.json, masker_speech_list.json) is also provided. These can be used to generate other scenes, i.e. a different selection of target, interferer and SNR.
 
 ## Evaluation
 

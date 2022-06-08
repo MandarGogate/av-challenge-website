@@ -10,8 +10,8 @@ Information about the speech and noise data can be found [here](https://challeng
 
 ## Building the scenes
 
-Training and development datasets are disjoint regarding speakers and noises. 
-Each scene is composed by a unique target and a unique noise.
+Training and development datasets are disjoint regarding speakers and noise files (but share same noise categories). 
+Each scene is composed by a unique target.
 
 **Target and Interferer selection**
 

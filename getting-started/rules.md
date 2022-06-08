@@ -12,7 +12,7 @@
 
 ## What information can I use?
 
-- Participants should only use the provided training data. It is not allowed to add own data for training purposes. 
+- Participants should only use the provided data, i.e. the noise audio files and the metadata files that define the list of target and competing speakers derived from the LRS3 dataset. It is not allowed to add own data for training purposes. 
 - Teams are allowed to create more training data using our provided tools and dataset. 
 - Participants are allowed to use audio-only or visual-only pretrained models, however, it is not allowed to use AV pretrained models. 
 
