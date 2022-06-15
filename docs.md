@@ -6,7 +6,21 @@ Human performance in everyday noisy situations is known to be dependent upon bot
 
 The aim of the first AVSEC Challenge is to bring together the wider computer vision, hearing and speech research communities to explore novel approaches to multimodal speech-in-noise processing. Both raw and pre-processed AV datasets – derived from TED talk videos – will be made available to participants for training and development of audio-visual models to perform speech enhancement and speaker separation at SNR levels that will be significantly more challenging than typically used in audio-only scenarios. Baseline models will be provided along with scripts for objective evaluation. Challenge evaluation will utilise established objective measures such as STOI and PESQ as well as subjective intelligibility tests with human subjects.
 
+### Announcements
 
+You can sign up to receive announcements at our mailing list (avse-challenge@mlist.is.ed.ac.uk).
+
+#### Subscribe
+Send a message to sympa@mlist.is.ed.ac.uk from the address you want to subscribe to the list.  
+In the subject line of your message, type in:  
+subscribe avse-challenge YourFirstName YourFamilyName  
+Leave the message body blank.
+
+#### Unsubscribe
+Send a message to sympa@mlist.is.ed.ac.uk from the address you used to subscribe to the list.  
+In the subject line of your message, type in:  
+unsubscribe avse-challenge  
+Leave the message body blank.
 
 ### Challenge Data
 - [Scene Generation](/challenge-data/scene-gen.md) - a description of the listening scenario and how it has been simulated.
