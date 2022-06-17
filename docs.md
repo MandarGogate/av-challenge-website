@@ -1,5 +1,10 @@
 # Overview
 
+<p align="center">
+  <img src="AVSE-challenge-diagram.pdf" alt="drawing" width="500"/>
+</p>
+
+
 ### Introduction
 
 Human performance in everyday noisy situations is known to be dependent upon both aural and visual senses that are contextually combined by the brain’s multi-level integration strategies. The multimodal nature of speech is well established, with listeners known to unconsciously lip read to improve the intelligibility of speech in a real noisy environment.  It has been shown that the visual aspect of speech has a potentially strong impact on the ability of humans to focus their auditory attention on a particular stimulus.
