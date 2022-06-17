@@ -1,7 +1,7 @@
 # Overview
 
 <p align="center">
-  <img src="AVSE-challenge-diagram.pdf" alt="drawing" width="500"/>
+  <img src="AVSE-challenge-diagram.pdf" alt="diagram" width="800"/>
 </p>
 
 
