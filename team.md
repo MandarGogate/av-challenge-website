@@ -30,6 +30,8 @@ International Scientific Committee:
 
 - Michael Akeroyd (Chair) (University of Nottingham, UK)
 - Yu Tsao (co-Chair) (CITI, Academia Sinica, Taiwan)
+- Bernd Meyer (Carl von Ossietzky University of Oldenburg, Germany)
+- Chris Davis (Western Sydney University, Australia)
 - Ahsan Adeel (University of Wolverhampton, UK)
 - Qammer Abbasi (University of Glasgow, UK)
 - Hsin-Min Wang (IIS, Academia Sinica, Taiwan)
