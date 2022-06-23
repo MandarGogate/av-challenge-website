@@ -33,6 +33,8 @@
 - Bernd Meyer (Carl von Ossietzky University of Oldenburg, Germany)
 - Chris Davis (Western Sydney University, Australia)
 - Sharon Gannot (Bar-Ilan University, Israel)
+- James M. Kates (University of Colorado, USA)
+- Volker Hohmann (Carl von Ossietzky University of Oldenburg, Germany)
 - Ahsan Adeel (University of Wolverhampton, UK)
 - Qammer Abbasi (University of Glasgow, UK)
 - Hsin-Min Wang (IIS, Academia Sinica, Taiwan)
