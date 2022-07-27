@@ -38,6 +38,9 @@ We have two types of interferers:
   - 85 target speakers
   - interferers were selected from a pool of 30 competing speakers and 1,825 noise files (same 15 noise categories) 
 
+* Evaluation dataset:
+  - 1,389 scenes (2hrs 23mins)
+
 The data preparation script will generate, for each scene, the following files:
 - S00001_silent.mp4 (video without audio)
 - S00001_target.wav (target audio)
