@@ -54,7 +54,8 @@ Metadata on target speakers (target_speech_list.json) and interfereres (masker_n
 
 ## Evaluation
 
-The evaluation set will be released later on. 
-
+The evaluation set can be downloaded from [this](https://data.cstr.ed.ac.uk/cogmhear/protected/avse1_evalset.tar) link.
+To download it, use the credentials you received after registering for the challenge.
+Hint: credentials are the same as the ones used to download the noise maskers and the metadata. 
 
 
