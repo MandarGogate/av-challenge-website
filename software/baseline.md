@@ -10,4 +10,6 @@ You are free to use any parts of the baseline that are useful to you, and reconf
 
 The model code is available at: [GitHub](https://github.com/cogmhear/avse_challenge)
 
-The pretrained models is available at: [link](https://drive.google.com/file/d/1Jds9Bs51DKsiJD3D1zqSISR-w4elaMrp/view?usp=sharing)
+The pretrained models is available at: [link](https://data.cstr.ed.ac.uk/cogmhear/protected/avse1_baseline.ckpt)
+
+The credentials to download the pretrained model are the same as the ones used to download the noise maskers and the metadata.
