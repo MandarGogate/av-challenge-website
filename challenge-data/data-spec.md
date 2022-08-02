@@ -52,7 +52,7 @@ Metadata on the scenes is provided as JSON files (scenes.train.json and scenes.d
 
 Metadata on target speakers (target_speech_list.json) and interfereres (masker_noise_list.json, masker_speech_list.json) is also provided. These can be used to generate other scenes, i.e. a different selection of target, interferer and SNR.
 
-## Evaluation
+## Evaluation dataset
 
 The evaluation set can be downloaded from [this](https://data.cstr.ed.ac.uk/cogmhear/protected/avse1_evalset.tar) link.
 To download it, use the credentials you received after registering for the challenge.
