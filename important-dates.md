@@ -9,4 +9,4 @@
 - ~~1st Sept 2022~~ 10th Sept 2022: Submission deadline for evaluation
 - 12th Oct 2022: Early results release (NEW)
 - 1st Nov 2022: System description paper submission deadline
-- 9th Jan 2023: Results announced at SLT 2023
+- 9th Jan 2023: Results announced at SLT 2022 (taking place in January 2023)
