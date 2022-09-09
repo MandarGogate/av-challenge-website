@@ -6,7 +6,9 @@
 - Teams can be from one or more institutions.
 
 ## Transparency
-- Teams must submit a technical document to [2022 IEEE Spoken Language Technology Workshop](https://slt2022.org/#) describing the system/model and any external data and pre-existing tools, software and models used.
+- ~~Teams must submit a technical document to [2022 IEEE Spoken Language Technology Workshop](https://slt2022.org/#) describing the system/model and any external data and pre-existing tools, software and models used. ~~
+- Teams must submit a one page system description per entry by the 24th of September 2022.
+- Teams can also submit a paper to the AVSE challenge proceedings to be presented in the [2022 IEEE Spoken Language Technology Workshop](https://slt2022.org/#) (this paper will be peer reviewed). Paper submission deadline is the 1st of November 2022.
 - Teams are encouraged – but not required – to provide us with access to the system/model and to make their code open source.
 - Anonymous entries are not allowed.
 
