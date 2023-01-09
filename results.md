@@ -6,8 +6,13 @@ You can find the AVSE Challenge paper in the following link:
 
 * Intelligibility scores (Table 1)
 
+| **null** | **null** | **null** | **null** | **null** | **Speech** | **null** | **null** | **Noise** | **null** |
+|----------|----------|----------|----------|----------|------------|----------|----------|-----------|----------|
+| System   | Overall  | Speech   | Noise    | low SNR  | mid SNR    | high SNR | low SNR  | mid SNR   | high SNR |
+| A        | 59.00    | 61.88    | 56.13    | 36.21    | 66.67      | 82.76    | 33.33    | 56.90     | 78.16    |
+| B        | 52.30    | 54.41    | 50.19    | 42.53    | 58.62      | 62.07    | 29.31    | 51.15     | 70.11    |
 
-|        |         |        |     :<td colspan=3>Speech:     <td colspan=3>Noise       | |     | |    || |
+|        |         |        |     <td colspan=3>:Speech:     <td colspan=3>Noise       | |     | |    || |
 |--------|---------|--------|-------|---------|---------|----------|---------|---------|----------|
 | System | Overall | Speech | Noise | low SNR | mid SNR | high SNR | low SNR | mid SNR | high SNR |
 | A      | 59.00   | 61.88  | 56.13 | 36.21   | 66.67   | 82.76    | 33.33   | 56.90   | 78.16    |
