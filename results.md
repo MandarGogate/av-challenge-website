@@ -1,8 +1,21 @@
 # Results
 
-In the following link you can access the AVSE Challenge paper:
+AVSE Challenge paper:
 
 [AVSE Challenge: Audio-Visual Speech Enhancement Challenge](https://www.research.ed.ac.uk/en/publications/avse-challenge-audio-visual-speech-enhancement-challenge)
+
+* Intelligibility scores (Table 1)
+
+|      |       |      |     |   |  Speech  |     |    | Noise   |     |
+|--------|---------|--------|-------|---------|---------|----------|---------|---------|----------|
+| System | Overall | Speech | Noise | low SNR | mid SNR | high SNR | low SNR | mid SNR | high SNR |
+| A      | 59.00   | 61.88  | 56.13 | 36.21   | 66.67   | 82.76    | 33.33   | 56.90   | 78.16    |
+| B      | 52.30   | 54.41  | 50.19 | 42.53   | 58.62   | 62.07    | 29.31   | 51.15   | 70.11    |
+
+Table 1. Word intelligibility scores (\%) calculated across all conditions (Overall), per masker: Speech (competing speaker) and Noise, and per masker and SNR (low, mid, high). 
+A higher score means more intelligible. 
+Scores were calculated as the percentage of words correctly identified, computed for each participant and averaged across participants.
+Differences larger than the Fisher's least significant difference (LSD) are significant. Scores were calculated from the responses of 87 participants.
 
 
 * STOI results (Table 2)
@@ -16,6 +29,6 @@ In the following link you can access the AVSE Challenge paper:
 Table 2. STOI scores (0-1) calculated across all conditions (Overall), per masker: Speech (competing speaker)
 and Noise, and per masker and SNR (low, mid, high). A higher score means more intelligible. Scores were
 calculated per sentence and averaged across sentences.
-2
+
 
 
