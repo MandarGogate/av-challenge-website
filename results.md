@@ -28,7 +28,7 @@ Scores were calculated as the percentage of words correctly identified, computed
 Differences larger than the Fisher's least significant difference (LSD) are significant. Scores were calculated from the responses of 87 participants.
 
 
-* STOI results (Table 2)
+* STOI scores (Table 2)
 
 |      |       |      |     |   |  Speech  |     |    | Noise   |     |
 |--------|---------|--------|-------|---------|---------|----------|---------|---------|----------|
