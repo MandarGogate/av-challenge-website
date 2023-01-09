@@ -1,6 +1,6 @@
 # Results
 
-AVSE Challenge paper:
+You can find the AVSE Challenge paper in the following link:
 
 [AVSE Challenge: Audio-Visual Speech Enhancement Challenge](https://www.research.ed.ac.uk/en/publications/avse-challenge-audio-visual-speech-enhancement-challenge)
 
