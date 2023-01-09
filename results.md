@@ -7,7 +7,7 @@ In the following link you can access the AVSE Challenge paper:
 
 * STOI results
 
-|      |       |      |     |   Speech      |    | Noise   |     |
+|      |       |      |     |   |  Speech  |     |    | Noise   |     |
 |--------|---------|--------|-------|---------|---------|----------|---------|---------|----------|
 | System | Overall | Speech | Noise | low SNR | mid SNR | high SNR | low SNR | mid SNR | high SNR |
 | A      | 0.593   | 0.593  | 0.594 | 0.415   | 0.595   | 0.769    | 0.420   | 0.597   | 0.764    |
