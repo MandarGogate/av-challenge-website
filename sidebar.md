@@ -11,5 +11,5 @@
 - Download
   - [Baseline model and Data](/download.md)
 - Results
-  - [AVSE results](/results.md)
+  - [AVSE Challenge results](/results.md)
 - [FAQ](/faq.md)
