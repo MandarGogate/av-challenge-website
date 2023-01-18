@@ -13,12 +13,6 @@ The aim of the first Audio-Visual Speech Enhancement (AVSE) Challenge is to brin
 
 ### Announcements
 
-## 2nd edition of the AVSE Challenge
-
-We are conducting a 2nd edition of the Audio-Visual Speech Enhancement challenge in 2023. Further details about the submission deadline will be shared in the upcoming weeks. We will run the 2nd edition of the Challenge using identical train and dev datasets to those used in the 1st edition.
-
-## Mailing list 
-
 You can sign up to receive announcements at our mailing list (avse-challenge@mlist.is.ed.ac.uk).
 
 #### Subscribe
@@ -32,6 +26,10 @@ Send a message to sympa@mlist.is.ed.ac.uk from the address you used to subscribe
 In the subject line of your message, type in:  
 unsubscribe avse-challenge  
 Leave the message body blank.
+
+#### 2nd edition of the AVSE Challenge
+
+We are conducting a 2nd edition of the Audio-Visual Speech Enhancement challenge in 2023. Further details about the submission deadline will be shared in the upcoming weeks. We will run the 2nd edition of the Challenge using identical train and dev datasets to those used in the 1st edition.
 
 ### Challenge Data
 
