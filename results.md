@@ -1,36 +1,33 @@
-# Results
+# AVSE Challenge 2022 results
 
-You can find the AVSE Challenge paper in the following link:
+You can find the AVSE Challenge 2022 paper in the following link:
 
 [AVSE Challenge: Audio-Visual Speech Enhancement Challenge](https://www.research.ed.ac.uk/en/publications/avse-challenge-audio-visual-speech-enhancement-challenge)
 
-* Word intelligibility scores (Table 1)
+## Word intelligibility scores
 
-|          |          |          |          |          | **Speech** |          |          | **Noise** |          |
-|----------|----------|----------|----------|----------|------------|----------|----------|-----------|----------|
-| System   | Overall  | Speech   | Noise    | low SNR  | mid SNR    | high SNR | low SNR  | mid SNR   | high SNR |
-| A        | 59.00    | 61.88    | 56.13    | 36.21    | 66.67      | 82.76    | 33.33    | 56.90     | 78.16    |
-| B        | 52.30    | 54.41    | 50.19    | 42.53    | 58.62      | 62.07    | 29.31    | 51.15     | 70.11    |
-| C          | 50.29       | 57.09      | 43.49     | 39.08       | 65.52       | 66.67        | 22.41       | 44.25       | 63.79        |
-| D          | 50.19       | 51.53      | 48.85     | 30.46       | 63.79       | 60.34        | 21.84       | 44.83       | 79.89        |
-| E          | 66.57       | 83.72      | 49.43     | 72.41       | 90.80       | 87.93        | 24.71       | 52.87       | 70.69        |
-| F          | 68.77       | 80.65      | 56.90     | 66.09       | 83.91       | 91.95        | 35.06       | 58.62       | 77.01        |
-| G          | 66.19       | 79.12      | 53.26     | 77.01       | 86.78       | 73.56        | 27.01       | 52.87       | 79.89        |
-| H          | 65.23       | 71.84      | 58.62     | 68.39       | 78.16       | 68.97        | 35.63       | 63.22       | 77.01        |
-| I          | 63.31       | 72.22      | 54.41     | 73.56       | 70.69       | 72.41        | 29.89       | 60.92       | 72.41        |
-| J          | 52.68       | 52.87      | 52.49     | 28.74       | 65.52       | 64.37        | 27.01       | 56.9        | 73.56        |
-| LSD        | 3.35        | 4.55       | 4.73      | 8.07        | 7.35        | 7.43         | 8.02        | 7.77        | 7.39         |
-
-
-Table 1. Word intelligibility scores (\%) calculated across all conditions (Overall), per masker: Speech (competing speaker) and Noise, and per masker and SNR (low, mid, high). 
-A higher score means more intelligible. 
-Scores were calculated as the percentage of words correctly identified, computed for each participant and averaged across participants.
-Differences larger than the Fisher's least significant difference (LSD) are significant. Scores were calculated from the responses of 87 participants.
+|          |                 |          |          |          |            | **Speech** |          |          | **Noise** |          |
+|----------|-----------------|----------|----------|----------|------------|------------|----------|----------|-----------|----------|
+| System   | Name            | Overall  | Speech   | Noise    | low SNR    | mid SNR    | high SNR | low SNR  | mid SNR   | high SNR |
+| A        | Original        | 59.00    | 61.88    | 56.13    | 36.21      | 66.67      | 82.76    | 33.33    | 56.90     | 78.16    |
+| B        | Baseline        | 52.30    | 54.41    | 50.19    | 42.53      | 58.62      | 62.07    | 29.31    | 51.15     | 70.11    |
+| C        | AVSE01          | 50.29    | 57.09    | 43.49    | 39.08      | 65.52      | 66.67    | 22.41    | 44.25     | 63.79    |
+| D        | SLT_AVSE        | 50.19    | 51.53    | 48.85    | 30.46      | 63.79      | 60.34    | 21.84    | 44.83     | 79.89    |
+| E        | ENU_AVSE        | 66.57    | 83.72    | 49.43    | 72.41      | 90.80      | 87.93    | 24.71    | 52.87     | 70.69    |
+| F        | ENU_AVSE_2      | 68.77    | 80.65    | 56.90    | 66.09      | 83.91      | 91.95    | 35.06    | 58.62     | 77.01    |
+| G        | BioASP_CITI     | 66.19    | 79.12    | 53.26    | 77.01      | 86.78      | 73.56    | 27.01    | 52.87     | 79.89    |
+| H        | BioASP_CITI_CE1 | 65.23    | 71.84    | 58.62    | 68.39      | 78.16      | 68.97    | 35.63    | 63.22     | 77.01    |
+| I        | BioASP_CITI_CE2 | 63.31    | 72.22    | 54.41    | 73.56      | 70.69      | 72.41    | 29.89    | 60.92     | 72.41    |
+| J        | CogBiD          | 52.68    | 52.87    | 52.49    | 28.74      | 65.52      | 64.37    | 27.01    | 56.9      | 73.56    |
+| LSD      | -               | 3.35     | 4.55     | 4.73     | 8.07       | 7.35       | 7.43     | 8.02     | 7.77      | 7.39     |
 
 
-* STOI scores (Table 2)
+Word intelligibility scores (\%) calculated across all conditions (Overall), per masker: Speech (competing speaker) and Noise, and per masker and SNR (low, mid, high). A higher score means more intelligible. Scores were calculated as the percentage of words correctly identified, computed for each participant and averaged across participants. Differences larger than the Fisher's least significant difference (LSD) are significant. Scores were calculated from the responses of 87 participants.
 
-|      |       |      |     |   |  Speech  |     |    | Noise   |     |
+
+## STOI scores
+
+|        |         |        |       |         |  Speech |          |         | Noise   |          |
 |--------|---------|--------|-------|---------|---------|----------|---------|---------|----------|
 | System | Overall | Speech | Noise | low SNR | mid SNR | high SNR | low SNR | mid SNR | high SNR |
 | A      | 0.593   | 0.593  | 0.594 | 0.415   | 0.595   | 0.769    | 0.420   | 0.597   | 0.764    |
@@ -44,10 +41,23 @@ Differences larger than the Fisher's least significant difference (LSD) are sign
 | I      | 0.739   | 0.774  | 0.705 | 0.766   | 0.764   | 0.792    | 0.535   | 0.747   | 0.833    |
 | J      | 0.653   | 0.632  | 0.674 | 0.542   | 0.663   | 0.690    | 0.501   | 0.708   | 0.813    |
 
+STOI scores (0-1) calculated across all conditions (Overall), per masker: Speech (competing speaker) and Noise, and per masker and SNR (low, mid, high). A higher score means more intelligible. Scores were calculated per sentence and averaged across sentences.
 
-Table 2. STOI scores (0-1) calculated across all conditions (Overall), per masker: Speech (competing speaker)
-and Noise, and per masker and SNR (low, mid, high). A higher score means more intelligible. Scores were
-calculated per sentence and averaged across sentences.
+## Systems description
+
+Original refers to the non-enhanced noisy mixes.
+
+The description of baseline cab be found in the AVSE Challenge paper available [here].(https://www.research.ed.ac.uk/en/publications/avse-challenge-audio-visual-speech-enhancement-challenge)
+
+One page submission descriptions:  
+[AVSE01](submissions/2022/AVSE01.pdf)  
+[SLT_AVSE](submissions/2022/SLT_AVSE.pdf)  
+[ENU_AVSE](submissions/2022/ENU_AVSE.pdf)  
+[ENU_AVSE_2](submissions/2022/ENU_AVSE_2.pdf)  
+[BioASP_CITI](submissions/2022/BioASP_CITI.pdf)  
+[BioASP_CITI_CE1](submissions/2022/BioASP_CITI_CE1.pdf)  
+[BioASP_CITI_CE2](submissions/2022/BioASP_CITI_CE2.pdf)  
+[CogBiD](submissions/2022/CogBiD.pdf)  
 
 
 

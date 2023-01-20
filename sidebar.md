@@ -11,5 +11,5 @@
 - Download
   - [Baseline model and Data](/download.md)
 - Results
-  - [AVSE Challenge results](/results.md)
+  - [AVSE Challenge 2022 results](/results.md)
 - [FAQ](/faq.md)
