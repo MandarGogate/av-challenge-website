@@ -50,14 +50,14 @@ Original refers to the non-enhanced noisy mixes.
 The description of baseline cab be found in the AVSE Challenge paper available [here](https://www.research.ed.ac.uk/en/publications/avse-challenge-audio-visual-speech-enhancement-challenge).
 
 One page submission descriptions:  
-[AVSE01](/submissions/2022/AVSE01.pdf)  
-[SLT_AVSE](/submissions/2022/SLT_AVSE.pdf)  
-[ENU_AVSE](/submissions/2022/ENU_AVSE.pdf)  
-[ENU_AVSE_2](/submissions/2022/ENU_AVSE_2.pdf)  
-[BioASP_CITI](/submissions/2022/BioASP_CITI.pdf)  
-[BioASP_CITI_CE1](/submissions/2022/BioASP_CITI_CE1.pdf)  
-[BioASP_CITI_CE2](/submissions/2022/BioASP_CITI_CE2.pdf)  
-[CogBiD](/submissions/2022/CogBiD.pdf)  
+[AVSE01](https://challenge.cogmhear.org/submissions/2022/AVSE01.pdf)  
+[SLT_AVSE](https://challenge.cogmhear.org/submissions/2022/SLT_AVSE.pdf)  
+[ENU_AVSE](https://challenge.cogmhear.org/submissions/2022/ENU_AVSE.pdf)  
+[ENU_AVSE_2](https://challenge.cogmhear.org/submissions/2022/ENU_AVSE_2.pdf)  
+[BioASP_CITI](https://challenge.cogmhear.org/submissions/2022/BioASP_CITI.pdf)  
+[BioASP_CITI_CE1](https://challenge.cogmhear.org/submissions/2022/BioASP_CITI_CE1.pdf)  
+[BioASP_CITI_CE2](https://challenge.cogmhear.org/submissions/2022/BioASP_CITI_CE2.pdf)  
+[CogBiD](https://challenge.cogmhear.org/submissions/2022/CogBiD.pdf)  
 
 
 
