@@ -47,7 +47,7 @@ STOI scores (0-1) calculated across all conditions (Overall), per masker: Speech
 
 Original refers to the non-enhanced noisy mixes.
 
-The description of baseline cab be found in the AVSE Challenge paper available [here].(https://www.research.ed.ac.uk/en/publications/avse-challenge-audio-visual-speech-enhancement-challenge)
+The description of baseline cab be found in the AVSE Challenge paper available [here](https://www.research.ed.ac.uk/en/publications/avse-challenge-audio-visual-speech-enhancement-challenge).
 
 One page submission descriptions:  
 [AVSE01](submissions/2022/AVSE01.pdf)  
