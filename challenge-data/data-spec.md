@@ -8,7 +8,7 @@ All audio files are single channel, downsampled to 16 kHz and a bit depth of 16.
 
 ## Target
 
-The target data is composed of videos retrieved from the [LRS3 dataset](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs3.html). LRS3 is composed by spoken sentences from TED and TEDx videos. 
+The target data is composed of videos retrieved from the [LRS3 dataset](https://mm.kaist.ac.kr/datasets/lip_reading/). LRS3 is composed by spoken sentences from TED and TEDx videos. 
 
 ## Interferers
 
