@@ -14,7 +14,7 @@ The target data is composed of videos retrieved from the [LRS3 dataset](https://
 
 We have two types of interferers:
 
-**Speech:** competing speakers are derived from the [LRS3 dataset](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs3.html). Competing speakers and target speakers are disjoint sets.
+**Speech:** competing speakers are derived from the [LRS3 dataset](https://mm.kaist.ac.kr/datasets/lip_reading/). Competing speakers and target speakers are disjoint sets.
 
 **Noise:** the noise dataset is built based on three different datasets:
 
