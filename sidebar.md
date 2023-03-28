@@ -2,7 +2,7 @@
   * [Scene Generation](/challenge-data/scene-gen.md)
   * [Data Specifications](/challenge-data/data-spec.md)
 - Software
-  * [Baseline System](/software/baseline.md)
+  * [Baseline System](/underdev.md)
   * [Core Software](/software/core.md)
 - Taking Part
   * [Registration](/getting-started/register.md)
@@ -10,6 +10,7 @@
   * [Rules](/getting-started/rules.md)
 - Download
   - [Baseline model and Data](/download.md)
-- Results
-  - [AVSE Challenge 2022 results](/results.md)
+- [Results](/underdev.md)
+
+[//]: # (  - [AVSE Challenge 2022 results]&#40;/results.md&#41;)
 - [FAQ](/faq.md)

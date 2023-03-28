@@ -1,7 +1,9 @@
 <!-- _navbar.md -->
-* [Home](/)
+* [AVSE Challenge 2023](/)
 * [Documentation](/docs)
-* [Important dates](/important-dates)
+* [Important dates](/underdev.md)
 * [Team](/team)
 * [GitHub](https://github.com/cogmhear/avse_challenge)
+* Previous Challenges
+    * [AVSE Challenge 2022](/avsec1/)
 * [Contact Us](/contact)
