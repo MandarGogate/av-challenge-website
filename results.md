@@ -1,10 +1,11 @@
 # AVSE Challenge 2022 results
 
-Results from the 1st edition can be found [here](/avsec1/results.md)
+Results from the 1st edition can be found [here](/avsec1/results.md).
 
-You can find the AVSE Challenge 2022 paper in the following link:
+[//]: # (You can find the AVSE Challenge 2022 paper in the following link:)
 
-[AVSE Challenge: Audio-Visual Speech Enhancement Challenge](https://www.research.ed.ac.uk/en/publications/avse-challenge-audio-visual-speech-enhancement-challenge)
+[//]: # ()
+[//]: # ([AVSE Challenge: Audio-Visual Speech Enhancement Challenge]&#40;https://www.research.ed.ac.uk/en/publications/avse-challenge-audio-visual-speech-enhancement-challenge&#41;)
 
 # AVSE Challenge 2023 results
 
