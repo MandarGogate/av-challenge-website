@@ -6,19 +6,28 @@
 - Teams can be from one or more institutions.
 
 ## Transparency
-- ~~Teams must submit a technical document to [2022 IEEE Spoken Language Technology Workshop](https://slt2022.org/#) describing the system/model and any external data and pre-existing tools, software and models used.~~
+
+[//]: # (- ~~Teams must submit a technical document to [2022 IEEE Spoken Language Technology Workshop]&#40;https://slt2022.org/#&#41; describing the system/model and any external data and pre-existing tools, software and models used.~~)
 - Teams must submit a one page system description per entry (date TBA).
-- Teams can also submit a paper to the AVSE challenge proceedings to be presented in the [2023 Workshop on Automatic Speech Recognition and Understanding (ASRU)](http://www.asru2023.org/) (this paper will be peer reviewed). Paper submission deadline is the 3rd of July 2023.
+- Teams can also submit a paper to the AVSE challenge proceedings to be presented in the [2023 Workshop on Automatic Speech Recognition and Understanding](http://www.asru2023.org/) (this paper will be peer reviewed). Paper submission deadline is the 3rd of July 2023.
 - Teams are encouraged – but not required – to provide us with access to the system/model and to make their code open source.
 - Anonymous entries are not allowed.
 
 ## What information can I use?
+
+### Track 1:
 
 - Participants should only use the provided data, i.e. the noise audio files and the metadata files that define the list of target and competing speakers derived from the LRS3 dataset. It is not allowed to add own data for training purposes. 
 - Teams are allowed to create more training data using our provided tools and dataset. 
 - Participants are allowed to use audio-only or visual-only pretrained models, however, it is not allowed to use AV pretrained models. 
 
 <!-- There is no limit on the amount of training data that can be generated using our tools and training data sets. Teams can also use their own data for training or expand the training data through simple automated modifications.  -->
+
+### Track 2:
+
+- Participants are allowed to use additional data as long as it is publicly available or is made available to other participants in the Challenge.
+- Teams are allowed to create more training data using our provided tools and dataset. 
+- Participants are allowed to use pretrained models as long as they are publicly available or are made available to other participants in the Challenge.
 
 ## Computational restrictions
 
