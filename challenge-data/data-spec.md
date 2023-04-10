@@ -1,6 +1,6 @@
 # Data
 
-To obtain the necessary data and baseline code, please regsiter for the challenge. You will then get a link for the download page and the necessary credentials to download it.
+To obtain the necessary data and baseline code, please register for the challenge. You will then get a link for the download page and the necessary credentials to download it.
 
 Data preparation scripts are located in our [GitHub page](https://github.com/cogmhear/avse_challenge) (see readme on "Data preparation").
 
@@ -38,8 +38,12 @@ We have two types of interferers:
   - 85 target speakers
   - interferers were selected from a pool of 30 competing speakers and 1,825 noise files (same 15 noise categories) 
 
+[//]: # (* Evaluation dataset:)
+
+[//]: # (  - 1,389 scenes &#40;2hrs 23mins&#41;)
+
 * Evaluation dataset:
-  - 1,389 scenes (2hrs 23mins)
+TBA
 
 The data preparation script will generate, for each scene, the following files:
 - S00001_silent.mp4 (video without audio)
@@ -54,8 +58,10 @@ Metadata on target speakers (target_speech_list.json) and interfereres (masker_n
 
 ## Evaluation dataset
 
-The evaluation set can be downloaded from [this](https://data.cstr.ed.ac.uk/cogmhear/protected/avse1_evalset.tar) link.
-To download it, use the credentials you received after registering for the challenge.
-Hint: credentials are the same as the ones used to download the noise dataset and the metadata. 
+[//]: # (The evaluation set can be downloaded from [this]&#40;https://data.cstr.ed.ac.uk/cogmhear/protected/avse1_evalset.tar&#41; link.)
 
+[//]: # (To download it, use the credentials you received after registering for the challenge.)
 
+[//]: # (Hint: credentials are the same as the ones used to download the noise dataset and the metadata. )
+
+The evaluation set will be released on the 15th of May. 

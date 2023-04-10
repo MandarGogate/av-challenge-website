@@ -29,7 +29,9 @@ Leave the message body blank.
 
 #### 2nd edition of the AVSE Challenge
 
-We are conducting a 2nd edition of the Audio-Visual Speech Enhancement challenge in 2023. Further details about the submission deadline will be shared in the upcoming weeks. We will run the 2nd edition of the Challenge using identical train and dev datasets to those used in the 1st edition.
+We are conducting a 2nd edition of the Audio-Visual Speech Enhancement challenge in 2023. We will run the 2nd edition of the Challenge using identical train and dev datasets to those used in the 1st edition.
+
+Information about the submission deadline is available [here](/important-dates.md).
 
 ### Challenge Data
 
