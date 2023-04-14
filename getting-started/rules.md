@@ -22,20 +22,18 @@
 
 <!-- There is no limit on the amount of training data that can be generated using our tools and training data sets. Teams can also use their own data for training or expand the training data through simple automated modifications.  -->
 
-[//]: # (### Track 2:)
+### Track 2:
 
-[//]: # ()
-[//]: # (- Participants are allowed to use additional data as long as it is publicly available or is made available to other participants in the Challenge.)
+- Participants are allowed to use additional data as long as it is publicly available or is made available to other participants in the Challenge.
 
-[//]: # (- Teams are allowed to create more training data using our provided tools and dataset. )
+- Teams are allowed to create more training data using our provided tools and dataset. 
 
-[//]: # (- Participants are allowed to use pretrained models as long as they are publicly available or are made available to other participants in the Challenge.)
+- Participants are allowed to use pretrained models as long as they are publicly available or are made available to other participants in the Challenge.
 
 ## Computational restrictions
 
 - Teams may choose to use all, some or none of the parts of the baseline model.
 - There is no limit on computational cost.
-
 
 ## Intellectual property
 
