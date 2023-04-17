@@ -14,7 +14,7 @@
 
 ## What information can I use?
 
-[//]: # (### Track 1:)
+### Track 1:
 
 - Participants should only use the provided data, i.e. the noise audio files and the metadata files that define the list of target and competing speakers derived from the LRS3 dataset. It is not allowed to add own data for training purposes. 
 - Teams are allowed to create more training data using our provided tools and dataset. 
@@ -24,11 +24,9 @@
 
 ### Track 2:
 
-- Participants are allowed to use additional data as long as it is publicly available or is made available to other participants in the Challenge.
-
-- Teams are allowed to create more training data using our provided tools and dataset. 
-
-- Participants are allowed to use pretrained models as long as they are publicly available or are made available to other participants in the Challenge.
+- Participants are allowed to use additional training data as long as it is publicly available or is made available to other participants in the Challenge.
+- Teams are allowed to create more training data using our provided tools and dataset.
+- Participants are allowed to use AV pretrained models as long as they are publicly available or are made available to other participants in the Challenge.
 
 ## Computational restrictions
 
