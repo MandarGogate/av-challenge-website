@@ -1,1 +1,1 @@
-<iframe src="https://mandargogate.github.io/avsec_lb/" style="width:100%; height:100%;" scrolling="auto"></iframe>
+<iframe src="https://mandargogate.github.io/avsec_lb/" style="width:100%; height:600px;" scrolling="auto"></iframe>
