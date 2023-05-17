@@ -43,7 +43,7 @@ We have two types of interferers:
 [//]: # (  - 1,389 scenes &#40;2hrs 23mins&#41;)
 
 * Evaluation dataset:
-  - 2792 scenes (4hours 32mins). Divided into 1396 scenes for leadeboard and 1396 scenes for listening test (2hours 16 minutes each).
+  - 2,792 scenes (4hours 32mins). Divided into 1,396 scenes for leadeboard and 1,396 scenes for listening test (2hours 16 minutes each).
 
 The data preparation script will generate, for each scene, the following files:
 - S00001_silent.mp4 (video without audio)
