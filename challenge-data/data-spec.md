@@ -58,15 +58,9 @@ Metadata on target speakers (target_speech_list.json) and interfereres (masker_n
 
 ## Evaluation dataset
 
-[//]: # (The evaluation set can be downloaded from [this]&#40;https://data.cstr.ed.ac.uk/cogmhear/protected/avse1_evalset.tar&#41; link.)
+The evaluation for the 2nd edition of the challenge set can be downloaded from [this](https://data.cstr.ed.ac.uk/cogmhear/protected/avsec2_evalset.tar) link.
 
-[//]: # (To download it, use the credentials you received after registering for the challenge.)
+To download it, use the credentials you received after registering for the challenge.
 
-[//]: # (Hint: credentials are the same as the ones used to download the noise dataset and the metadata. )
+Hint: credentials are the same as the ones used to download the noise dataset and the metadata
 
-#The evaluation set will be released on the 15th of May. 
-The evaluation dataset for the 2nd edition of the challenge can be downloaded [here](https://data.cstr.ed.ac.uk/cogmhear/protected/avsec2_evalset.tar).
-
-The credentials are the same used to download the train/dev noises.
-
-If you don't have access to the credentials, please register [here](https://challenge.cogmhear.org/#/getting-started/register).
