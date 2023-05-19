@@ -10,7 +10,7 @@
   * [Rules](/getting-started/rules.md)
 - Download
   - [Baseline model and Data](/download.md)
-- [Results]
+- Results
   - [Listening tests](/results.md)
   - [Leaderboard](/leaderboard.md)
 
