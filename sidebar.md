@@ -10,7 +10,9 @@
   * [Rules](/getting-started/rules.md)
 - Download
   - [Baseline model and Data](/download.md)
-- [Results](/results.md)
+- [Results]
+  - [Listening tests](/results.md)
+  - [Leaderboard](/leaderboard.md)
 
 [//]: # (  - [AVSE Challenge 2022 results]&#40;/results.md&#41;)
 - [FAQ](/faq.md)
