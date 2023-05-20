@@ -2,7 +2,7 @@
   * [Scene Generation](/challenge-data/scene-gen.md)
   * [Data Specifications](/challenge-data/data-spec.md)
 - Software
-  * [Baseline System](/underdev.md)
+  * [Baseline System](/software/baseline.md)
   * [Core Software](/software/core.md)
 - Taking Part
   * [Registration](/getting-started/register.md)
