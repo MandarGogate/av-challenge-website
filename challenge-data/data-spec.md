@@ -73,7 +73,7 @@ For each set we provide the following landmarks:
 3) Lip embedding
 4) Lips: cropped video (lip region)
 
-- Dev landmarks can download at: 
+- Dev landmarks can be downloaded from the following link: 
 
 https://data.cstr.ed.ac.uk/cogmhear/protected/dev_face_landmarks.tar (9.1 GB) 
 
