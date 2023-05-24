@@ -64,3 +64,23 @@ To download it, use the credentials you received after registering for the chall
 
 Hint: credentials are the same as the ones used to download the noise dataset and the metadata
 
+## Face landmarks train/dev sets
+
+For each set we provide the following landmarks:
+
+1) Face embedding
+2) Facemesh landmark
+3) Lip embedding
+4) Lips: cropped video (lip region)
+
+- Dev landmarks can download at: 
+
+https://data.cstr.ed.ac.uk/cogmhear/protected/dev_face_landmarks.tar (9.1 GB) 
+
+- Train landmarks are split into the following links/files:
+
+Train set face embeddings: https://data.cstr.ed.ac.uk/cogmhear/protected/train_face_embedding.tar (36 GB) 
+Train set facemesh landmark: https://data.cstr.ed.ac.uk/cogmhear/protected/train_facemesh_landmark.tar (24 GB) 
+Train set lip embedding: https://data.cstr.ed.ac.uk/cogmhear/protected/train_lip_embedding.tar (18 GB) 
+Train set lips cropped video: https://data.cstr.ed.ac.uk/cogmhear/protected/train_video_lips.zip (4.2 GB) 
+
