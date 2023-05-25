@@ -68,10 +68,10 @@ Hint: credentials are the same as the ones used to download the noise dataset an
 
 For each set we provide the following landmarks:
 
-1) Face embedding
-2) Facemesh landmark
-3) Lip embedding
-4) Lips: cropped video (lip region)
+1) Face embedding: embedding of the face region extracted using FaceNet model.
+2) Facemesh landmark: 486 point 3D landmarks of face extracted using google mediapipe library.
+3) Lip embedding: these are embeddings from the models trained to do the visual speech recognition or lip reading.
+4) Lips: lip region extracted using facemesh landmark.
 
 - Dev landmarks can be downloaded from the following link: 
 
@@ -89,3 +89,6 @@ Train set lips cropped video: https://data.cstr.ed.ac.uk/cogmhear/protected/trai
 
 To download them, use the credentials you received after registering for the challenge.
 
+- Aditiionally, we provide scripts for extracting face landmarks. These are available at:
+
+https://github.com/cogmhear/avsec_preprocessing
