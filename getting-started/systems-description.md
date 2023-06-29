@@ -6,6 +6,8 @@ We encourage teams to report the following elements as part of their system desc
 - FLOPS.
 - Number of training steps.
 - Latency (with hardware specifications).
+- Real-time factor (RTF) if model is causal.
+- Training time (e.g. time per epoch)
 - Memory footprint, e.g., memory usage during training, inference, model loading.
 - Hardware specifications (CPU, GPU, TPU, memory capacity) used for training and inference.
 - Number and type of GPUs used.
