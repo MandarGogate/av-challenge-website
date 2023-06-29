@@ -2,7 +2,6 @@
 
 Challenge entrants are supplied with a fully functioning baseline model. Figure 1 shows a simplified schematic:
 
-![Alt text](https://github.com/MandarGogate/av-challenge-website/blob/master/software/AVSEC2.png)
 ![Alt text](AVSEC2.png)
 
 
