@@ -3,7 +3,15 @@
 
 # Evaluation
 
-Evaluation of the systems will be performed by running listening tests with human participants. Further details about the evaluation process will be added later on. 
+Evaluation of the systems will be performed by running listening tests with human participants. 
+
+A few remarks about the submission:
+
+- We expect submissions to contain enhanced audio samples only (just the audio files). 
+- If the audio files contain a different number of samples than the original files, we will zero pad (or trim) the signals before merging them to the video.
+- Teams can submit one primary and one contrastive entry per track; however, we reserve the right not to include all contrastive entries in the subjective evaluation due to time constraints.
+
+Please submit your entry (or entries) using the the provided Google From link (sent through communications in the mailing list).
 
 [//]: # (# Journal Special Issue)
 
