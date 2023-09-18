@@ -9,7 +9,7 @@ Results from the 1st edition can be found [here](/avsec1/results.md).
 
 # AVSE Challenge 2023 results
 
-TBA
+Listening test results will be announced to participating teams between the 25th and 28th of September. 
 
 [//]: # (## Word intelligibility scores)
 
