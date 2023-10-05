@@ -40,9 +40,9 @@ Word intelligibility scores (\%) calculated across all conditions (Overall), per
 
 ## Systems description
 
-The description of baseline cab be found in the AVSE Challenge paper available [here](https://www.research.ed.ac.uk/en/publications/avse-challenge-audio-visual-speech-enhancement-challenge).
+The description of baseline can be found in the AVSE Challenge paper available [here](https://www.research.ed.ac.uk/en/publications/avse-challenge-audio-visual-speech-enhancement-challenge).
 
-The evaluation protocol is described [here](https://www.research.ed.ac.uk/en/publications/efficient-intelligibility-evaluation-using-keyword-spotting-a-stu)
+The evaluation protocol is described [here](https://www.research.ed.ac.uk/en/publications/efficient-intelligibility-evaluation-using-keyword-spotting-a-stu).
 
 One page submission descriptions:  
 
