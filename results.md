@@ -9,7 +9,7 @@ Results from the 1st edition can be found [here](/avsec1/results.md).
 
 # AVSE Challenge 2023 results
 
-Listening test results were announced to participating teams between on the 28th of September. 
+Listening test results were announced to participating teams on the 28th of September/2023. 
 - A refers to the non-enhanced noisy mixes.
 - B is the baseline system.
 
