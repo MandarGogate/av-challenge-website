@@ -37,4 +37,17 @@ Word intelligibility scores (\%) calculated across all conditions (Overall), per
 
 ## Systems description
 
+[AVSE02 (dku_smiip)](https://challenge.cogmhear.org/submissions/2023/AVSE02 (dku_smiip).pdf)
+[BioASP_CITI](https://challenge.cogmhear.org/submissions/2023/BioASP_CITI.pdf)
+[CogBID](https://challenge.cogmhear.org/submissions/2023/CogBID.pdf)
+[Enhanced_AVSE2](https://challenge.cogmhear.org/submissions/2023/Enhanced_AVSE2.pdf)
+[ENU AVSE](https://challenge.cogmhear.org/submissions/2023/ENU AVSE.pdf)
+[ENU AVSS](https://challenge.cogmhear.org/submissions/2023/ENU AVSS.pdf)
+[ENU_JHU_1](https://challenge.cogmhear.org/submissions/2023/ENU_JHU_1.pdf)
+[ict_avsu](https://challenge.cogmhear.org/submissions/2023/ict_avsu.pdf)
+[MERL](https://challenge.cogmhear.org/submissions/2023/MERL.pdf)
+[rezzsl new 2](https://challenge.cogmhear.org/submissions/2023/rezzsl new 2.pdf)
+[try6](https://challenge.cogmhear.org/submissions/2023/try6.pdf)
+[TTIC](https://challenge.cogmhear.org/submissions/2023/TTIC.pdf)
+
 
