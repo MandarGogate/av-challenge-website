@@ -10,6 +10,9 @@ Results from the 1st edition can be found [here](/avsec1/results.md).
 # AVSE Challenge 2023 results
 
 Listening test results were announced to participating teams between on the 28th of September. 
+- A refers to the non-enhanced noisy mixes.
+- B is the baseline system.
+
 
 |          |          |          |          |            | **Speech** |          |          | **Noise** |          |
 |----------|----------|----------|----------|------------|------------|----------|----------|-----------|----------|
@@ -37,17 +40,23 @@ Word intelligibility scores (\%) calculated across all conditions (Overall), per
 
 ## Systems description
 
-[AVSE02 (dku_smiip)](https://challenge.cogmhear.org/submissions/2023/AVSE02 (dku_smiip).pdf)
-[BioASP_CITI](https://challenge.cogmhear.org/submissions/2023/BioASP_CITI.pdf)
-[CogBID](https://challenge.cogmhear.org/submissions/2023/CogBID.pdf)
-[Enhanced_AVSE2](https://challenge.cogmhear.org/submissions/2023/Enhanced_AVSE2.pdf)
-[ENU AVSE](https://challenge.cogmhear.org/submissions/2023/ENU AVSE.pdf)
-[ENU AVSS](https://challenge.cogmhear.org/submissions/2023/ENU AVSS.pdf)
-[ENU_JHU_1](https://challenge.cogmhear.org/submissions/2023/ENU_JHU_1.pdf)
-[ict_avsu](https://challenge.cogmhear.org/submissions/2023/ict_avsu.pdf)
-[MERL](https://challenge.cogmhear.org/submissions/2023/MERL.pdf)
-[rezzsl new 2](https://challenge.cogmhear.org/submissions/2023/rezzsl new 2.pdf)
-[try6](https://challenge.cogmhear.org/submissions/2023/try6.pdf)
-[TTIC](https://challenge.cogmhear.org/submissions/2023/TTIC.pdf)
+The description of baseline cab be found in the AVSE Challenge paper available [here](https://www.research.ed.ac.uk/en/publications/avse-challenge-audio-visual-speech-enhancement-challenge).
+
+The evaluation protocol is described [here](https://www.research.ed.ac.uk/en/publications/efficient-intelligibility-evaluation-using-keyword-spotting-a-stu)
+
+One page submission descriptions:  
+
+- [AVSE02 (dku_smiip)](https://challenge.cogmhear.org/submissions/2023/AVSE02 (dku_smiip).pdf)
+- [BioASP_CITI](https://challenge.cogmhear.org/submissions/2023/BioASP_CITI.pdf)
+- [CogBID](https://challenge.cogmhear.org/submissions/2023/CogBID.pdf)
+- [Enhanced_AVSE2](https://challenge.cogmhear.org/submissions/2023/Enhanced_AVSE2.pdf)
+- [ENU AVSE](https://challenge.cogmhear.org/submissions/2023/ENU AVSE.pdf)
+- [ENU AVSS](https://challenge.cogmhear.org/submissions/2023/ENU AVSS.pdf)
+- [ENU_JHU_1](https://challenge.cogmhear.org/submissions/2023/ENU_JHU_1.pdf)
+- [ict_avsu](https://challenge.cogmhear.org/submissions/2023/ict_avsu.pdf)
+- [MERL](https://challenge.cogmhear.org/submissions/2023/MERL.pdf)
+- [rezzsl new 2](https://challenge.cogmhear.org/submissions/2023/rezzsl new 2.pdf)
+- [try6](https://challenge.cogmhear.org/submissions/2023/try6.pdf)
+- [TTIC](https://challenge.cogmhear.org/submissions/2023/TTIC.pdf)
 
 
