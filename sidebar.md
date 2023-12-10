@@ -15,4 +15,4 @@
   - [Leaderboard](/leaderboard.md)
 
 [//]: # (  - [AVSE Challenge 2022 results]&#40;/results.md&#41;)
-- [FAQ](/faq.md)
+[//]: # (- [FAQ]&#40;/faq.md&#41;)

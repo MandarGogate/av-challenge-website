@@ -1,4 +1,4 @@
-# 2nd COG-MHEAR Audio-Visual Speech Enhancement Challenge (AVSE)
+# 3rd COG-MHEAR Audio-Visual Speech Enhancement Challenge (AVSE)
 ## A machine learning challenge for next-generation hearing devices
 
 ### Challenge Summary
