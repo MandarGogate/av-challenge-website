@@ -16,4 +16,4 @@ We encourage teams to report the following elements as part of their system desc
 - Any Known limitations or constraints of the developed system.
 - Any specific hardware or software requirements for running the system.
 
-Please submit your one page system description by the 21st of July 2023.
+Please submit your one page system description by the 20th June/2024.

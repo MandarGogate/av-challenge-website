@@ -13,9 +13,9 @@
 
 
 #### Challenge Technical Lead
+- Lorena Aldana (University of Edinburgh)
 - Mandar Gogate (Edinburgh Napier University)
 - Cassia Valentini Botinhao (University of Edinburgh)
-- Lorena Aldana (University of Edinburgh)
 
 #### Challenge Technical Co-Lead
 - Ondřej Klejch (University of Edinburgh)

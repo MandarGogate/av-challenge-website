@@ -54,5 +54,7 @@ Information about the submission deadline is available [here](/important-dates.m
 
 ### Results
 
-- [Listening test](/results.md)
-- [Leaderboard](/leaderboard.md)
+TBA
+
+[//]: # (- [Listening test]&#40;/results.md&#41;)
+[//]: # (- [Leaderboard]&#40;/leaderboard.md&#41;)
