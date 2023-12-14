@@ -2,8 +2,8 @@
 
 TBA
 
-Results from the 1st edition can be found [here](/avsec1/results.md).
-Results from the 2nd edition can be found [here](/avsec2/results.md). Listening test results were announced to participating teams on the 28th of September/2023. 
+- Results from the 1st edition can be found [here](/avsec1/results.md).
+- Results from the 2nd edition can be found [here](/avsec2/results.md). Listening test results were announced to participating teams on the 28th of September/2023. 
 
 
 [//]: # (You can find the AVSE Challenge 2022 paper in the following link:)
