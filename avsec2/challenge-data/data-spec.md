@@ -58,7 +58,7 @@ Metadata on target speakers (target_speech_list.json) and interfereres (masker_n
 
 ## Evaluation dataset
 
-The evaluation for the 2nd edition of the challenge set can be downloaded from [this](https://data.cstr.ed.ac.uk/cogmhear/protected/avsec2_evalset.tar) link.
+The evaluation dataset for the 2nd edition of the challenge can be downloaded from [this](https://data.cstr.ed.ac.uk/cogmhear/protected/avsec2_evalset.tar) link.
 
 To download it, use the credentials you received after registering for the challenge.
 

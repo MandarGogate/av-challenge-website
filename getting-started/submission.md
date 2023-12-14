@@ -13,7 +13,10 @@ A few remarks about the submission:
 - If the audio files contain a different number of samples than the original files, we will zero pad (or trim) the signals before merging them to the video.
 - Teams can submit one primary and one contrastive entry per track; however, we reserve the right not to include all contrastive entries in the subjective evaluation due to time constraints.
 
-Please submit your entry (or entries) using the Google Form link provided through the mailing list.
+
+Further information about the submission to the challenge TBA. 
+
+[//]: # (Please submit your entry &#40;or entries&#41; using the Google Form link provided through the mailing list.)
 
 
 

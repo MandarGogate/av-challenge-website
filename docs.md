@@ -27,9 +27,11 @@ In the subject line of your message, type in:
 unsubscribe avse-challenge  
 Leave the message body blank.
 
-#### 2nd edition of the AVSE Challenge
+#### 3rd edition of the AVSE Challenge
 
-We are conducting a 2nd edition of the Audio-Visual Speech Enhancement challenge in 2023. We will run the 2nd edition of the Challenge using identical train and dev datasets to those used in the 1st edition.
+We are conducting a 3rd edition of the Audio-Visual Speech Enhancement challenge in 2024. 
+We will run the 3rd edition of the Challenge using identical train and dev datasets to those used in the 1st and 2nd editions.
+Further announcements about the train/dev dataset can be found [here](challenge-data/data-spec.md)
 
 Information about the submission deadline is available [here](/important-dates.md).
 

@@ -43,7 +43,10 @@ We have two types of interferers:
 [//]: # (  - 1,389 scenes &#40;2hrs 23mins&#41;)
 
 * Evaluation dataset:
-  - 2,792 scenes (4hours 32mins). Divided into 1,396 scenes for leadeboard and 1,396 scenes for listening test (2hours 16 minutes each).
+
+[//]: # (  - 2,792 scenes &#40;4hours 32mins&#41;. Divided into 1,396 scenes for leadeboard and 1,396 scenes for listening test &#40;2hours 16 minutes each&#41;.)
+
+TBA
 
 The data preparation script will generate, for each scene, the following files:
 - S00001_silent.mp4 (video without audio)
@@ -89,6 +92,6 @@ Train set lips cropped video: https://data.cstr.ed.ac.uk/cogmhear/protected/trai
 
 To download them, use the credentials you received after registering for the challenge.
 
-- Aditiionally, we provide scripts for extracting face landmarks. These are available at:
+- Additionally, we provide scripts for extracting face landmarks. These are available at:
 
 https://github.com/cogmhear/avsec_preprocessing
