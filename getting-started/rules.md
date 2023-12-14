@@ -8,18 +8,9 @@
 ## Transparency
 
 - Teams must submit a one page [system description](https://challenge.cogmhear.org/#/getting-started/systems-description) per entry by the 20th of June/2024.
-- Teams can also submit a paper to the AVSE challenge proceedings. Further information TBA. 
+- Teams can also submit a paper to the AVSE challenge proceedings. Further information [TBA](submission.md). 
 - Teams are encouraged – but not required – to provide us with access to the system/model and to make their code open source.
 - Anonymous entries are not allowed.
-
-# Submission process (further details coming soon):
-
-Prospective authors are invited to submit either: 
-
-- 2-page extended abstracts.
-- Full-length papers of 4-6 pages.
-
-AVSE challenge proceedings submission guidelines: TBA. 
 
 ## What information can I use?
 
