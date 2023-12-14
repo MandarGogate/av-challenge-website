@@ -4,14 +4,14 @@
 - Teams must submit a one page [system description](https://challenge.cogmhear.org/#/getting-started/systems-description) per entry by the 20th of June/2024.
 
 
-## AVSEC3 challenge proceedings submission (further details coming soon):
+## AVSEC-3 challenge proceedings submission (further details coming soon):
 
 Prospective authors are invited to submit either: 
 
 - 2-page extended abstracts.
 - Full-length papers of 4-6 pages.
 
-AVSEC3 challenge proceedings submission guidelines: TBA. Important dates can be found [here.](importantd-dates.md) 
+AVSEC-3 challenge proceedings submission guidelines: TBA. Important dates can be found [here.](importantd-dates.md) 
 
 # Evaluation
 
