@@ -8,6 +8,7 @@
   * [Registration](/getting-started/register.md)
   * [Submission and Evaluation](/getting-started/submission.md)
   * [Rules](/getting-started/rules.md)
+  * [Call for papers](/getting-started/call-for-papers.md)
 - Download
   - [Baseline model and Data](/download.md)
 - Results
