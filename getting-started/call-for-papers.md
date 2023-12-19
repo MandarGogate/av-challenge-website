@@ -43,37 +43,37 @@ We invite submissions from participants of the second and third editions of the 
 We are in the process of recruiting a scientific committee to contribute to the review process. 
 This will be a balance of academics and industry experts from the speech and hearing communities, with a similar profile to that of our previously organised workshops: [Advances on multi-modal Hearing Assistive Technologies (AMHAT 2023)](https://cogmhear.org/amhat2023/) and [Multi-talker methods in speech processing](https://pjb56.github.io/multitalker/): 
  
-Peter Derleth, Sonova 
-Ben Milner, University of East Anglia, UK 
-Jennifer Williams, University of Southampton, UK 
-Emanuel Habets, University of Erlangen-Nuremberg, Germany 
-Chi-Chun Lee, National Tsing Hua University, Taiwan 
-Hadi Larijani, Glasgow Caledonian University, UK 
-Erfan Loweimi, University of Cambridge and Edinburgh Napier University, UK 
-Raza Varzandeh, University of Oldenburgh, Germany 
-Jesper Jensen, Aalborg University, Denmark 
-Sharon Gannot (Bar -Ilan University, Israel) 
-Yong Xu, Tencent America, USA 
-Dong Yu, Tencent AI Lab, China 
-Daniel Michelsanti, Aalborg University, Denmark 
-Volker Hohmann, University of Oldenburgh, Germany 
-Marc Delcroix, NTT Communication Science Laboratories, Japan 
-Zheng-Hua Tan, Aalborg University, Denmark 
-Harish Chandra Dubey, Microsoft, USA 
-Simon Doclo, University of Oldenburgh, Germany 
-Kia Dashtipour, Edinburgh Napier University 
-Hsin-Min Wang, Academia Sinica, Taiwan 
-Mandar Gogate, Edinburgh Napier University, UK 
-Jun-Cheng Chen, Academia Sinica, Taiwan 
-Adeel Ahsan, University of Wolverhampton, UK 
-Alex Casson, University of Manchester, UK 
-Tharm Ratnarajah, University of Edinburgh, UK 
-Jen-Cheng Hou, Academia Sinica, Taiwan 
-Tughrul Arslan, University of Edinburgh, UK 
-Shinji Watanabe, Carnegie Mellon University 
-Nima Mesgarani, Columbia University, USA 
-Jesper Jensen, Aalborg University, Denmark 
-Qiang Huang, University of Sunderland, UK 
-Bernd T. Meyer, University of Oldenburgh, Germany 
-James M. Kates (University of Colorado, USA) 
-Volker Hohmann (Carl von Ossietzky University of Oldenburg, Germany) 
+- Peter Derleth, Sonova 
+- Ben Milner, University of East Anglia, UK 
+- Jennifer Williams, University of Southampton, UK 
+- Emanuel Habets, University of Erlangen-Nuremberg, Germany 
+- Chi-Chun Lee, National Tsing Hua University, Taiwan 
+- Hadi Larijani, Glasgow Caledonian University, UK 
+- Erfan Loweimi, University of Cambridge and Edinburgh Napier University, UK 
+- Raza Varzandeh, University of Oldenburgh, Germany 
+- Jesper Jensen, Aalborg University, Denmark 
+- Sharon Gannot (Bar -Ilan University, Israel) 
+- Yong Xu, Tencent America, USA 
+- Dong Yu, Tencent AI Lab, China 
+- Daniel Michelsanti, Aalborg University, Denmark 
+- Volker Hohmann, University of Oldenburgh, Germany 
+- Marc Delcroix, NTT Communication Science Laboratories, Japan 
+- Zheng-Hua Tan, Aalborg University, Denmark 
+- Harish Chandra Dubey, Microsoft, USA 
+- Simon Doclo, University of Oldenburgh, Germany 
+- Kia Dashtipour, Edinburgh Napier University 
+- Hsin-Min Wang, Academia Sinica, Taiwan 
+- Mandar Gogate, Edinburgh Napier University, UK 
+- Jun-Cheng Chen, Academia Sinica, Taiwan 
+- Adeel Ahsan, University of Wolverhampton, UK 
+- Alex Casson, University of Manchester, UK 
+- Tharm Ratnarajah, University of Edinburgh, UK 
+- Jen-Cheng Hou, Academia Sinica, Taiwan 
+- Tughrul Arslan, University of Edinburgh, UK 
+- Shinji Watanabe, Carnegie Mellon University 
+- Nima Mesgarani, Columbia University, USA 
+- Jesper Jensen, Aalborg University, Denmark 
+- Qiang Huang, University of Sunderland, UK 
+- Bernd T. Meyer, University of Oldenburgh, Germany 
+- James M. Kates (University of Colorado, USA) 
+- Volker Hohmann (Carl von Ossietzky University of Oldenburg, Germany) 
