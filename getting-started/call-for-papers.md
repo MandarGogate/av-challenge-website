@@ -1,4 +1,6 @@
-# Call for papers AVSEC-3
+## Call for papers: 3rd COG-MHEAR Audio-Visual Speech Enhancement Challenge (AVSEC-3) 
+
+
 
 The Audio-Visual Speech Enhancement Challenge (AVSEC) sets the first benchmark in the field of audio-visual speech enhancement, providing a carefully designed dataset and scalable protocol for human listening evaluation of audio-visual speech enhancement systems. Two previous successful editions of the Challenge (SLT 2022 and ASRU 2023) show a general trend of system improvement but indicate that an intelligibility gap remains when compared to clean speech.  
 
