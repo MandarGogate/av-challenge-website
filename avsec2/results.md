@@ -10,6 +10,9 @@ Results from the 1st edition can be found [here](/avsec1/results.md).
 # AVSE Challenge 2023 results
 
 Listening test results were announced to participating teams on the 28th of September/2023. 
+The winning team of this second edition of the Challenge is **MERL**, with their submissions *merl_t1_s5* in track 1 and *merl_t2_s4* in track 2. 
+We congratulate MERL on winning the challenge!
+
 - A refers to the non-enhanced noisy mixes.
 - B is the baseline system.
 
