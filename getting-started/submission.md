@@ -11,7 +11,7 @@ Prospective authors are invited to submit either:
 - 2-page extended abstracts.
 - Full-length papers of 4-6 pages.
 
-AVSEC-3 challenge proceedings submission guidelines: TBA. Important dates can be found [here.](importantd-dates.md) 
+AVSEC-3 challenge proceedings submission guidelines: TBA. Important dates can be found [here.](important-dates.md) 
 
 # Evaluation
 
