@@ -2,8 +2,8 @@
 
 We expect the following timeline for the 3rd COG-MHEAR Audio-Visual Speech Enhancement Challenge (AVSEC-3):
 
-- 1st February 2024: Release of training and development data. 
-- 1st February 2024: Release of baseline system. 
+- ~~1st February 2024~~ 15th February 2024: Release of training and development data. 
+- ~~1st February 2024~~ 15th February 2024: Release of baseline system. 
 - 1st April 2024: Evaluation data release. 
 - 1st April 2024: Leaderboard open for submissions. 
 - 6th May 2024: Paper submission opens. Further information coming soon. 
