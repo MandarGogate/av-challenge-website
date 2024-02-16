@@ -21,6 +21,9 @@ We have two types of interferers:
 - [Clarity Enhancement Challenge (CEC1)](https://github.com/claritychallenge/clarity/tree/main/recipes/cec1): The Clarity Challenge noise dataset comprises around 7 hours of domestic noises. 
 - [DEMAND](https://zenodo.org/record/1227121#.YpZHLRPMLPY): The DEMAND noise dataset includes multi-channel recordings of 18 soundscapes that represent over 1 hour of data. Each soundscape is recorded using a 16-channel array.\*
 - [Deep Noise Supression challenge (DNS) 2nd version](https://github.com/microsoft/DNS-Challenge): The DNS dataset released in the second version of the challenge is composed by sounds from AudioSet, DEMAND and Freesound. In our selection we only consider audios that are obtained from Freesound.\*\* 
+- [MedleydB Audio](https://medleydb.weebly.com/): MedleyDB audio is a multi-track music dataset containing 122 royalty-free songs. The dataset includes stereo mixes, individual stems (per instrument or group of instruments) and annotations for each song. In particular, we selected one channel of each stereo mix. 
+- [ESC-50 Dataset for Environmental Sound Classification](https://github.com/karolpiczak/ESC-50): ESC-50 contains 50 noise categories that can be grouped under 5 major categories: animal sounds, natural soundscapes and water sounds, human non-speech sounds, interior/domestic sounds and exterior/urban noises. In our selection we only consider those categories that don't overlap with categories found in the previous datasets. 
+
 
 \* From DEMAND, we only select one channel per soundscape. Moreover, we don't consider soundscapes assigned to the "domestic" category to avoid overlapping with the sounds of the Clarity Challenge. Additionally, we remove the soundscape labeled as OMEETING because this example resembles the competing speaker scenario. 
 
@@ -61,11 +64,16 @@ Metadata on target speakers (target_speech_list.json) and interfereres (masker_n
 
 ## Evaluation dataset
 
-The evaluation for the 2nd edition of the challenge set can be downloaded from [this](https://data.cstr.ed.ac.uk/cogmhear/protected/avsec2_evalset.tar) link.
+The evaluation dataset of the 3rd edition of the challenge will be released in April/2024
 
-To download it, use the credentials you received after registering for the challenge.
+[//]: # (set can be downloaded from [this]&#40;https://data.cstr.ed.ac.uk/cogmhear/protected/avsec2_evalset.tar&#41; link.)
 
-Hint: credentials are the same as the ones used to download the noise dataset and the metadata
+[//]: # (To download it, use the credentials you received after registering for the challenge.)
+
+[//]: # (Hint: credentials are the same as the ones used to download the noise dataset and the metadata)
+
+## Listening test results of AVSEC1 and AVSEC2
+TBA in late Feb/2024
 
 ## Face landmarks train/dev sets
 
@@ -95,3 +103,5 @@ To download them, use the credentials you received after registering for the cha
 - Additionally, we provide scripts for extracting face landmarks. These are available at:
 
 https://github.com/cogmhear/avsec_preprocessing
+
+
