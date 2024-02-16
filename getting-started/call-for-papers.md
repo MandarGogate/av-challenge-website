@@ -26,8 +26,8 @@ We invite submissions from participants of the second and third editions of the 
 
 **Important dates**
 
-- 1st February 2024: Release of training and development data. 
-- 1st February 2024: Release of baseline system. 
+- ~~1st February 2024~~ 16th February: Release of training and development data. 
+- ~~1st February 2024~~ 16th February: Release of baseline system. 
 - 1st April 2024: Evaluation data release. 
 - 1st April 2024: Leaderboard open for submissions. 
 - 6th May 2024: Paper submission opens. 

@@ -28,6 +28,10 @@
 - Teams are allowed to create more training data using our provided tools and dataset.
 - Participants are allowed to use AV pretrained models as long as they are publicly available or are made available to other participants in the Challenge.
 
+### Track 3 (low latency track):
+
+- In AVSEC3 we will be running a low-latency track. Further details TBA. 
+
 ## Computational restrictions
 
 - Teams may choose to use all, some or none of the parts of the baseline model.
