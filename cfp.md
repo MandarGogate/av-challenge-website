@@ -12,7 +12,7 @@ Authors of selected papers (including winners and runner-ups of each Challenge T
 
 ## Challenge Registration:
 
-To register for the challenge please follow the guidelines on the website: [https://challenge.cogmhear.org/#/getting-started/register](Register Now)
+To register for the challenge please follow the guidelines on the website: https://challenge.cogmhear.org/#/getting-started/register
 
 ## Paper Submission and Topics::
 
