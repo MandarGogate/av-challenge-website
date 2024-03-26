@@ -73,7 +73,13 @@ The evaluation dataset of the 3rd edition of the challenge will be released in A
 [//]: # (Hint: credentials are the same as the ones used to download the noise dataset and the metadata)
 
 ## Listening test results of AVSEC1 and AVSEC2
-TBA in late Feb/2024
+
+The AVSEC listening test responses dataset (AVSEC-LTR) dataset is available at:
+
+ https://data.cstr.ed.ac.uk/cogmhear/protected/AVSEC_LTR_dataset.tar
+
+AVSEC-LTR contains listening test responses of previous editions of the Challenge (i.e., AVSEC-1 and AVSEC-2). 
+
 
 ## Face landmarks train/dev sets
 
