@@ -76,9 +76,8 @@ The evaluation dataset of the 3rd edition of the challenge will be released in A
 
 The AVSEC listening test responses dataset (AVSEC-LTR) will be made available soon after updating the dataset.
 
- #https://data.cstr.ed.ac.uk/cogmhear/protected/AVSEC_LTR_dataset.tar
-
-#AVSEC-LTR contains listening test responses of previous editions of the Challenge (i.e., AVSEC-1 and AVSEC-2). 
+[//]: # (https://data.cstr.ed.ac.uk/cogmhear/protected/AVSEC_LTR_dataset.tar )
+[//]: # (AVSEC-LTR contains listening test responses of previous editions of the Challenge)
 
 
 ## Face landmarks train/dev sets
