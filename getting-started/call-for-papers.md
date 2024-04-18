@@ -49,3 +49,51 @@ We welcome submissions from participants of the second (AVSEC-2) and third editi
 - 12th July: Acceptance notification
 - 26th July: early release of evaluation results
 - 1st August 2024: camera-ready paper.
+
+
+## International Scientific Committee
+We have a distinguished AVSEC scientific committee to oversee the review process. This includes academics and industry experts from the speech and hearing communities, with a similar profile to that of our previously organised international workshops: Challenges and Opportunities in Developing Multi-Modal, Transformative Hearing Assistive Technologies;  Advances on multi-modal Hearing Assistive Technologies (AMHAT 2023) and Multi-talker methods in speech processing
+
+- Michael Akeroyd (co-Chair), University of Nottingham, UK 
+- Yu Tsao (co-Chair), Academic Sinica, Taiwan
+- Peter Derleth,, Sonova AG
+- John Hansen, University of Texas at Dallas, USA
+- Naomi Hart, Trinity College, Ireland
+- Shinji Watanabe, Carnegie Mellon University
+- Nima Mesgarani, Columbia University, USA
+- Jesper Jensen, Aalborg University, Denmark
+- Qiang Huang, University of Sunderland, UK
+- Bernd T. Meyer, University of Oldenburg, Germany
+- James M. Kates, University of Colorado, USA
+- Isabel Trancoso, IST, Univ. Lisbon, Portugal
+- Volker Hohmann, University of Oldenburg, Germany
+- Emanuel Habets, University of Erlangen-Nuremberg, Germany
+- Chi-Chun Lee, National Tsing Hua University, Taiwan
+- Sharon Gannot, Bar-Ilan University, Israel
+- Yong Xu, Tencent America, USA
+- Daniel Michelsanti, Aalborg University, Denmark
+- Dong Yu, Tencent AI Lab, China
+- Marc Delcroix, NTT Communication Science Laboratories, Japan
+- Zheng-Hua Tan, Aalborg University, Denmark
+- Harish Chandra Dubey, Microsoft, USA
+- Simon Doclo, University of Oldenburgh, Germany
+- Ben Milner, University of East Anglia, UK
+- Hadi Larijani, Glasgow Caledonian University, UK
+- Mandar Gogate, Edinburgh Napier University, UK
+- Lorena Aldana, University of Edinburgh, UK
+- Shixiong Zhang, Tencent AI Lab, USA
+- Alex Casson, University of Manchester, UK
+- Jennifer Williams, University of Southampton, UK
+- Erfan Loweimi, University of Cambridge and Edinburgh Napier University, UK
+- Raza Varzandeh, University of Oldenburg, Germany
+- Kia Dashtipour, Edinburgh Napier University, UK
+- Qammer Abbasi, University of Glasgow, UK
+- Adeel Ahsan, University of Stirling, UK
+- Mathini Sellathurai, Heriot-Watt University, UK
+- Tharm Ratnarajah, University of Edinburgh, UK
+- Jen-Cheng Hou, Academia Sinica, Taiwan
+- Tughrul Arslan, University of Edinburgh, UK
+- Hsin-Min Wang, Academia Sinica, Taiwan
+- Muhammad Imran, University of Glasgow, UK
+- Cassia Valentini Botinhao, University of Edinburgh, UK
+- Jun-Cheng Chen, Academia Sinica, Taiwan
