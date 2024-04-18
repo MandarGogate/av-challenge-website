@@ -14,5 +14,4 @@ The data can be generated using code available at [GitHub repository](https://gi
 
 ## Baseline model
 
-To download the pretrained baseline model checkpoint please click [here](https://data.cstr.ed.ac.uk/cogmhear/protected/avsec2_ckpt.zip). 
-Use the credentials you received after registration to access the file. 
+To download the pretrained baseline model checkpoint please click [here](https://huggingface.co/cogmhear/avsec3-baseline).
