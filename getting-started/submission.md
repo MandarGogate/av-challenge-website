@@ -4,14 +4,23 @@
 - Teams must submit a one page [system description](https://challenge.cogmhear.org/#/getting-started/systems-description) per entry by the 20th of June/2024.
 
 
-## AVSEC-3 challenge proceedings submission (further details coming soon):
+## AVSEC-3 challenge proceedings submission and workshop registration:
+
+AVSEC-3 will be held as a [satellite event](https://interspeech2024.org/satellite/) of Interspeech 2024. 
 
 Prospective authors are invited to submit either: 
 
 - 2-page extended abstracts.
 - Full-length papers of 4-6 pages.
 
-AVSEC-3 challenge proceedings submission guidelines: TBA. Important dates can be found [here.](important-dates.md) 
+The call for papers can be found [here.](call-for-papers.md)
+Please follow the [INTERSPEECH template](https://interspeech2024.org/author-resources/) for preparing your submission. 
+
+**Workshop registration costs:**
+- Non-member registration: €45 EUR
+- Non-member student registration: €30 EUR
+- Member registration: €40 EUR
+- Member student registration: €25 EUR
 
 # Evaluation
 
