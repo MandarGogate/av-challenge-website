@@ -28,14 +28,21 @@
 - Teams are allowed to create more training data using our provided tools and dataset.
 - Participants are allowed to use AV pretrained models as long as they are publicly available or are made available to other participants in the Challenge.
 
-### Track 3 (low latency track):
+### Track 3 (low-latency track):
 
-- In AVSEC3 we will be running a low-latency track. Further details TBA. 
+*Requirements:*
+- The AVSE must take less than the stride time Ts (in ms) to process a frame of size T (in ms). For example, Ts = T/2 for 50% overlap between frames. 
+
+- The total algorithmic latency allowed including the frame size T, stride time Ts and any look ahead must be less than or equal to 80ms. For example, if you use a frame length of 64ms with a stride of 16ms resulting in an algorithmic delay of 80ms, then you satisfy the latency requirements. 
+
+[//]: # (If you use a frame size of 32ms with a stride of 16ms resulting in an algorithmic delay of 48ms, then your method does not satisfy the latency requirements as the total algorithmic latency exceeds 80ms. )
+- If your frame size plus stride T1=T+Ts is less than 80ms, then you can use up to (80-T1) ms future information.
 
 ## Computational restrictions
 
 - Teams may choose to use all, some or none of the parts of the baseline model.
 - There is no limit on computational cost.
+- Please not the specific requirements of the low-latency track if you are submitting to track 3. 
 
 ## Intellectual property
 
