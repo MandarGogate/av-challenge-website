@@ -62,23 +62,30 @@ Metadata on the scenes is provided as JSON files (scenes.train.json and scenes.d
 
 Metadata on target speakers (target_speech_list.json) and interfereres (masker_noise_list.json, masker_speech_list.json) is also provided. These can be used to generate other scenes, i.e. a different selection of target, interferer and SNR.
 
-## Evaluation dataset
+## Evaluation dataset AVSEC3
 
-The evaluation dataset of the 3rd edition of the challenge will be released in April/2024
+The evaluation dataset can be found here: 
 
-[//]: # (set can be downloaded from [this]&#40;https://data.cstr.ed.ac.uk/cogmhear/protected/avsec2_evalset.tar&#41; link.)
+https://data.cstr.ed.ac.uk/cogmhear/protected/avsec3_evalset.tar
 
-[//]: # (To download it, use the credentials you received after registering for the challenge.)
+[//]: # (Use the credentials you received after registering for the challenge.)
 
-[//]: # (Hint: credentials are the same as the ones used to download the noise dataset and the metadata)
+Hint: credentials are the same as the ones used to download the noise dataset and the metadata
 
 ## Listening test results of AVSEC1 and AVSEC2
 
-The AVSEC listening test responses dataset (AVSEC-LTR) will be made available soon after updating the dataset.
+The AVSEC listening test responses dataset (AVSEC-LTR) is available in the following links:
 
-[//]: # (https://data.cstr.ed.ac.uk/cogmhear/protected/AVSEC_LTR_dataset.tar )
-[//]: # (AVSEC-LTR contains listening test responses of previous editions of the Challenge)
+- **Metadata:**
+https://data.cstr.ed.ac.uk/cogmhear/protected/AVSEC-LTR-Dataset.tar
+- **Enhanced samples of AVSEC1:**
+https://data.cstr.ed.ac.uk/cogmhear/protected/avsec1_LTR_samples.tar
+- **Enhanced samples of AVSEC2:**
+https://data.cstr.ed.ac.uk/cogmhear/protected/avsec2_LTR_samples.tar
 
+
+AVSEC-LTR contains listening test responses of previous editions of the Challenge. 
+Please refer to the README file to find more information about the license. 
 
 ## Face landmarks train/dev sets
 
