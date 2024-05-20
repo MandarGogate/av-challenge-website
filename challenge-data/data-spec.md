@@ -45,11 +45,8 @@ We have two types of interferers:
 
 [//]: # (  - 1,389 scenes &#40;2hrs 23mins&#41;)
 
-* Evaluation dataset:
-
 [//]: # (  - 2,792 scenes &#40;4hours 32mins&#41;. Divided into 1,396 scenes for leadeboard and 1,396 scenes for listening test &#40;2hours 16 minutes each&#41;.)
 
-TBA
 
 The data preparation script will generate, for each scene, the following files:
 - S00001_silent.mp4 (video without audio)
@@ -63,6 +60,9 @@ Metadata on the scenes is provided as JSON files (scenes.train.json and scenes.d
 Metadata on target speakers (target_speech_list.json) and interfereres (masker_noise_list.json, masker_speech_list.json) is also provided. These can be used to generate other scenes, i.e. a different selection of target, interferer and SNR.
 
 ## Evaluation dataset AVSEC3
+
+- Contains 2,400 scenes. 
+- Results from the leaderboard are computed from 1,000 scenes. Scenes that will be used in the listening test are different from those used in the leaderboard.
 
 The evaluation dataset can be found here: 
 
