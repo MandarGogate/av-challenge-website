@@ -72,7 +72,7 @@ Hint: credentials are the same as the ones used to download the noise dataset an
 
 ### SNRs in the evaluation set
 
-In previous editions of the challenge we selected SNRs in the evaluation set to reflect accuracy scores of 25%, 50% and 75% (noise) and 40%, 55%, and 70% (competing speaker). We estimated psychometric curves according to word accuracy scores obtained from a listening test to find the corresponding SNRs. A broader description of the method, and the psychometric curves, can be found in section 2.4 of our challenge paper:
+In previous editions of the challenge we selected SNRs in the evaluation set to reflect accuracy scores of 25%, 50% and 75% (noise) and 40%, 55%, and 70% (competing speaker). We estimated psychometric curves according to word accuracy scores obtained from a listening test to find the corresponding SNRs. A broader description of the method, and the psychometric curves, can be found in section 2.4 of our challenge [paper](https://www.pure.ed.ac.uk/ws/portalfiles/portal/305863115/AVSE_Challenge_ALDANA_DOA30092022_AFV.pdf).
 
 https://www.pure.ed.ac.uk/ws/portalfiles/portal/305863115/AVSE_Challenge_ALDANA_DOA30092022_AFV.pdf
 
