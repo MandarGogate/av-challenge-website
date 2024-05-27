@@ -74,8 +74,6 @@ Hint: credentials are the same as the ones used to download the noise dataset an
 
 In previous editions of the challenge we selected SNRs in the evaluation set to reflect accuracy scores of 25%, 50% and 75% (noise) and 40%, 55%, and 70% (competing speaker). We estimated psychometric curves according to word accuracy scores obtained from a listening test to find the corresponding SNRs. A broader description of the method, and the psychometric curves, can be found in section 2.4 of our challenge [paper](https://www.pure.ed.ac.uk/ws/portalfiles/portal/305863115/AVSE_Challenge_ALDANA_DOA30092022_AFV.pdf).
 
-https://www.pure.ed.ac.uk/ws/portalfiles/portal/305863115/AVSE_Challenge_ALDANA_DOA30092022_AFV.pdf
-
 In this edition, we take an alternative approach to select SNRs in the evaluation set that we hope allow us to gain better understanding about system's performance.
 As a first step, we look at intelligibility scores from unmodified samples in the previous editions of the challenge and fit psychometric curves according to each interferer (speech or noise). Then, we select three inteligibility accuracy intervals of [22.5, 47.5], [47.5, 72.5], and [72.5, 97.5] with means of 35, 60, and 85, respectively. These means are similar to the values used in the previous editions of the challenge. The SNRs chosen for the evaluation set are uniformly sampled from each interval.  
 
