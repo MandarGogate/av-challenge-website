@@ -16,11 +16,20 @@ Prospective authors are invited to submit either:
 The call for papers can be found [here.](call-for-papers.md)
 Please follow the [INTERSPEECH template](https://interspeech2024.org/author-resources/) for preparing your submission. 
 
+### Workshop submission
+
+**Paper submission is now open!**
+You can make your submission [here.](https://cmt3.research.microsoft.com/AVSEC2024)
+
+### Workshop registration:
+
 **Workshop registration costs:**
 - Non-member registration: €45 EUR
 - Non-member student registration: €30 EUR
 - Member registration: €40 EUR
 - Member student registration: €25 EUR
+
+Register for the workshop [here.](https://interspeech2024.org/satellite/)
 
 # Evaluation
 
