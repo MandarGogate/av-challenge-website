@@ -22,7 +22,7 @@ https://challenge.cogmhear.org/#/getting-started/register
 
 We invite prospective authors to submit either 2-page short paper or full-length papers of 4-6 pages following the INTERSPEECH 2024 paper template.
 
-We welcome submissions from participants of the second (AVSEC-2) and third editions (AVSEC-3) of the Challenge, and also invite submissions on related research topics, including but not limited to the following:
+We welcome submissions from participants of the second (AVSEC-2) and third editions (AVSEC-3) of the Challenge, and also those not participating in AVSEC, to submit papers on related research topics including but not limited to the following:
 
 - Low-latency approaches to audio-visual speech enhancement and separation.
 - Human auditory-inspired models of multi-modal speech perception and enhancement.
