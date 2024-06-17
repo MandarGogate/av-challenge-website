@@ -29,7 +29,11 @@ You can make your submission [here.](https://cmt3.research.microsoft.com/AVSEC20
 - Member registration: €40 EUR
 - Member student registration: €25 EUR
 
-Register for the workshop [here.](https://interspeech2024.org/satellite/)
+Registration is now open. You have two options to register:
+
+- Register for the workshop and Interspeech [here.](https://interspeech2024.org/satellite/)
+
+- Register for the workshop alone: TBA
 
 # Evaluation
 
