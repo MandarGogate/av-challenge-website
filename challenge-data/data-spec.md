@@ -68,6 +68,10 @@ The evaluation dataset can be found here:
 
 https://data.cstr.ed.ac.uk/cogmhear/protected/avsec3_evalset.tar
 
+Clean targets for avsec-3 eval set:
+
+https://data.cstr.ed.ac.uk/cogmhear/protected/avsec3_clean_targets.tar
+
 Hint: credentials are the same as the ones used to download the noise dataset and the metadata
 
 ### SNRs in the evaluation set
