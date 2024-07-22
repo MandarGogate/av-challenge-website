@@ -33,9 +33,9 @@ Registration is now open. You have two options to register:
 
 - Register for the workshop and Interspeech [here.](https://interspeech2024.org/satellite/)
 
-- Register for the workshop alone: https://www.epay.ed.ac.uk/conferences-and-events/college-of-science-and-engineering/school-of-informatics/informatics-events/3rd-cog-mhear-audio-visual-speech-enhancement-challenge-avsec-3
+- Register for the workshop alone: [here.](https://www.epay.ed.ac.uk/conferences-and-events/college-of-science-and-engineering/school-of-informatics/informatics-events/3rd-cog-mhear-audio-visual-speech-enhancement-challenge-avsec-3)
 
-  **Note: Due to requirements of the payment system, prices for the workshop alone are given in GBP.**. 
+  **Note: Due to requirements of the payment system, prices for the workshop alone registration are given in GBP.**. 
 
 # Evaluation
 
