@@ -24,16 +24,18 @@ You can make your submission [here.](https://cmt3.research.microsoft.com/AVSEC20
 ### Workshop registration:
 
 **Workshop registration costs:**
-- Non-member registration: €45 EUR
-- Non-member student registration: €30 EUR
-- Member registration: €40 EUR
-- Member student registration: €25 EUR
+- Non-member registration: €45 EUR (£ 38)
+- Non-member student registration: €30 EUR (£ 26)
+- ISCA Member registration: €40 EUR (£ 34)
+- ISCA Member student registration: €25 EUR (£ 21)
 
 Registration is now open. You have two options to register:
 
 - Register for the workshop and Interspeech [here.](https://interspeech2024.org/satellite/)
 
-- Register for the workshop alone: TBA
+- Register for the workshop alone: https://www.epay.ed.ac.uk/conferences-and-events/college-of-science-and-engineering/school-of-informatics/informatics-events/3rd-cog-mhear-audio-visual-speech-enhancement-challenge-avsec-3
+
+  **Note: Due to requirements of the payment system, prices for the workshop alone are given in GBP.**. 
 
 # Evaluation
 
