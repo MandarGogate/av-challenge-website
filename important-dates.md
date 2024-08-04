@@ -11,5 +11,5 @@ We expect the following timeline for the 3rd COG-MHEAR Audio-Visual Speech Enhan
 - ~~28th June 2024~~ 1st July (noon BST): Paper submission closes. 
 - ~~12th July~~ 16th July 2024: Acceptance notification. 
 - ~~26th July~~ 2nd August 2024: early release of evaluation results.
-- ~~1st August~~ 9th August 2024: camera-ready paper. 
+- ~~1st August~~ 14th August 2024: camera-ready paper. 
 
