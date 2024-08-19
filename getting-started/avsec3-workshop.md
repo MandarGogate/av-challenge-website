@@ -7,8 +7,6 @@
 **Location: Yannis Club, KICC, Kos, Greece**
 
 
-AVSEC Workshop website: http://challenge.cogmhear.org 
-
 Interspeech AVSEC Workshop venue website: 
 https://interspeech2024.org/conference-venue/ 
 
