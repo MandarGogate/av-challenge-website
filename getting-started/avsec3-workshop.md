@@ -1,6 +1,6 @@
 # 2024 Interspeech Satellite AVSEC-3 Workshop
 
-**Time: 12.30pm-5pm**
+**Time: 12.30pm-5.15pm**
 
 **Date: 1st Sep, 2024**
 
@@ -35,7 +35,7 @@ https://interspeech2024.org/conference-venue/
 4.30pm-5pm: Panel Session (“AVSEC challenges, opportunities and future directions")
 
 
-Invited Panelists (TBC): (Chair) Prof Peter Bell (Edinburgh University, UK); Dr Jennifer Williams (University of Southampton, UK); Prof Nancy F Chen (Singapore); Prof Sabato Marco Siniscalchi (University of Palermo, Italy)
+Invited Panelists (TBC): (Chair) Prof Peter Bell (Edinburgh University, UK); Dr Jennifer Williams (University of Southampton, UK); Prof Minje Kim (USA); Prof Sabato Marco Siniscalchi (University of Palermo, Italy)
 
 
 5pm-15pm:  Prize ceremony for AVSEC winners and runner-ups:
