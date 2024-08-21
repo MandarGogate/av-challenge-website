@@ -36,7 +36,7 @@ https://interspeech2024.org/conference-venue/
 
 Invited Panelists (TBC): Prof Peter Bell (Edinburgh University, UK); Dr Jennifer Williams (University of Southampton, UK); Prof Minje Kim (University of Illinois Urbana-Champaign, USA); Prof Sabato Marco Siniscalchi (University of Palermo, Italy)
 
-5pm-5.15pm:  Prize ceremony for AVSEC winners and runner-ups:
+5pm-5.15pm:  Prize ceremony for AVSEC winners and runner-ups.
 
 ## List of Posters and Presenters 
 
