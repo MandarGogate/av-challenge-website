@@ -1,7 +1,5 @@
 # AVSE Challenge 2024 results
 
-TBA
-
 - Results from the 1st edition can be found [here](/avsec1/results.md).
 - Results from the 2nd edition can be found [here](/avsec2/results.md). Listening test results were announced to participating teams on the 28th of September/2023. 
 
@@ -11,61 +9,62 @@ TBA
 [//]: # ()
 [//]: # ([AVSE Challenge: Audio-Visual Speech Enhancement Challenge]&#40;https://www.research.ed.ac.uk/en/publications/avse-challenge-audio-visual-speech-enhancement-challenge&#41;)
 
-[//]: # (# AVSE Challenge 2023 results)
 
-[//]: # ()
-[//]: # (Listening test results were announced to participating teams on the 28th of September/2023. )
 
-[//]: # (- A refers to the non-enhanced noisy mixes.)
+
+# Third Audio-visual Speech Enhancement Challenge (AVSEC-3) results
+
+We thank all participant for taking part in the challenge and congratulate the winning teams!
+We thank our industry partner, Sonova, for sponsoring the Challenge.
+
+### Track 1:
+1st place: 
+Zhan Jin 
+SMIIP Lab (system L)
+Suzhou Municipal Key Laboratory of Multimodal Intelligent Systems, Data Science Research Center, Duke Kunshan University, Kunshan, China
+
+2nd place: 
+Mandar Gogate (system F)
+Edinburgh Napier University
+
+### Track 2:
+1st place:
+Feixiang Wang 
+ICT, UCAS (system G)
+Beijing, China
+
 
 [//]: # (- B is the baseline system.)
 
 [//]: # ()
 [//]: # ()
-[//]: # (|          |          |          |          |            | **Speech** |          |          | **Noise** |          |)
+|          |          |          |          |            | **Speech** |          |          | **Noise** |          |
 
-[//]: # (|----------|----------|----------|----------|------------|------------|----------|----------|-----------|----------|)
+|----------|----------|----------|----------|------------|------------|----------|----------|-----------|----------|
 
-[//]: # (| System   | Overall  | Speech   | Noise    | low SNR    | mid SNR    | high SNR | low SNR  | mid SNR   | high SNR |)
+| System   | Overall  | Speech   | Noise    | low SNR    | mid SNR    | high SNR | low SNR  | mid SNR   | high SNR |
 
 [//]: # (| A        | 62.03    | 57.04    | 67.01    | 29.90      | 65.98      | 75.26    | 41.24    | 69.07     | 90.72    |)
 
-[//]: # (| B        | 57.56    | 58.76    | 56.36    | 53.61      | 64.95      | 57.73    | 44.33    | 65.98     | 58.76    |)
+[//]: # (letter  overall  speech  noise  speech_snr_low  speech_snr_mid  speech_snr_high  noise_snr_low  noise_snr_mid  noise_snr_high)
+|   A   | 54.12  | 53.50 | 54.73     |      32.10     |      48.15      |      80.25      |    28.40     |     56.79     |      79.01|
+|   B   | 52.88  | 53.50 | 52.26     |      53.09     |      69.75      |      37.65      |    48.15     |     54.32     |      54.32|
+|   C   | 47.63  | 42.59 | 52.67     |      33.95     |      46.91      |      46.91      |    33.33     |     45.68     |      79.01|
+|   D   | 53.50  | 51.03 | 55.97     |      51.85     |      55.56      |      45.68      |    37.04     |     49.38     |      81.48|
+|   E   | 54.84  | 52.88 | 56.79     |      49.38     |      60.49      |      48.77      |    35.80     |     56.79     |      77.78|
+|   F   | 68.52  | 74.90 | 62.14     |      57.41     |      80.25      |      87.04      |    41.98     |     62.96     |      81.48|
+|   G (track 2)   | 75.31  | 79.01 | 71.60     |      66.67     |      85.80      |      84.57      |    50.62     |     76.54     |      87.65|
+|   H   | 65.23  | 70.37 | 60.08     |      68.52     |      66.05      |      76.54      |    46.91     |     64.20     |      69.14
+|   I (track 3)  | 53.40  | 52.47 | 54.32     |      29.63     |      50.00      |      77.78      |    32.10     |     49.38     |      81.48|
+|   J   | 53.81  | 52.47 | 55.14     |      32.72     |      45.68      |      79.01      |    28.40     |     54.32     |      82.72|
+|   K   | 62.76  | 63.37 | 62.14     |      50.00     |      73.46      |      66.67      |    51.85     |     64.20     |      70.37|
+|   L   | 74.28  | 78.60 | 69.96     |      69.14     |      81.48      |      85.19      |    48.15     |     74.07     |      87.65|
+|   M   | 48.35  | 46.50 | 50.21     |      31.48     |      50.62      |      57.41      |    27.16     |     45.68     |      77.78|
+|  LSD  |   3.31 |  4.89 |  3.68     |      8.45      |      8.06       |      7.65       |   6.25       |     6.30      |      5.30|
 
-[//]: # (| C        | 61.00    | 64.60    | 57.39    | 49.48      | 74.23      | 70.10    | 30.93    | 57.73     | 83.51    |)
+Word intelligibility scores (\%) calculated across all conditions (Overall), per masker: Speech (competing speaker) and Noise, and per masker and SNR (low, mid, high). A higher score means more intelligible. Scores were calculated as the percentage of words correctly identified, computed for each participant and averaged across participants. Differences larger than the Fisher's least significant difference (LSD) are significant. Scores were calculated from the responses of 91 participants.
+Letter A refers to the non-enhanced noisy mixes.
 
-[//]: # (| D        | 84.54    | 88.32    | 80.76    | 89.69      | 83.51      | 91.75    | 63.92    | 83.51     | 94.85    |)
-
-[//]: # (| E        | 55.67    | 50.86    | 60.48    | 36.08      | 54.64      | 61.86    | 36.08    | 70.10     | 75.26    |)
-
-[//]: # (| F        | 62.20    | 63.23    | 61.17    | 39.18      | 71.13      | 79.38    | 35.05    | 65.98     | 82.47    |)
-
-[//]: # (| G        | 73.54    | 83.51    | 63.57    | 74.23      | 89.69      | 86.60    | 46.39    | 70.10     | 74.23    |)
-
-[//]: # (| H        | 84.54    | 89.00    | 80.07    | 82.47      | 93.81      | 90.72    | 67.01    | 84.54     | 88.66    |)
-
-[//]: # (| I        | 62.89    | 61.17    | 64.60    | 30.93      | 70.10      | 82.47    | 41.24    | 68.04     | 84.54    |)
-
-[//]: # (| J        | 61.17    | 56.36    | 65.98    | 65.98      | 62.89      | 40.21    | 49.48    | 72.16     | 76.29    |)
-
-[//]: # (| K        | 72.16    | 74.57    | 69.76    | 71.13      | 76.29      | 76.29    | 57.73    | 63.92     | 87.63    |)
-
-[//]: # (| L        | 76.98    | 82.82    | 71.13    | 71.13      | 90.72      | 86.60    | 58.76    | 74.23     | 80.41    |)
-
-[//]: # (| M        | 62.54    | 61.51    | 63.57    | 41.24      | 75.26      | 68.04    | 37.11    | 69.07     | 84.54    |)
-
-[//]: # (| N        | 76.29    | 79.38    | 73.20    | 67.01      | 87.63      | 83.51    | 53.61    | 77.32     | 88.66    |)
-
-[//]: # (| O        | 77.15    | 84.19    | 70.10    | 75.26      | 89.69      | 87.63    | 48.45    | 75.26     | 86.60    |)
-
-[//]: # (| P        | 76.46    | 74.57    | 78.35    | 61.86      | 84.54      | 77.32    | 73.20    | 76.29     | 85.57    |)
-
-[//]: # (| Q        | 80.41    | 87.97    | 72.85    | 82.47      | 88.66      | 92.78    | 59.79    | 79.38     | 79.38    |)
-
-[//]: # (| LSD      | 2.14     | 2.79     | 3.01     | 5.38       | 4.74       | 4.74     | 5.77     | 5.28      | 4.41     |)
-
-[//]: # ()
-[//]: # (Word intelligibility scores &#40;\%&#41; calculated across all conditions &#40;Overall&#41;, per masker: Speech &#40;competing speaker&#41; and Noise, and per masker and SNR &#40;low, mid, high&#41;. A higher score means more intelligible. Scores were calculated as the percentage of words correctly identified, computed for each participant and averaged across participants. Differences larger than the Fisher's least significant difference &#40;LSD&#41; are significant. Scores were calculated from the responses of 102 participants.)
 
 [//]: # ()
 [//]: # (## Systems description)
