@@ -2,7 +2,7 @@
 
 <!-- ![logo](_media/icon.svg) -->
 
-# 3rd COG-MHEAR Audio-Visual Speech Enhancement Challenge (AVSE)
+# 4th COG-MHEAR Audio-Visual Speech Enhancement Challenge (AVSE)
 ## A machine learning challenge for next-generation hearing devices  
 
 ## [<span style="color:white;background: #8f42b9;padding: 10px;line-height: 15px;border-radius:2px;">Get Started</span>](/docs#getting-started)
