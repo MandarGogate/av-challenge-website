@@ -29,15 +29,19 @@ Leave the message body blank.
 
 #### 3rd edition of the AVSE Challenge
 
-We are conducting a 3rd edition of the Audio-Visual Speech Enhancement challenge in 2024. 
-We will run the 3rd edition of the Challenge using identical train and dev datasets to those used in the 1st and 2nd editions.
-Further announcements about the train/dev dataset can be found [here](challenge-data/data-spec.md)
+We are conducting a 4th edition of the Audio-Visual Speech Enhancement challenge in 2025. 
+Further details about the challenge will be announced soon. 
 
-Information about the submission deadline is available [here](/important-dates.md).
+[//]: # (We will run the 3rd edition of the Challenge using identical train and dev datasets to those used in the 1st and 2nd editions.)
+
+[//]: # (Further announcements about the train/dev dataset can be found [here]&#40;challenge-data/data-spec.md&#41;)
+
+[//]: # ()
+[//]: # (Information about the submission deadline is available [here]&#40;/important-dates.md&#41;.)
 
 ### Challenge Data
 
-**Note that this dataset is identical to that used in the 1st edition of the Challenge, <avse1_data_v2.tar>**
+[//]: # (**Note that this dataset is identical to that used in the 1st edition of the Challenge, <avse1_data_v2.tar>**)
 
 - [Scene Generation](/challenge-data/scene-gen.md) - TBA 
 
@@ -58,7 +62,9 @@ Information about the submission deadline is available [here](/important-dates.m
 - [Rules](/getting-started/rules.md) - the rules to which all challenge entries must adhere.
 
 ### Download
-- [Baseline model and Data](/download.md) - TBA #software and challenge data can be downloaded from here
+- [Baseline model and Data](/download.md) - TBA 
+
+[//]: # (- #software and challenge data can be downloaded from here)
 
 ### Results
 
