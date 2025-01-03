@@ -8,7 +8,8 @@
   * [Registration](/getting-started/register.md)
   * [Submission and Evaluation](/getting-started/submission.md)
   * [Rules](/getting-started/rules.md)
-  * [Call for papers](/getting-started/call-for-papers.md)
+
+[//]: # (  * [Call for papers]&#40;/getting-started/call-for-papers.md&#41;)
 
 [//]: # (  * [AVSEC3 workshop]&#40;/getting-started/avsec3-workshop.md&#41;)
 - Download

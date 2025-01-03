@@ -39,11 +39,17 @@ Information about the submission deadline is available [here](/important-dates.m
 
 **Note that this dataset is identical to that used in the 1st edition of the Challenge, <avse1_data_v2.tar>**
 
-- [Scene Generation](/challenge-data/scene-gen.md) - a description of the listening scenario and how it has been simulated.
-- [Data Specifications](/challenge-data/data-spec.md) - the data that can be used to train and evaluate your system during development.
+- [Scene Generation](/challenge-data/scene-gen.md) - TBA 
+
+[//]: # (- a description of the listening scenario and how it has been simulated.)
+- [Data Specifications](/challenge-data/data-spec.md) - TBA  
+
+[//]: # (- the data that can be used to train and evaluate your system during development.)
 
 ### Software
-- [Baseline model](/software/baseline.md) - a fully functioning baseline model is provided to challenge participants
+- [Baseline model](/software/baseline.md)- TBA
+
+[//]: # (- a fully functioning baseline model is provided to challenge participants)
 - [Core Software](/software/core.md) - the  tools that we are providing to help you generate more data and evaluate a challenge entry.
 
 ### Taking part
@@ -52,7 +58,7 @@ Information about the submission deadline is available [here](/important-dates.m
 - [Rules](/getting-started/rules.md) - the rules to which all challenge entries must adhere.
 
 ### Download
-- [Baseline model and Data](/download.md) - software and challenge data can be downloaded from here
+- [Baseline model and Data](/download.md) - TBA #software and challenge data can be downloaded from here
 
 ### Results
 
