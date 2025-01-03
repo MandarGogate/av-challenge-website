@@ -9,7 +9,8 @@
   * [Submission and Evaluation](/getting-started/submission.md)
   * [Rules](/getting-started/rules.md)
   * [Call for papers](/getting-started/call-for-papers.md)
-  * [AVSEC3 workshop](/getting-started/avsec3-workshop.md)
+
+[//]: # (  * [AVSEC3 workshop]&#40;/getting-started/avsec3-workshop.md&#41;)
 - Download
   - [Baseline model and Data](/download.md)
 - Results

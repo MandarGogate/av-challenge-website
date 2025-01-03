@@ -8,10 +8,15 @@ The software tools can be used to generate more data and the baseline model can 
 
 ## Data
 
-To download the AVSEC-3 noise dataset, please complete the [registration proces](https://challenge.cogmhear.org/#/getting-started/register). Afterwards, we will provide a download link together with credentials to access the file.
+TBA
 
-The data can be generated using code available at [GitHub repository](https://github.com/cogmhear/avse_challenge).
+[//]: # (To download the AVSEC-4 noise dataset, please complete the [registration proces]&#40;https://challenge.cogmhear.org/#/getting-started/register&#41;. Afterwards, we will provide a download link together with credentials to access the file.)
+
+[//]: # ()
+[//]: # (The data can be generated using code available at [GitHub repository]&#40;https://github.com/cogmhear/avse_challenge&#41;.)
 
 ## Baseline model
 
-To download the pretrained baseline model checkpoint please click [here](https://huggingface.co/cogmhear/avsec3-baseline).
+TBA
+
+[//]: # (To download the pretrained baseline model checkpoint please click [here]&#40;https://huggingface.co/cogmhear/avsec3-baseline&#41;.)

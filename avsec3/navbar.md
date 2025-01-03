@@ -1,5 +1,5 @@
 <!-- _navbar.md -->
-* [AVSE Challenge 2025](/)
+* [AVSE Challenge 2024](/)
 * [Documentation](/docs)
 * [Important dates](/important-dates)
 * [Team](/team)
@@ -7,5 +7,4 @@
 * Previous Challenges
     * [AVSE Challenge 2022](/avsec1/)
     * [AVSE Challenge 2023](/avsec2/)
-    * [AVSE Challenge 2024](/avsec3/)
 * [Contact Us](/contact)

@@ -13,8 +13,7 @@
 #### Challenge Technical Leads
 - Lorena Aldana (University of Edinburgh)
 - Mandar Gogate (Edinburgh Napier University)
-
-[//]: # (- Cassia Valentini Botinhao &#40;University of Edinburgh&#41;)
+- Cassia Valentini Botinhao (University of Edinburgh)
 
 ### Scientific Committee Chairs
 - Michael Akeroyd (University of Nottingham, UK)
@@ -23,8 +22,7 @@
 #### Challenge Technical Co-Leads
 - Ondřej Klejch (University of Edinburgh)
 - Kia Dashtipour (Edinburgh Napier University)
-
-[//]: # (- Tassadaq Hussain &#40;Edinburgh Napier University&#41;)
+- Tassadaq Hussain (Edinburgh Napier University)
 
 #### Challenge Administrator
 - Dorothy Hardy (Edinburgh Napier University)
