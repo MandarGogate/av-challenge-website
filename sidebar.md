@@ -11,7 +11,7 @@
 
 [//]: # (  * [Call for papers]&#40;/getting-started/call-for-papers.md&#41;)
 
-[//]: # (  * [AVSEC3 workshop]&#40;/getting-started/avsec3-workshop.md&#41;)
+  * [AVSEC-4 workshop call-for-papers](/getting-started/call-for-papers.md)
 - Download
   - [Baseline model and Data](/download.md)
 - Results
