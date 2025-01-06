@@ -9,20 +9,22 @@ TBA
 
 [//]: # (AVSEC-4 will be held as a [satellite event]&#40;https://interspeech2024.org/satellite/&#41; of Interspeech 2024. )
 
-[//]: # (Prospective authors are invited to submit either: )
 
-[//]: # ()
-[//]: # (- 2-page extended abstracts.)
+AVSEC-4 workshop
+Prospective authors are invited to submit either: 
 
-[//]: # (- Full-length papers of 4-6 pages.)
+- 2-page extended abstracts.
 
-[//]: # ()
-[//]: # (The call for papers can be found [here.]&#40;call-for-papers.md&#41;)
+- Full-length papers of 4-6 pages.
 
+
+The call for papers can be found [here.](call-for-papers.md)
+
+Further information about the template to submit papers will be announced soon.
 [//]: # (Please follow the [INTERSPEECH template]&#40;https://interspeech2024.org/author-resources/&#41; for preparing your submission. )
 
-[//]: # ()
-[//]: # (### Workshop submission)
+
+### Workshop submission
 
 [//]: # ()
 [//]: # (**Paper submission is now open!**)

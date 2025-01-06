@@ -2,16 +2,14 @@
 
 The COG-MHEAR Audio-Visual Speech Enhancement Challenge (AVSEC) sets the first benchmark in the field, providing a carefully designed dataset and scalable protocol for human listening evaluation of audio-visual speech enhancement systems. The open AVSEC framework aims to stimulate collaborative research and innovation to enable the development and evaluation of next-generation audio-visual speech enhancement and separation systems, including multimodal assistive hearing and communication technologies.
 Two previous successful editions of the Challenge (organised as part of IEEE SLT 2022 and IEEE ASRU 2023) show a general trend of system improvement but indicate that an intelligibility gap remains when compared to clean speech.
-We are running a third edition of the Challenge, AVSEC-3, as a satellite Workshop of INTERSPEECH 2024, to be held on 1 September, in Kos Island, Greece.
+AVSEC-4 will be held as a satellite Workshop. Further information about the workshop will be announced soon. 
 
 
-The AVSEC results will be announced at the workshop. Furthermore, the workshop will showcase ongoing technology developments in audio-visual speech enhancement, and provide networking and collaborative space for participants to reflect on the scope and limitations of current speech and hearing technologies.
+
+[//]: # (Accepted Workshop papers &#40;both short 2-page and full-length papers of 4-6 pages following the INTERSPEECH 2024 paper template&#41; will be published in ISCA Proceedings.)
 
 
-Accepted Workshop papers (both short 2-page and full-length papers of 4-6 pages following the INTERSPEECH 2024 paper template) will be published in ISCA Proceedings.
-
-
-Authors of selected papers (including winners and runner-ups of each Challenge Track) will be invited to submit significantly extended papers for consideration in a Special Issue of the [IEEE Journal of Selected Topics in Signal Processing (JSTSP)](https://signalprocessingsociety.org/publications-resources/special-issue-deadlines/ieee-jstsp-special-issue-deep-multimodal-speech-enhancement-and-separation)
+[//]: # (Authors of selected papers &#40;including winners and runner-ups of each Challenge Track&#41; will be invited to submit significantly extended papers for consideration in a Special Issue of the [IEEE Journal of Selected Topics in Signal Processing &#40;JSTSP&#41;]&#40;https://signalprocessingsociety.org/publications-resources/special-issue-deadlines/ieee-jstsp-special-issue-deep-multimodal-speech-enhancement-and-separation&#41;)
 
 ## Challenge Registration
 
@@ -20,9 +18,13 @@ https://challenge.cogmhear.org/#/getting-started/register
 
 ## Paper Submission and Topics
 
-We invite prospective authors to submit either 2-page short paper or full-length papers of 4-6 pages following the INTERSPEECH 2024 paper template.
+We invite prospective authors to submit either 2-page short paper or full-length papers of 4-6 pages.  
 
-We welcome submissions from participants of the second (AVSEC-2) and third editions (AVSEC-3) of the Challenge, and also those not participating in AVSEC, to submit papers on related research topics including but not limited to the following:
+[//]: # (following the INTERSPEECH 2024 paper template.)
+
+[//]: # (We welcome submissions from participants of the second &#40;AVSEC-2&#41; and third editions &#40;AVSEC-3&#41; of the Challenge, and also those not participating in AVSEC, )
+
+We welcome participants of AVSEC-4, and also those not participating in AVSEC, to submit papers on related research topics including but not limited to the following:
 
 - Low-latency approaches to audio-visual speech enhancement and separation.
 - Human auditory-inspired models of multi-modal speech perception and enhancement.
@@ -39,16 +41,16 @@ We welcome submissions from participants of the second (AVSEC-2) and third editi
 
 ## Important dates:
 
-- 16th February 2024: Release of training and development data
-- 16th February 2024: Release of baseline system
-- 10th April 2024: Evaluation data release
-- 10th April 2024: Leaderboard open for submissions
-- 6th May 2024: Paper submission opens
-- 20th June/2024: Deadline for challenge submissions
-- 28th June 2024: Paper submission closes
-- 12th July: Acceptance notification
-- 26th July: early release of evaluation results
-- 1st August 2024: camera-ready paper.
+- End of February 2025: Release of training and development data. 
+- End of February 2025:: Release of low-latency baseline system. 
+- May 2025: Evaluation data release. 
+- May 2025: Leaderboard open for submissions. 
+- May 2025: Paper submission opens. Further information coming soon. 
+- June 2025: Deadline for challenge submissions and one-page system description submission.
+- July 2025: Paper submission closes. 
+- July 2025: Acceptance notification. 
+- July 2025: early release of evaluation results.
+- August 2025: camera-ready paper. 
 
 
 ## International Scientific Committee
