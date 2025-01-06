@@ -8,7 +8,9 @@ All audio files are single channel, downsampled to 16 kHz and a bit depth of 16.
 
 ## Target
 
-The target data is composed of videos retrieved from the [LRS3 dataset](https://mm.kaist.ac.kr/datasets/lip_reading/). LRS3 is composed by spoken sentences from TED and TEDx videos. 
+We are making updates to the dataset. Further information will be announced soon. 
+
+~~The target data is composed of videos from the [LRS3 dataset](https://mm.kaist.ac.kr/datasets/lip_reading/). LRS3 is composed by spoken sentences from TED and TEDx videos.~~ 
 
 ## Interferers
 
@@ -59,26 +61,34 @@ Metadata on the scenes is provided as JSON files (scenes.train.json and scenes.d
 
 Metadata on target speakers (target_speech_list.json) and interfereres (masker_noise_list.json, masker_speech_list.json) is also provided. These can be used to generate other scenes, i.e. a different selection of target, interferer and SNR.
 
-## Evaluation dataset AVSEC3
+## Evaluation dataset AVSEC4
 
-- Contains 2,400 scenes. 
-- Results from the leaderboard are computed from 1,000 scenes. Scenes that will be used in the listening test are different from those used in the leaderboard.
+TBA
 
-The evaluation dataset can be found here: 
+[//]: # (- Contains 2,400 scenes. )
 
-https://data.cstr.ed.ac.uk/cogmhear/protected/avsec3_evalset.tar
+[//]: # (- Results from the leaderboard are computed from 1,000 scenes. Scenes that will be used in the listening test are different from those used in the leaderboard.)
 
-Clean targets for avsec-3 eval set:
+[//]: # ()
+[//]: # (The evaluation dataset can be found here: )
 
-https://data.cstr.ed.ac.uk/cogmhear/protected/avsec3_clean_targets.tar
+[//]: # ()
+[//]: # (https://data.cstr.ed.ac.uk/cogmhear/protected/avsec3_evalset.tar)
 
-Hint: credentials are the same as the ones used to download the noise dataset and the metadata
+[//]: # ()
+[//]: # (Clean targets for avsec-3 eval set:)
+
+[//]: # ()
+[//]: # (https://data.cstr.ed.ac.uk/cogmhear/protected/avsec3_clean_targets.tar)
+
+[//]: # ()
+[//]: # (Hint: credentials are the same as the ones used to download the noise dataset and the metadata)
 
 ### SNRs in the evaluation set
 
-In previous editions of the challenge we selected SNRs in the evaluation set to reflect accuracy scores of 25%, 50% and 75% (noise) and 40%, 55%, and 70% (competing speaker). We estimated psychometric curves according to word accuracy scores obtained from a listening test to find the corresponding SNRs. A broader description of the method, and the psychometric curves, can be found in section 2.4 of our challenge [paper](https://www.pure.ed.ac.uk/ws/portalfiles/portal/305863115/AVSE_Challenge_ALDANA_DOA30092022_AFV.pdf).
+In AVSEC-1 and AVSEC-2 we selected SNRs in the evaluation set to reflect accuracy scores of 25%, 50% and 75% (noise) and 40%, 55%, and 70% (competing speaker). We estimated psychometric curves according to word accuracy scores obtained from a listening test to find the corresponding SNRs. A broader description of the method, and the psychometric curves, can be found in section 2.4 of our challenge [paper](https://www.pure.ed.ac.uk/ws/portalfiles/portal/305863115/AVSE_Challenge_ALDANA_DOA30092022_AFV.pdf).
 
-In this edition, we take an alternative approach to select SNRs in the evaluation set that we hope allow us to gain better understanding about system's performance.
+In AVSEC-3 and AVSEC-4, we take an alternative approach to select SNRs in the evaluation set that we hope allow us to gain better understanding about system's performance.
 As a first step, we look at intelligibility scores from unmodified samples in the previous editions of the challenge and fit psychometric curves according to each interferer (speech or noise). Then, we select three inteligibility accuracy intervals of [22.5, 47.5], [47.5, 72.5], and [72.5, 97.5] with means of 35, 60, and 85, respectively. These means are similar to the values used in the previous editions of the challenge. The SNRs chosen for the evaluation set are uniformly sampled from each interval.  
 
 This process allows us to sample a wide range of SNR values while ensuring that mean accuracies for each interval are consistent with values used in the previous challenges.

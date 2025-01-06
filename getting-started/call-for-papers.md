@@ -1,7 +1,7 @@
-## Call for papers: 3rd COG-MHEAR Audio-Visual Speech Enhancement Challenge (AVSEC-3) 
+## Call for papers: 4th COG-MHEAR Audio-Visual Speech Enhancement Challenge (AVSEC-4) 
 
 The COG-MHEAR Audio-Visual Speech Enhancement Challenge (AVSEC) sets the first benchmark in the field, providing a carefully designed dataset and scalable protocol for human listening evaluation of audio-visual speech enhancement systems. The open AVSEC framework aims to stimulate collaborative research and innovation to enable the development and evaluation of next-generation audio-visual speech enhancement and separation systems, including multimodal assistive hearing and communication technologies.
-Two previous successful editions of the Challenge (organised as part of IEEE SLT 2022 and IEEE ASRU 2023) show a general trend of system improvement but indicate that an intelligibility gap remains when compared to clean speech.
+Three previous successful editions of the Challenge (organised as part of IEEE SLT 2022, IEEE ASRU 2023 and Interspeech 2024) show a general trend of system improvement but indicate that an intelligibility gap remains when compared to clean speech.
 AVSEC-4 will be held as a satellite Workshop. Further information about the workshop will be announced soon. 
 
 
