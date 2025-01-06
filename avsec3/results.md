@@ -62,17 +62,13 @@ A higher score means more intelligible. Scores were calculated as the percentage
 <br /> Letter A refers to the non-enhanced noisy mixes.
 
 
-[//]: # ()
-[//]: # (## Systems description)
+One page submission descriptions:  
 
-[//]: # ()
-[//]: # (The description of baseline can be found in the AVSE Challenge paper available [here]&#40;https://www.research.ed.ac.uk/en/publications/avse-challenge-audio-visual-speech-enhancement-challenge&#41;.)
-
-[//]: # ()
-[//]: # (The evaluation protocol is described [here]&#40;https://www.research.ed.ac.uk/en/publications/efficient-intelligibility-evaluation-using-keyword-spotting-a-stu&#41;.)
-
-[//]: # ()
-[//]: # (One page submission descriptions:  )
-
-[//]: # ()
-[//]: # (- [AVSE02 &#40;dku_smiip&#41;]&#40;https://challenge.cogmhear.org/submissions/2023/AVSE02%20&#40;dku_smiip&#41;.pdf&#41;)
+- [DAVSE](https://challenge.cogmhear.org/submissions/avsec3_2024/DAVSE.pdf)
+- [AVSE3](https://challenge.cogmhear.org/submissions/avsec3_2024/AVSE3.pdf)
+- [ENU AVSE](https://challenge.cogmhear.org/submissions/avsec3_2024/ENUAVSE.pdf)
+- [ICT AVSU](https://challenge.cogmhear.org/submissions/avsec3_2024/ict_avsu.pdf)
+- [Rahma Team](https://challenge.cogmhear.org/submissions/avsec3_2024/RahmaTeam.pdf)
+- [SMIIP Lab](https://challenge.cogmhear.org/submissions/avsec3_2024/SMIIPLab.pdf)
+- [Recogna](https://challenge.cogmhear.org/submissions/avsec3_2024/Recogna.pdf)
+- [TeamOPTIMAL](https://challenge.cogmhear.org/submissions/avsec3_2024/TeamOPTIMAL.pdf)
