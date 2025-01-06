@@ -21,6 +21,7 @@ Prospective authors are invited to submit either:
 The call for papers can be found [here.](call-for-papers.md)
 
 Further information about the template to submit papers will be announced soon.
+
 [//]: # (Please follow the [INTERSPEECH template]&#40;https://interspeech2024.org/author-resources/&#41; for preparing your submission. )
 
 
