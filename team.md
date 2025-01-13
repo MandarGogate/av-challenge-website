@@ -7,24 +7,25 @@
 #### Challenge Industry Chair
 - Peter Derleth (Sonova)
 
-#### Evaluation Panel Chair
-- John Hansen (University of Texas at Dallas, USA)
-
 #### Challenge Technical Leads
 - Lorena Aldana (University of Edinburgh)
 - Mandar Gogate (Edinburgh Napier University)
 
-[//]: # (- Cassia Valentini Botinhao &#40;University of Edinburgh&#41;)
-
-### Scientific Committee Chairs
-- Michael Akeroyd (University of Nottingham, UK)
-- Yu Tsao (Academia Sinica, Taiwan)
-
 #### Challenge Technical Co-Leads
-- Ondřej Klejch (University of Edinburgh)
 - Kia Dashtipour (Edinburgh Napier University)
+- Ondřej Klejch (University of Edinburgh)
+- Nasir Saleem (Edinburgh Napier University)
+- Adeel Hussain (Edinburgh Napier University) 
 
-[//]: # (- Tassadaq Hussain &#40;Edinburgh Napier University&#41;)
+#### Workshop Steering Committee Chairs
+John Hansen, University of Texas at Dallas, USA 
+Naomi Harte, Trinity College Dublin, UK 
+Michael Akeroyd, University of Nottingham, UK 
+
+#### Scientific Committee Chair 
+
+Yu Tsao, Academia Sinica, Taiwan 
+
 
 #### Challenge Administrator
 - Dorothy Hardy (Edinburgh Napier University)
