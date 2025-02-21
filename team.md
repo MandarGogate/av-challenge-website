@@ -19,7 +19,7 @@
 
 #### Workshop Steering Committee Chairs
 - John Hansen, University of Texas at Dallas, USA 
-- Naomi Harte, Trinity College Dublin
+- Naomi Harte, Trinity College Dublin, Ireland
 - Michael Akeroyd, University of Nottingham, UK 
 
 #### Scientific Committee Chair 
