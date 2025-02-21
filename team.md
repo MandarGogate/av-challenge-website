@@ -18,9 +18,9 @@
 - Adeel Hussain (Edinburgh Napier University) 
 
 #### Workshop Steering Committee Chairs
-John Hansen, University of Texas at Dallas, USA 
-Naomi Harte, Trinity College Dublin, UK 
-Michael Akeroyd, University of Nottingham, UK 
+- John Hansen, University of Texas at Dallas, USA 
+- Naomi Harte, Trinity College Dublin
+- Michael Akeroyd, University of Nottingham, UK 
 
 #### Scientific Committee Chair 
 
