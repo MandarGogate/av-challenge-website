@@ -1,13 +1,14 @@
 # Challenge Submission
 <u>All teams are required to register prior to submission and before the registration deadline.</u>
 
-- Teams must submit a one page [system description](https://challenge.cogmhear.org/#/getting-started/systems-description) per entry by the 20th of June/2024.
+- Teams must submit a one page [system description](https://challenge.cogmhear.org/#/getting-started/systems-description) per entry. 
+
 
 
 ## AVSEC-4 challenge proceedings submission and workshop registration:
 TBA
 
-[//]: # (AVSEC-4 will be held as a [satellite event]&#40;https://interspeech2024.org/satellite/&#41; of Interspeech 2024. )
+AVSEC-4 will be held as a [satellite event](https://www.interspeech2025.org/satellite-events) of Interspeech 2025. 
 
 
 AVSEC-4 workshop

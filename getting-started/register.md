@@ -1,3 +1,3 @@
 # Challenge Registration
-Teams are required to register using the form below. Please submit one form per team, providing a single contact email address. Once you have registered, you will receive an email confirmation with a team ID. When the submission date approaches, you will be sent an individualised link to a Google Drive for submitting materials.
+Teams are required to register using the form below. Please submit one form per team, providing a single contact **institutional email address**. Once you have registered, you will receive an email confirmation with a team ID. When the submission date approaches, you will be sent an individualised link to a Google Drive for submitting materials.
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc4TZzkRF3IXwx3q9dcB9hTIirr0Ky6d0PL76xyQ388NOX_3A/viewform?embedded=true" width="640" height="814" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
