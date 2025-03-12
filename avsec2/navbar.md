@@ -1,5 +1,5 @@
 <!-- _navbar.md -->
-* [AVSE Challenge 2023](/)
+* [AVSEC-2 (2023)](/)
 * [Documentation](/docs)
 * [Important dates](/important-dates)
 * [Team](/team)

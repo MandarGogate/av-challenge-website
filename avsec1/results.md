@@ -1,4 +1,4 @@
-# AVSE Challenge 2022 results
+# AVSEC-1 (2022) results
 We thank all participants for taking part in the challenge and congratulate the winning teams!
 
 We thank our industry partner, Sonova, for sponsoring the Challenge.
@@ -11,7 +11,7 @@ Edinburgh Napier University
 Jen-Cheng Hou <br />
 Academia Sinica
 
-The AVSEC1 paper is available in the following link:
+The AVSEC-1 paper is available in the following link:
 
 [AVSE Challenge: Audio-Visual Speech Enhancement Challenge](https://www.research.ed.ac.uk/en/publications/avse-challenge-audio-visual-speech-enhancement-challenge)
 

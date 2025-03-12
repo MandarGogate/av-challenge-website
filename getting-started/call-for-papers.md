@@ -2,11 +2,16 @@
 
 The COG-MHEAR Audio-Visual Speech Enhancement Challenge (AVSEC) sets the first benchmark in the field, providing a carefully designed dataset and scalable protocol for human listening evaluation of audio-visual speech enhancement systems. The open AVSEC framework aims to stimulate collaborative research and innovation to enable the development and evaluation of next-generation audio-visual speech enhancement and separation systems, including multimodal assistive hearing and communication technologies.
 Three previous successful editions of the Challenge (organised as part of IEEE SLT 2022, IEEE ASRU 2023 and Interspeech 2024) show a general trend of system improvement but indicate that an intelligibility gap remains when compared to clean speech.
-AVSEC-4 will be held as a satellite Workshop. Further information about the workshop will be announced soon. 
+
+[//]: # (AVSEC-4 will be held as a satellite Workshop. Further information about the workshop will be announced soon. )
+
+We are happy to announce that we are running a fourth edition of the Challenge. AVSEC-4 will be held as a satellite Workshop of [INTERSPEECH 2025](https://www.interspeech2025.org/satellite-events).
+
+Date: 16th of August
+Location: Rotterdam, The Netherlands.
 
 
-
-[//]: # (Accepted Workshop papers &#40;both short 2-page and full-length papers of 4-6 pages following the INTERSPEECH 2024 paper template&#41; will be published in ISCA Proceedings.)
+Accepted Workshop papers (both short 2-page and full-length papers of 4-6 pages following the INTERSPEECH 2025 paper template) will be published in ISCA Proceedings.
 
 
 [//]: # (Authors of selected papers &#40;including winners and runner-ups of each Challenge Track&#41; will be invited to submit significantly extended papers for consideration in a Special Issue of the [IEEE Journal of Selected Topics in Signal Processing &#40;JSTSP&#41;]&#40;https://signalprocessingsociety.org/publications-resources/special-issue-deadlines/ieee-jstsp-special-issue-deep-multimodal-speech-enhancement-and-separation&#41;)
@@ -41,8 +46,8 @@ We welcome participants of AVSEC-4, and also those not participating in AVSEC, t
 
 ## Important dates:
 
-- End of February 2025: Release of training and development data. 
-- End of February 2025:: Release of low-latency baseline system. 
+- ~~End of February 2025~~ Early/Mid March: Release of training and development data. 
+- ~~End of February 2025~~ March: Release of low-latency baseline system. 
 - May 2025: Evaluation data release. 
 - May 2025: Leaderboard open for submissions. 
 - May 2025: Paper submission opens. Further information coming soon. 

@@ -1,4 +1,4 @@
-# AVSE Challenge 2022 results
+# AVSEC-1 (2022) results
 
 Results from the 1st edition can be found [here](/avsec1/results.md).
 
@@ -7,7 +7,7 @@ Results from the 1st edition can be found [here](/avsec1/results.md).
 [//]: # ()
 [//]: # ([AVSE Challenge: Audio-Visual Speech Enhancement Challenge]&#40;https://www.research.ed.ac.uk/en/publications/avse-challenge-audio-visual-speech-enhancement-challenge&#41;)
 
-# AVSE Challenge 2023 results
+# AVSEC-2 (2023) results
 
 Listening test results were announced to participating teams on the 28th of September/2023. 
 The winning team of this second edition of the Challenge is **MERL**, with their submissions *merl_t1_s5* in track 1 and *merl_t2_s4* in track 2. 

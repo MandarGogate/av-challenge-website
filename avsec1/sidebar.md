@@ -1,4 +1,4 @@
-- AVSE Challenge 2022
+- AVSEC1 (2022)
 - Challenge Data
   * [Scene Generation](/avsec1/challenge-data/scene-gen.md)
   * [Data Specifications](/avsec1/challenge-data/data-spec.md)
@@ -12,5 +12,5 @@
 - Download
   - [Baseline model and Data](/avsec1/download.md)
 - Results
-  - [AVSE Challenge 2022 results](/avsec1/results.md)
+  - [AVSEC-1 (2022) results](/avsec1/results.md)
 - [FAQ](/avsec1/faq.md)
