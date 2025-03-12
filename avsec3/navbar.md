@@ -5,6 +5,6 @@
 * [Team](/team)
 * [GitHub](https://github.com/cogmhear/avse_challenge)
 * Previous Challenges
-    * [AVSE Challenge 2022](/avsec1/)
-    * [AVSE Challenge 2023](/avsec2/)
+    * [AVSEC-1 2022](/avsec1/)
+    * [AVSEC-2 2023](/avsec2/)
 * [Contact Us](/contact)

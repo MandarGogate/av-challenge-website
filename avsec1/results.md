@@ -1,6 +1,17 @@
 # AVSE Challenge 2022 results
+We thank all participants for taking part in the challenge and congratulate the winning teams!
 
-You can find the AVSE Challenge 2022 paper in the following link:
+We thank our industry partner, Sonova, for sponsoring the Challenge.
+
+- 1st place: <br /> 
+Mandar Gogate <br /> 
+Edinburgh Napier University
+
+- 2nd place: <br /> 
+Jen-Cheng Hou <br />
+Academia Sinica
+
+The AVSEC1 paper is available in the following link:
 
 [AVSE Challenge: Audio-Visual Speech Enhancement Challenge](https://www.research.ed.ac.uk/en/publications/avse-challenge-audio-visual-speech-enhancement-challenge)
 
