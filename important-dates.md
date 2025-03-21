@@ -2,8 +2,8 @@
 
 We expect the following timeline for the 4th COG-MHEAR Audio-Visual Speech Enhancement Challenge (AVSEC-4):
 
-- ~~End of February 2025~~ Early/Mid March: Release of training and development data. 
-- ~~End of February 2025~~ March: Release of low-latency baseline system. 
+- ~~End of February 2025~~ 21st March: Release of training and development data. 
+- ~~End of February 2025~~ Late March: Release of low-latency baseline system. 
 - May 2025: Evaluation data release. 
 - May 2025: Leaderboard open for submissions. 
 - May 2025: Paper submission opens. Further information coming soon. 

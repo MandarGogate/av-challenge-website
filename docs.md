@@ -29,31 +29,20 @@ Leave the message body blank.
 
 #### 4th edition of the AVSE Challenge
 
-We are conducting a 4th edition of the Audio-Visual Speech Enhancement challenge in 2025. 
-Further details about the challenge will be announced soon. 
+The 4th edition of the Audio-Visual Speech Enhancement challenge will be held as a satellite event of Interspeech 2025.
+Please read the call for papers [here](getting-started/call-for-papers.md)
+The AVSEC-4 timeline is available [here](important-dates.md) and the call for papers
+### AVSEC-4 Data
 
-[//]: # (We will run the 3rd edition of the Challenge using identical train and dev datasets to those used in the 1st and 2nd editions.)
-
-[//]: # (Further announcements about the train/dev dataset can be found [here]&#40;challenge-data/data-spec.md&#41;)
-
-[//]: # ()
-[//]: # (Information about the submission deadline is available [here]&#40;/important-dates.md&#41;.)
-
-### Challenge Data
-
-[//]: # (**Note that this dataset is identical to that used in the 1st edition of the Challenge, <avse1_data_v2.tar>**)
-
-We are making updated to to the AVSEC data. Further information will be announced soon. 
-
-- [Scene Generation](/challenge-data/scene-gen.md) - TBA 
+- [Scene Generation](/challenge-data/scene-gen.md)
 
 [//]: # (- a description of the listening scenario and how it has been simulated.)
-- [Data Specifications](/challenge-data/data-spec.md) - TBA  
+- [Data Specifications](/challenge-data/data-spec.md)
 
 [//]: # (- the data that can be used to train and evaluate your system during development.)
 
 ### Software
-- [Baseline model](/software/baseline.md)- TBA
+- [Baseline model](/software/baseline.md)- TBA  (expected in late March 2025)
 
 [//]: # (- a fully functioning baseline model is provided to challenge participants)
 - [Core Software](/software/core.md) - the tools that we are providing to help you generate more data and evaluate a challenge entry.
