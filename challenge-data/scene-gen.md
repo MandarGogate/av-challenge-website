@@ -26,5 +26,16 @@ To calculate the SNR levels between speech and interferer we apply the method of
 The mixes are built using different SNR levels that range from **-10 dB to +10 dB**.
 
 
+## Main differences to AVSEC{1,2,3} datasets
+
+- AVSEC-4 scripts generate binaural data. A monophonic mix is provided to participants working on single-channel audio-visual speech enhancement systems.
+- Multiple interferers: A scene can have up to three interferers. 
+- No separation between noise/speech interferers SNR ranges. All SNR levels range from **-10 dB to +10 dB**.
 
 
+[//]: # (## Basic stats of train/dev sets)
+
+[//]: # ()
+[//]: # (Duration of target files:)
+
+[//]: # (- Target files have different durations. They range from 0.6 seconds to  )

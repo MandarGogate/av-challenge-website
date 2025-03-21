@@ -82,11 +82,7 @@ Metadata of the scenes is provided as JSON files (scenes.train.json and scenes.d
 
 Metadata of target speakers (target_speech_list.json) and interfereres (masker_speech_list.json, masker_nonspeech_list.json, masker_music_list.json) is also provided. These can be used to generate other scenes, i.e. a different selection of target, interferer and SNR.
 
-## Main differences to AVSEC{1,2,3} datasets
 
-
-
-## Basic stats of train/dev sets
 
 
 ## Evaluation dataset AVSEC4

@@ -32,14 +32,11 @@ Leave the message body blank.
 The 4th edition of the Audio-Visual Speech Enhancement challenge will be held as a satellite event of Interspeech 2025.
 Please read the call for papers [here](getting-started/call-for-papers.md)
 The AVSEC-4 timeline is available [here](important-dates.md) and the call for papers
+
 ### AVSEC-4 Data
 
-- [Scene Generation](/challenge-data/scene-gen.md)
-
-[//]: # (- a description of the listening scenario and how it has been simulated.)
-- [Data Specifications](/challenge-data/data-spec.md)
-
-[//]: # (- the data that can be used to train and evaluate your system during development.)
+- [Scene Generation](/challenge-data/scene-gen.md) - a description of the listening scenario and how it has been simulated.
+- [Data Specifications](/challenge-data/data-spec.md)  - the data that can be used to train and evaluate your system during development.
 
 ### Software
 - [Baseline model](/software/baseline.md)- TBA  (expected in late March 2025)
@@ -49,10 +46,10 @@ The AVSEC-4 timeline is available [here](important-dates.md) and the call for pa
 
 ### Taking part
 - [Registration](/getting-started/register.md) - Form for participant registration
-- [Submission and Evaluation](/getting-started/submission.md) - TBA
+- [Submission and Evaluation](/getting-started/submission.md)  - Challenge submission and call for papers
 
-[//]: # (- information about how to prepare your submission and the tests which will be used to evaluate the best systems.)
-- [Rules](/getting-started/rules.md) - TBA
+- information about how to prepare your submission and the tests which will be used to evaluate the best systems.
+- [Rules](/getting-started/rules.md)
 
 [//]: # (- the rules to which all challenge entries must adhere.)
 
@@ -63,7 +60,7 @@ The AVSEC-4 timeline is available [here](important-dates.md) and the call for pa
 
 ### Results
 
-TBA
+TBA (July 2025)
 
 [//]: # (- [Listening test]&#40;/results.md&#41;)
 [//]: # (- [Leaderboard]&#40;/leaderboard.md&#41;)
