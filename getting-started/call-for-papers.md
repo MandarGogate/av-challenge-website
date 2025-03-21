@@ -46,8 +46,8 @@ We welcome participants of AVSEC-4, and also those not participating in AVSEC, t
 
 ## Important dates:
 
-- ~~End of February 2025~~ Early/Mid March: Release of training and development data. 
-- ~~End of February 2025~~ March: Release of low-latency baseline system. 
+- ~~End of February 2025~~ 21st March: Release of training and development data. 
+- ~~End of February 2025~~ Late March: Release of low-latency baseline system. 
 - May 2025: Evaluation data release. 
 - May 2025: Leaderboard open for submissions. 
 - May 2025: Paper submission opens. Further information coming soon. 

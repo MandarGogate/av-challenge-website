@@ -8,9 +8,13 @@
 ## Transparency
 
 - Teams must submit a one page [system description](https://challenge.cogmhear.org/#/getting-started/systems-description) per entry. 
-- Teams can also submit a paper to the AVSE challenge proceedings. Further information is available [here](submission.md). 
+- Teams can also submit a paper to the 4th COG-MHEAR Audio-Visual Speech Enhancement Challenge (AVSEC-4) proceedings. Further information is available [here](submission.md). 
 - Teams are encouraged – but not required – to provide us with access to the system/model and to make their code open source.
 - Anonymous entries are not allowed.
+
+# 
+AVSEC-4 scripts generate binaural data, however, we also provide a monophonic mix. **Participants can submit their entries either in binaural or monophonic format**. 
+Please keep in mind that the listening test will be conducted in a binaural setting. In cases in which a submission is monophonic participants in the listening test will listen to the monophonic enhanced signal.
 
 ## What information can I use?
 

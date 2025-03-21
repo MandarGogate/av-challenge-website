@@ -3,10 +3,7 @@
 
 - Teams must submit a one page [system description](https://challenge.cogmhear.org/#/getting-started/systems-description) per entry. 
 
-
-
 ## AVSEC-4 challenge proceedings submission and workshop registration:
-TBA
 
 AVSEC-4 will be held as a [satellite event](https://www.interspeech2025.org/satellite-events) of Interspeech 2025. 
 
