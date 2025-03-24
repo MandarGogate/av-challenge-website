@@ -18,7 +18,10 @@ TBA
 
 ## Listening test responses
 
-### Listening test results of AVSEC1 and AVSEC2
+### Listening test results of AVSEC1 and AVSEC2 (AVSEC-LTR)
+
+AVSEC-LTR contains listening test responses of previous editions of the Challenge. 
+Please refer to the README file to find more information about the license. 
 
 The AVSEC listening test responses dataset (AVSEC-LTR) is available in the following links:
 

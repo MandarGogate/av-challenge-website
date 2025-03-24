@@ -122,8 +122,9 @@ TBA
 [//]: # (This process allows us to sample a wide range of SNR values while ensuring that mean accuracies for each interval are consistent with values used in the previous challenges.)
 
 
-AVSEC-LTR contains listening test responses of previous editions of the Challenge. 
-Please refer to the README file to find more information about the license. 
+[//]: # (AVSEC-LTR contains listening test responses of previous editions of the Challenge. )
+
+[//]: # (Please refer to the README file to find more information about the license. )
 
 ## Face landmarks train/dev sets
 
