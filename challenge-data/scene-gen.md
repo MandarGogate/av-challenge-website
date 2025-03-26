@@ -30,6 +30,7 @@ The mixes are built using different SNR levels that range from **-10 dB to +10 d
 
 - AVSEC-4 scripts generate binaural data. A monophonic mix is provided to participants working on single-channel audio-visual speech enhancement systems.
 - Multiple interferers: A scene can have up to three interferers. 
+- Reverberation. More information about the rooms (i.e., geometry, location of listener and sound sources) made available by the Clarity Challenge can be found [here.](https://claritychallenge.org/clarity_CEC1_doc/docs/cec1_scenario)
 - No separation between noise/speech interferers SNR ranges. All SNR levels range from **-10 dB to +10 dB**.
 
 
