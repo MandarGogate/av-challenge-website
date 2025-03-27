@@ -28,4 +28,4 @@ Yu Tsao, Academia Sinica, Taiwan
 
 
 #### Challenge Administrator
-- Dorothy Hardy (Edinburgh Napier University)
+- Kia Dashtipour (Edinburgh Napier University)
