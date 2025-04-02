@@ -5,13 +5,13 @@ Three previous successful editions of the Challenge (organised as part of IEEE S
 
 [//]: # (AVSEC-4 will be held as a satellite Workshop. Further information about the workshop will be announced soon. )
 
-We are happy to announce that we are running a fourth edition of the Challenge. AVSEC-4 will be held as a satellite Workshop of [INTERSPEECH 2025](https://www.interspeech2025.org/satellite-events).
+We are happy to announce that we are running a fourth edition of the Challenge. AVSEC-4 will be held as a satellite Workshop of [Interspeech 2025](https://www.interspeech2025.org/satellite-events).
 
 Date: 16th of August
 Location: Rotterdam, The Netherlands.
 
 
-Accepted Workshop papers (both short 2-page and full-length papers of 4-6 pages following the INTERSPEECH 2025 paper template) will be published in ISCA Proceedings.
+Accepted Workshop papers (both short 2-page and full-length papers of 4-6 pages following the [Interspeech 2025 paper template](https://www.interspeech2025.org/author-resourceshttps://www.interspeech2025.org/author-resources)) will be published in ISCA Proceedings.
 
 
 [//]: # (Authors of selected papers &#40;including winners and runner-ups of each Challenge Track&#41; will be invited to submit significantly extended papers for consideration in a Special Issue of the [IEEE Journal of Selected Topics in Signal Processing &#40;JSTSP&#41;]&#40;https://signalprocessingsociety.org/publications-resources/special-issue-deadlines/ieee-jstsp-special-issue-deep-multimodal-speech-enhancement-and-separation&#41;)
@@ -56,6 +56,8 @@ We welcome participants of AVSEC-4, and also those not participating in AVSEC, t
 - July 2025: Acceptance notification. 
 - July 2025: early release of evaluation results.
 - August 2025: camera-ready paper. 
+
+
 
 
 [//]: # (## International Scientific Committee)

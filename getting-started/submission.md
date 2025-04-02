@@ -3,28 +3,22 @@
 
 - Teams must submit a one page [system description](https://challenge.cogmhear.org/#/getting-started/systems-description) per entry. 
 
-## AVSEC-4 challenge proceedings submission and workshop registration:
+## 4th COG-MHEAR International Audio-Visual Speech Enhancement Challenge workshop proceedings:
 
 AVSEC-4 will be held as a [satellite event](https://www.interspeech2025.org/satellite-events) of Interspeech 2025. 
 
+We invite prospective authors to submit either:
 
-AVSEC-4 workshop
-Prospective authors are invited to submit either: 
-
-- 2-page extended abstracts.
-
+- 2-page extended abstracts
 - Full-length papers of 4-6 pages.
 
 The call for papers can be found [here.](call-for-papers.md)
 
-Further information about the template to submit papers will be announced soon.
-
-[//]: # (Please follow the [INTERSPEECH template]&#40;https://interspeech2024.org/author-resources/&#41; for preparing your submission. )
-
+Please follow the [Interspeech 2025 template](https://www.interspeech2025.org/author-resources) for preparing your submission. 
 
 ### Workshop submission
 
-TBA
+Further information about the workshop submission and registration will be announced soon.
 
 [//]: # ()
 [//]: # (**Paper submission is now open!**)

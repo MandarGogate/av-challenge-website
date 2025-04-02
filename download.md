@@ -14,7 +14,10 @@ The data can be generated using code available at [GitHub repository](https://gi
 
 ## Baseline model
 
-TBA
+Scrips for binaural and single-channel versions of the baseline model are available [here.](https://github.com/cogmhear/avse_challenge/tree/main/baseline/avse4)
+
+And model weights are available [here.](https://huggingface.co/cogmhear/avse4_baseline)
+
 
 ## Listening test responses
 
