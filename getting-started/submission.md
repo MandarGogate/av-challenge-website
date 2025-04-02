@@ -15,7 +15,6 @@ Prospective authors are invited to submit either:
 
 - Full-length papers of 4-6 pages.
 
-
 The call for papers can be found [here.](call-for-papers.md)
 
 Further information about the template to submit papers will be announced soon.
@@ -24,6 +23,8 @@ Further information about the template to submit papers will be announced soon.
 
 
 ### Workshop submission
+
+TBA
 
 [//]: # ()
 [//]: # (**Paper submission is now open!**)
