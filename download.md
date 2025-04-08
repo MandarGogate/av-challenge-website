@@ -34,5 +34,7 @@ https://data.cstr.ed.ac.uk/cogmhear/protected/AVSEC-LTR-Dataset.tar
 https://data.cstr.ed.ac.uk/cogmhear/protected/avsec1_LTR_samples.tar
 - **Enhanced samples of AVSEC2:**
 https://data.cstr.ed.ac.uk/cogmhear/protected/avsec2_LTR_samples.tar
+- **Enhanced samples of AVSEC3:**
+https://data.cstr.ed.ac.uk/cogmhear/protected/avsec3_LTR_samples.tar
 
 [//]: # (To download the pretrained baseline model checkpoint please click [here]&#40;https://huggingface.co/cogmhear/avsec3-baseline&#41;.)
