@@ -53,7 +53,7 @@ The dataset includes stereo mixes, individual stems (per instrument or group of 
 [//]: # (  - 2,792 scenes &#40;4hours 32mins&#41;. Divided into 1,396 scenes for leadeboard and 1,396 scenes for listening test &#40;2hours 16 minutes each&#41;.)
 
 
-The data preparation script will generate, for each scene, the following files:
+The data preparation script will generate, for each scene, the following files as binaural or monoaural signals:
 
 S00001 is the scene ID
 
@@ -63,16 +63,19 @@ S00001 is the scene ID
 
 **Binaural signals**
 
-- S00001_target.wav (target audio)
-- S00001_target_anechoic.wav (target anechoic audio to compute objective metrics (MBSTOI))
-- S00001_interferer.wav (interferer audio)
-- S00001_mix.wav (mixed audio = target audio + interferer audio)
+- S00001_target.wav (target signal)
+- S00001_target_anechoic.wav (target anechoic signal to compute objective metrics (MBSTOI))
+- S00001_interferer.wav (interferer signal)
+- S00001_mix.wav (mixed audio = target signal + interferer signal)
 
-Additionally, we provide a monophonic mix signal:
+**Monoaural signals**
+[//]: # (Additionally, we provide a monophonic mix signal:)
+- S00001_target_mono.wav (monoaural target signal)
+- S00001_target_mono_anechoic.wav (monoaural target anechoic signal to compute objective metrics (STOI))
+- S00001_interferer_mono.wav (monoaural interferer signal)
+- S00001_mono_mix.wav (mixed audio = target signal + interferer signal)
 
-**Monophonic signals**
-
-- S00001_mono_mix.wav (mixed audio = target audio + interferer audio)
+*The **config file** provides parameters to choose which signals to render (i.e, monoaural, binaural, all signals).*
 
 **Scenes metadata**
 
@@ -82,11 +85,10 @@ Metadata of the scenes is provided as JSON files (scenes.train.json and scenes.d
 
 Metadata of target speakers (target_speech_list.json) and interferers (masker_speech_list.json, masker_nonspeech_list.json, masker_music_list.json) is also provided. These can be used to generate other scenes, i.e. a different selection of target, interferer and SNR.
 
-
-
 ## Evaluation dataset AVSEC4
 
 TBA
+
 
 [//]: # (- Contains 2,400 scenes. )
 
