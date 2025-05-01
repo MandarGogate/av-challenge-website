@@ -69,7 +69,6 @@ S00001 is the scene ID
 - S00001_mix.wav (mixed audio = target signal + interferer signal)
 
 **Monoaural signals**
-[//]: # (Additionally, we provide a monophonic mix signal:)
 - S00001_target_mono.wav (monoaural target signal)
 - S00001_target_mono_anechoic.wav (monoaural target anechoic signal to compute objective metrics (STOI))
 - S00001_interferer_mono.wav (monoaural interferer signal)
