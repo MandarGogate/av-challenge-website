@@ -16,10 +16,16 @@ The aim of the Audio-Visual Speech Enhancement (AVSE) Challenge is to bring toge
 You can sign up to receive announcements at our mailing list (avse-challenge@mlist.is.ed.ac.uk).
 
 #### Subscribe
-Send a message to sympa@mlist.is.ed.ac.uk from the address you want to subscribe to the list.  
-In the subject line of your message, type in:  
-subscribe avse-challenge YourFirstName YourFamilyName  
-Leave the message body blank.
+
+Please fill this [form](getting-started/register.md) to register for the Challenge and be added to the mailing list. 
+
+[//]: # (Send a message to sympa@mlist.is.ed.ac.uk from the address you want to subscribe to the list.  )
+
+[//]: # (In the subject line of your message, type in:  )
+
+[//]: # (subscribe avse-challenge YourFirstName YourFamilyName  )
+
+[//]: # (Leave the message body blank.)
 
 #### Unsubscribe
 Send a message to sympa@mlist.is.ed.ac.uk from the address you used to subscribe to the list.  
