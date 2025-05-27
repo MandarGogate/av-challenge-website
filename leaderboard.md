@@ -7,5 +7,4 @@ To make a submission to the leaderboard please use the google form: <a href="htt
 
 Please note that we expect a maximum of one submission per team per day. 
 
-# Leaderboard
 <iframe src="https://mandargogate.github.io/avsec2025/" style="width:100%; height:800px;" scrolling="auto" frameBorder="0"></iframe>
