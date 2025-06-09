@@ -25,12 +25,6 @@ Further information about the workshop submission and registration will be annou
 **Paper submission opens on the 23rd of June!**
 
 
-
-Acknowledgments:
-
-The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
-
-
 [//]: # (You can make your submission [here.]&#40;https://cmt3.research.microsoft.com/AVSEC2024&#41;)
 
 
