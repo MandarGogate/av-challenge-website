@@ -24,7 +24,6 @@ Further information about the workshop submission and registration will be annou
 [//]: # (**Paper submission is now open!**)
 **Paper submission opens on the 23rd of June!**
 
-Paper submission will be done through Microsoft CMT. 
 
 
 Acknowledgments:
