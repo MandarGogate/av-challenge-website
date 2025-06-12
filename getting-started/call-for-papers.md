@@ -26,7 +26,7 @@ https://challenge.cogmhear.org/#/getting-started/register
 Paper submission is open! 
 You can make your submission [here.](https://cmt3.research.microsoft.com/AVSEC2025)
 
-###*Topics*
+*Topics*
 
 We invite prospective authors to submit either 2-page short paper or full-length papers of 4-6 pages.  
 
