@@ -16,21 +16,31 @@ The call for papers can be found [here.](call-for-papers.md)
 
 Please follow the [Interspeech 2025 template](https://www.interspeech2025.org/author-resources) for preparing your submission. 
 
-### Workshop submission
-
-Further information about the workshop submission and registration will be announced soon.
-
+### Workshop paper submission
 
 [//]: # (**Paper submission is now open!**)
-**Paper submission opens on the 23rd of June!**
+**Paper submission is open!**
 
-[//]: # (You can make your submission [here.]&#40;https://cmt3.research.microsoft.com/AVSEC2024&#41;)
-
-[//]: # (<p>The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.</p>)
+You can make your submission [here.](https://cmt3.research.microsoft.com/AVSEC2025)
 
 ### Workshop registration:
 
-**Workshop registration costs:**
+**Registration to the workshop is now open!** 
+
+*Workshop registration fees:*
+
+- Full/ISCA Members: EUR 40
+- Student/ISCA Student: EUR 25
+
+
+You have two options to register:
+
+- To register to the workshop through the Interspeech registration system please use this [link](https://www.interspeech2025.org/registration)
+- To register to the Workshop alone: TBA
+
+[//]: # (  **Note: Due to requirements of the payment system, prices for the workshop alone registration are given in GBP.**. )
+
+## AVSEC-4 program:
 
 TBA
 
@@ -60,7 +70,6 @@ TBA
 
 [//]: # ()
 [//]: # ()
-[//]: # (  **Note: Due to requirements of the payment system, prices for the workshop alone registration are given in GBP.**. )
 
 
 # Evaluation
