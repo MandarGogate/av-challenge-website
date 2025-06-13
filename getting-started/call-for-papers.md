@@ -52,7 +52,7 @@ We welcome participants of AVSEC-4, and also those not participating in AVSEC, t
 - ~~End of February 2025~~ 2nd April: Release of baseline systems (binaural and monoaural).
 - ~~May 2025~~ 6th June: Evaluation data release. 
 - ~~May 2025~~ 9th June:: Leaderboard open for submissions. 
-- ~~May 2025~~ 23rd June: Paper submission opens. 
+- ~~May 2025~~ 12th June: Paper submission opens. 
 - 27th June 2025: Deadline for challenge submissions and one-page system description submission.
 - 6th July 2025: Paper submission closes. 
 - 10th July 2025: early release of evaluation results.
