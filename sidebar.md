@@ -7,6 +7,7 @@
 - Taking Part
   * [Registration](/getting-started/register.md)
   * [Submission and Evaluation](/getting-started/submission.md)
+  * [AVSEC4 workshop](/getting-started/avsec4-workshop.md)
   * [Rules](/getting-started/rules.md)
 
 [//]: # (  * [Call for papers]&#40;/getting-started/call-for-papers.md&#41;)
