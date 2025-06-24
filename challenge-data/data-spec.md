@@ -93,9 +93,9 @@ The in-domain evaluation set has 3180 scenes. A set of those are used in the lea
 [//]: # (Please submit all 3180 scenes when uploading to the leaderboard.  )
 
 Each scene in the evaluation data has three files:
-S5xxxx_silent.mp4 (the silent video)
-S5xxxx_mono_mix.wav (monoaural mix)
-S5xxxx_mix.wav (binaural mix)
+- S5xxxx_silent.mp4 (the silent video)
+- S5xxxx_mono_mix.wav (monoaural mix)
+- S5xxxx_mix.wav (binaural mix)
 
 Teams working on single channel submissions should use *S5xxxx_mono_mix.wav* files while teams working on binaural submissions should use *S5xxxx_mix.wav* files.
 
