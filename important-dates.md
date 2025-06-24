@@ -7,6 +7,7 @@ We expect the following timeline for the 4th COG-MHEAR Audio-Visual Speech Enhan
 - ~~May 2025~~ 6th June: Evaluation data release. 
 - ~~May 2025~~ 9th June: Leaderboard open for submissions. 
 - ~~May 2025~~ 12th June: Paper submission opens. 
+- 24th June 2025: Additional "out-of-domain" evaluation corpus released.
 - 27th June 2025: Deadline for challenge submissions and one-page system description submission.
 - 6th July 2025: Paper submission closes. 
 - 10th July 2025: early release of evaluation results.
