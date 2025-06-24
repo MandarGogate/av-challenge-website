@@ -86,8 +86,54 @@ Metadata of target speakers (target_speech_list.json) and interferers (masker_sp
 
 ## Evaluation dataset AVSEC4
 
-TBA
+### In-domain: Listening test evaluation set
 
+The in-domain evaluation set has 3180 scenes. A set of those are used in the leaderboard (i.e., 1500 scenes) and the remaining ones will be set aside for the listening test. 
+
+[//]: # (Please submit all 3180 scenes when uploading to the leaderboard.  )
+
+Each scene in the evaluation data has three files:
+S5xxxx_silent.mp4 (the silent video)
+S5xxxx_mono_mix.wav (monoaural mix)
+S5xxxx_mix.wav (binaural mix)
+
+Teams working on single channel submissions should use *S5xxxx_mono_mix.wav* files while teams working on binaural submissions should use *S5xxxx_mix.wav* files.
+
+A few remarks about in-domain the evaluation set:
+
+- Target speakers are derived from Ted and TedX talks.
+- Noises are a subset of those preset in the training set. 
+- *Impulse Responses* used to create the evaluation set are not simulated as in the training set, but instead they were recorded in three different rooms (2 small/medium size meeting rooms and one large meeting room). 
+Impulse responses for the target speaker were recorded at 1m and 1.5m of the target source, while those used for noise sources are place at different angles and distances between 1m and 2m.  
+
+Please download the in-domain dataset [here](https://data.cstr.ed.ac.uk/cogmhear/protected/avsec4_evalset.tar). Use the credentials your received when joining the mailing list. 
+
+### Out-of-domain evaluation set
+
+**Important information: Please note that the listening test will be carried out with the in-domain evaluation dataset**
+
+Additionally, we provide and out-of-domain evaluation set for the teams who would like to test their systems under more challenging conditions. 
+
+This dataset is a first-of-its-kind audio-visual (AV) evaluation corpus designed to test the real-world performance of multimodal hearing technologies, such as audio-visual speech enhancement. It features free-flowing, spontaneous conversations between small groups in realistic and challenging sound environments.
+
+Recording Setup:
+
+Environment: Recordings took place in a specialized Auralisation Suite equipped with a 24-loudspeaker array (eight on the ceiling, eight at ear-level, and eight at ground-level) to create immersive and complex acoustic scenes.
+Audio: A binaural microphone was placed on a designated listener (either hearing aid user or normal hearing participant) to capture the full acoustic mix (i.e., the speech from all participants plus the ambient noise).
+Video: Two high-definition cameras were used to capture synchronized video streams, with one focused on each speaker's face.
+Participants and Signals:
+
+Speakers: Conversations were held in dyads (groups of two). Each dyad consisted of either two participants with normal hearing or one experienced hearing aid user and one normal hearing participant.
+Provided Signals: The dataset provides the mixed audio from the reference microphone in both binaural and monophonic formats.
+Content and Labels:
+
+Content: The speech is entirely spontaneous and unscripted. Participants were given conversational prompts to encourage natural, free-flowing dialogue. This is a spontaneous speech corpus, not a read-speech corpus.
+Noise Conditions and SNRs:
+
+The noise was played through the loudspeaker array during the recording sessions, creating a highly realistic and dynamic signal-to-noise ratio (SNR) that varies naturally throughout the conversations. This differs from datasets where noise is synthetically added in post-processing.
+Recordings were conducted in a variety of simulated scenes (e.g., a cafeteria, a train station, and a busy street) with signal-to-noise ratios (SNRs) ranging from +5 dB to -20 dB.
+
+Please download the out-of-domain datase [here](https://bit.ly/avsec4_outofdomain_dataset). Use the credentials you received through the mailing list when this dataset was released. 
 
 [//]: # (- Contains 2,400 scenes. )
 
