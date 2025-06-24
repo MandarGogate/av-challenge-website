@@ -105,7 +105,7 @@ A few remarks about in-domain the evaluation set:
 - Noises are a subset of those preset in the training set. 
 - *Impulse Responses* used to create the evaluation set are not simulated as in the training set, but instead they were recorded in three different rooms (2 small/medium size meeting rooms and one large meeting room). 
 Impulse responses for the target speaker were recorded at 1m and 1.5m of the target source, while those used for noise sources are place at different angles and distances between 1m and 2m.  
-
+- SNRs range from -18 dB to 6.55 dB. SNRs were selected according to listening test results of previous editions of AVSEC and they reflect intelligibility scores that range from 28 to 85 percent. 
 Please download the in-domain dataset [here](https://data.cstr.ed.ac.uk/cogmhear/protected/avsec4_evalset.tar). Use the credentials your received when joining the mailing list. 
 
 ### Out-of-domain evaluation set
@@ -133,7 +133,7 @@ Noise Conditions and SNRs:
 The noise was played through the loudspeaker array during the recording sessions, creating a highly realistic and dynamic signal-to-noise ratio (SNR) that varies naturally throughout the conversations. This differs from datasets where noise is synthetically added in post-processing.
 Recordings were conducted in a variety of simulated scenes (e.g., a cafeteria, a train station, and a busy street) with signal-to-noise ratios (SNRs) ranging from +5 dB to -20 dB.
 
-Please download the out-of-domain datase [here](https://bit.ly/avsec4_outofdomain_dataset). Use the credentials you received through the mailing list when this dataset was released. 
+Please download the out-of-domain dataset [here](https://bit.ly/avsec4_outofdomain_dataset). Use the credentials you received through the mailing list when this dataset was released. 
 
 [//]: # (- Contains 2,400 scenes. )
 
