@@ -30,7 +30,7 @@ You can make your submission [here.](https://cmt3.research.microsoft.com/AVSEC20
 
 We invite prospective authors to submit either 2-page short paper or full-length papers of 4-6 pages.  
 
-We welcome participants of AVSEC-4, and also those not participating in AVSEC, to submit papers on related research topics including but not limited to the following:
+We welcome participants of AVSEC-4, previous Challenge editions (AVSEC-2 and AVSEC-3), and also those not participating in AVSEC, to submit papers on related research topics including but not limited to the following:
 
 - Low-latency approaches to audio-visual speech enhancement and separation.
 - Human auditory-inspired models of multi-modal speech perception and enhancement.
