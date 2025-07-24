@@ -1,13 +1,11 @@
 # AVSEC-4 Challenge 2025 results
-# Results of previous editions 
-
-- Results from the 1st edition can be found [here](/avsec1/results.md).
-- Results from the 2nd edition can be found [here](/avsec2/results.md). 
-- Results from the 3rd edition can be found [here](/avsec3/results.md).
-
-#AVSEC-4 
 
 **AVSEC-4 listening test results are out!**
+
+We thank all participants for taking part in the Challenge.
+Further information will be shared in the [AVSEC-4 workshop.](getting-started/avsec4-workshop.md)
+
+Listening test design:
 
 We conducted two separate listening tests; one for monoaural submissions and another for binaural submissions. 
 Participants taking part in the listening test were assigned to either the monoaural or to the binaural test. 
@@ -107,3 +105,9 @@ Scores were calculated as the percentage of words correctly identified, computed
 [//]: # (| TBA         | J      | 70.18       | 77.63              | 65.35               | 67.54                |                            )
 
 [//]: # (|             | LSD    | 4.65        | 6.73               | 7.76                | 7.42                 |                 )
+
+# Results of previous editions: 
+
+- Results from the 1st edition can be found [here](/avsec1/results.md).
+- Results from the 2nd edition can be found [here](/avsec2/results.md). 
+- Results from the 3rd edition can be found [here](/avsec3/results.md).
