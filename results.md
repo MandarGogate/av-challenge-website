@@ -29,12 +29,13 @@ In each test (i.e., monoaural and binaural), we evaluated the same video clips. 
 | TBA         | J      | 70.18       | 77.63              | 65.35               | 67.54              |                            
 |             | LSD    | 4.65        | 6.73               | 7.76                | 7.42               |  
 
-Word intelligibility scores (%) calculated across all conditions (Overall), per interferer combination: Speech & Noise, Speech & Speech and Speech & Music. A higher score means more intelligible. 
-Scores were calculated as the percentage of words correctly identified, computed for each participant and averaged across 60 participants. Differences larger than the Fisher's least significant difference (LSD) are significant. System A corresponds to the noisy mixes (i.e.  non-enhanced).}
 
 <p align="center">
   <img src="Figures/AVSEC4_monoaural_entries_barplot_letters.png" alt="diagram" width="700"/>
 </p>
+
+Word intelligibility scores (%) calculated across all conditions (Overall), per interferer combination: Speech & Noise, Speech & Speech and Speech & Music. A higher score means more intelligible. 
+Scores were calculated as the percentage of words correctly identified, computed for each participant and averaged across 60 participants. Differences larger than the Fisher's least significant difference (LSD) are significant. System A corresponds to the noisy mixes (i.e.  non-enhanced).}
 
 
 # Binaural submissions
@@ -48,12 +49,13 @@ Scores were calculated as the percentage of words correctly identified, computed
 | TBA         | U      | 85.23       | 87.28              | 89.04               | 79.39              |                     
 |             | LSD    | 5.29        | 7.97               | 7.53                | 7.60               |  
 
-Word intelligibility scores (%) calculated across all conditions (Overall), per interferer combination: Speech & Noise, Speech & Speech and Speech & Music. A higher score means more intelligible. 
-Scores were calculated as the percentage of words correctly identified, computed for each participant and averaged across 36 participants. Differences larger than the Fisher's least significant difference (LSD) are significant. System Q corresponds to the noisy mixes (i.e. non-enhanced) and system P to the binaural baseline.
 
 <p align="center">
   <img src="Figures/AVSEC4_binaural_entries_barplot_letters.png" alt="diagram" width="700"/>
 </p>
+
+[//]: # (Word intelligibility scores &#40;%&#41; calculated across all conditions &#40;Overall&#41;, per interferer combination: Speech & Noise, Speech & Speech and Speech & Music. A higher score means more intelligible. )
+Scores were calculated as the percentage of words correctly identified, computed for each participant and averaged across 36 participants. Differences larger than the Fisher's least significant difference (LSD) are significant. System Q corresponds to the noisy mixes (i.e. non-enhanced) and system P to the binaural baseline.
 
 
 # One page system descriptions:  
