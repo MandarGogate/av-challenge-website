@@ -24,6 +24,11 @@ You have two options to register:
 
 
   **Note: Due to requirements of the payment system, prices for the workshop alone registration are given in GBP.**. 
+
+Registration policy:
+
+AVSEC-4 will follow the Interspeech registration [policy](https://www.interspeech2025.org/submission-policy). Each accepted paper must be covered by at least one of its co-authors and a full registration can cover up to four papers. 
+
 ## Provisional Agenda
 
 TBA
