@@ -44,11 +44,11 @@ Scores were calculated as the percentage of words correctly identified, computed
 | TBA         | P      | 48.98       | 52.63              | 48.68               | 45.61              |     
 | TBA         | Q      | 62.28       | 62.28              | 63.16               | 61.40              |       
 | TBA         | R      | 65.03       | 63.84              | 73.21               | 58.04              |       
-| TBA         | S      | 64.73       | 58.48              | 70.98               | 64.73              |                                              
-| TBA         | T      | 51.90       | 56.14              | 50.88               | 48.68              |                       
+| TBA         | S      | 64.73       | 58.48              | 70.98               | 64.73              |
 | TBA         | U      | 85.23       | 87.28              | 89.04               | 79.39              |                     
 |             | LSD    | 5.29        | 7.97               | 7.53                | 7.60               |  
 
+[//]: # (| TBA         | T      | 51.90       | 56.14              | 50.88               | 48.68              |                       )
 
 <p align="center">
   <img src="Figures/AVSEC4_binaural_entries_barplot_letters.png" alt="diagram" width="700"/>
