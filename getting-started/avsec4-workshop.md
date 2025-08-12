@@ -51,10 +51,10 @@ Required Poster format: A0, portrait orientation. (List of all registered papers
 - 14:15   Tea/Coffee Break (Aula Foyer)
 - 14:30   Posters, Demos & Networking
 - 15:45   AVSEC-4 Overview (Dr Lorena Aldana, Edinburgh University, and Dr 
-Mandar Gogate, ENU) & Prize ceremony for AVSEC winners and runner-ups [including update on AVSEC-5 and planned special issue]
+Mandar Gogate, ENU) & Prize ceremony for AVSEC winners and runner-ups (including update on planned special issue)
 - 16:15   Panel Session: AVSEC challenges, opportunities and future directions
 - Invited Panelists (TBC): (Chair) Prof Yu Tsao (Academia Sinica, Taiwan); Prof Amir Hussain (ENU, UK); Prof Minje Kim (University of Illinois Urbana-Champaign, USA); Prof Sabato Marco Siniscalchi (University of Palermo, Italy), Prof Joao Papa (Sao Paulo State University, Brazil), Adeel Hussain (Research Fellow & Clinical Audiologist, ENU, UK); 
-17:00 Close
+- 17:00 Close
 
 
 List of Registered Papers, Corresponding Authors & Poster Presenters
