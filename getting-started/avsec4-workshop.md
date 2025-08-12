@@ -1,10 +1,10 @@
 # 4th COG-MHEAR International Audio-Visual Speech Enhancement Challenge (AVSEC-4) 
 
-**Time: Half-day afternoon workshop. Details to be announced**
+**Time: Half-day afternoon workshop (12:00 to 17:00)**
 
 **Date: 16th August, 2025**
 
-**Location: Rotterdam**
+**Location: Frans van Hasselt Room, Aula Conference Centre, Technical University (TU) Delft, The Netherlands**
 
 ## Information and guidelines
 
@@ -39,7 +39,6 @@ NOTE: All registrants should pick up the Workshop badge, at the registration des
 All accepted (and registered) Workshop papers are being presented as Posters. 
 
 Required Poster format: A0, portrait orientation. (List of all registered papers, their corresponding authors, and Poster Presenters can be found at the end of the Agenda below)
-
 
 **Workshop Agenda** 
 
