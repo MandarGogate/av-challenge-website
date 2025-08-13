@@ -52,11 +52,10 @@ Required Poster format: A0, portrait orientation. (List of all registered papers
 - 15:45   AVSEC-4 Overview (Dr Lorena Aldana, Edinburgh University, and Dr 
 Mandar Gogate, ENU) & Prize ceremony for AVSEC winners and runner-ups (including update on planned special issue)
 - 16:15   Panel Session: AVSEC challenges, opportunities and future directions
-- Invited Panelists (TBC): (Chair) Prof Yu Tsao (Academia Sinica, Taiwan); Prof Amir Hussain (ENU, UK); Prof Minje Kim (University of Illinois Urbana-Champaign, USA); Prof Sabato Marco Siniscalchi (University of Palermo, Italy), Prof Joao Papa (Sao Paulo State University, Brazil), Adeel Hussain (Research Fellow & Clinical Audiologist, ENU, UK); 
+- Invited Panelists (TBC): (Chair) Prof Yu Tsao (Academia Sinica, Taiwan); Prof Amir Hussain (ENU, UK); Prof Joao Papa (Sao Paulo State University, Brazil), Adeel Hussain (Research Fellow & Clinical Audiologist, ENU, UK); Dr Peter Sung (Merry Electronics Co. Ltd)
+ 
 - 17:00 Close
 
-
-List of Registered Papers, Corresponding Authors & Poster Presenters
 
 1: Restoring Degraded Multi-Speaker Speech Through Separation and Enhancement
 Corresponding Author: Akam Rahimi
@@ -76,11 +75,11 @@ Presenting author: Kia Dashtipour
 
 5: MSF-AVSE: Multi-Stream Fusion Network for Binaural Audiovisual Speech Enhancement
 Nasir Saleem
-Presenting author: Adeel Hussain
+Presenting author: Mandar Gogate
 
 6: Visual Speech Enhancement With Calibrated Features and Dual-Path Transformer
 Nasir Saleem
-Presenting author: Adeel Hussain
+Presenting author: Mandar Gogate
 
 7: Multimodal Speech Sensing for Next Generation Hearing Aids
 Michaela Reay
@@ -88,15 +87,15 @@ Presenting Author: Michaela Reay
 
 8: ConformerAVSE: A Transformer-based Audio-Visual Speech Enhancement Model for Hearing Aids
 Dongkun Xu
-Presenting author: Amir Hussain
+Presenting author: Mandar Gogate
 
 9: AV-LocoFiLM: Audio-Visual Speech Enhancement Using FiLM-Based Fusion and Hybrid Local–Global Transformers
 Shafique Ahmed
-Presenting author: Yu Taso
+Presenting author: Yu Tsao
 
 10: FPGA-Based LSTM Acceleration for Real-Time Speech Enhancement in Next Generation Hearing Aids
 Xianpo Ni
-Presenting author: Amir Hussain
+Presenting author: Mandar Gogate
 
 11: AV-TFLocoformer: A Locally Convolutional Transformer for Robust Audio-Visual Speech Enhancement
 Aquib Raza
@@ -110,33 +109,32 @@ Presenting author: Kia Dashtipour
 M. Sajid
 Presenting author: Amir Hussain
 
-14: Audio-Visual Speech Enhancement for Cochlear Implant Applications Using the CogMHEAR Challenge Baseline Model and CI-Compatible Front-End
-Ayesha Munawara
-Presenting author: Kia Dashtipour
-
-15: Efficient Audio-Visual Speech Enhancement via Neural Architecture Search
+14: Efficient Audio-Visual Speech Enhancement via Neural Architecture Search
 Khubaib Ahmed
 Presenting author: Kia Dashtipour
 
-16: How LSTM is Integrated in the Functional Link Adaptive Filter
+15: How LSTM is Integrated in the Functional Link Adaptive Filter
 Alireza Nezamdoust
 Presenting author: Alireza Nezamdoost
 
-17: Edge-Optimized Cognition and Context-Aware Speech Enhancement for Multimodal Hearing Aids
+16: Edge-Optimized Cognition and Context-Aware Speech Enhancement for Multimodal Hearing Aids
 Usman Anwar
-Presenting author: Kia Dashtipour
+Presenting author: Adeel Hussain
 
-18: A Mamba-Based Audio-Visual Speech Enhancement Model for the 4th COG-MHEAR AVSEChallenge
+17: A Mamba-Based Audio-Visual Speech Enhancement Model for the 4th COG-MHEAR AVSEChallenge
 Chih Ning Chen
 Presenting author: Yu Tsao
 
-19:  Leveraging Mamba with Full-Face Vision for Audio-Visual Speech Enhancement	
+18:  Leveraging Mamba with Full-Face Vision for Audio-Visual Speech Enhancement	
 Rong Chao 
 Presenting author: Yu Tsao
 
-20: BAV-MossFormer2: Enhanced MossFormer2 for Binaural Audio-Visual Speech Enhancement
+19: BAV-MossFormer2: Enhanced MossFormer2 for Binaural Audio-Visual Speech Enhancement
 Wenze Ren
 Presenting author: Yu Tsao
+
+
+
 
 
 
