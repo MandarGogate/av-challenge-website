@@ -2,8 +2,9 @@
 
 **AVSEC-4 listening test results are out!**
 
-We thank all participants for taking part in the Challenge.
-Further information will be shared in the [AVSEC-4 workshop.](getting-started/avsec4-workshop.md)
+[//]: # (We thank all participants for taking part in the Challenge.)
+
+[//]: # (Further information will be shared in the [AVSEC-4 workshop.]&#40;getting-started/avsec4-workshop.md&#41;)
 
 
 We thank all participants for taking part in the challenge and congratulate the winning teams!
