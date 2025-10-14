@@ -5,6 +5,35 @@
 We thank all participants for taking part in the Challenge.
 Further information will be shared in the [AVSEC-4 workshop.](getting-started/avsec4-workshop.md)
 
+
+We thank all participants for taking part in the challenge and congratulate the winning teams!
+We thank our industry partner, Sonova, for sponsoring the Challenge.
+
+### Monoaural submissions:
+- 1st place: <br /> 
+Rong Chao <br /> 
+Academia Sinica, National Taiwan University 
+
+- 2nd place: <br /> 
+Aquib Raza <br /> 
+National Taiwan University
+
+### Binaural submissions:
+- 1st place: <br /> 
+Zhan Jin <br /> 
+Wuhan University & Duke Kunshan University, China
+
+- 2nd place: <br /> 
+Wenze Ren <br /> 
+National Taiwan University
+
+
+### Low-latency track:
+- 1st place: <br /> 
+Rahma Fourati <br /> 
+ReGIM-Lab, University of Sfax, Tunisia
+
+
 Listening test design:
 
 We conducted two separate listening tests; one for monoaural submissions and another for binaural submissions. 
@@ -14,19 +43,18 @@ In each test (i.e., monoaural and binaural), we evaluated the same video clips. 
 
 # Monoaural submissions
 
-
 | System name | Letter | **Overall** | **Speech & Noise** | **Speech & Speech** | **Speech & Music** |
 |-------------|--------|-------------|--------------------|---------------------|--------------------|
-| TBA         | A      | 65.20       | 63.60              | 68.86               | 63.16              |     
-| TBA         | B      | 77.19       | 82.46              | 76.75               | 72.37              |       
-| TBA         | C      | 50.58       | 55.70              | 45.61               | 50.44              |       
-| TBA         | D      | 61.55       | 60.09              | 62.28               | 62.28              |                                              
-| TBA         | E      | 57.75       | 61.40              | 53.07               | 58.77              |                       
-| TBA         | F      | 40.35       | 36.84              | 42.11               | 42.11              |                     
-| TBA         | G      | 50.88       | 53.95              | 48.68               | 50.00              |                           
-| TBA         | H      | 64.77       | 71.49              | 58.77               | 64.04              |                            
-| TBA         | I      | 44.30       | 37.72              | 47.81               | 47.37              |                            
-| TBA         | J      | 70.18       | 77.63              | 65.35               | 67.54              |                            
+| Unmodified  | A      | 65.20       | 63.60              | 68.86               | 63.16              |     
+| CITISIN     | B      | 77.19       | 82.46              | 76.75               | 72.37              |       
+| ENU-Try1    | C      | 50.58       | 55.70              | 45.61               | 50.44              |       
+| RahmaTeam   | D      | 61.55       | 60.09              | 62.28               | 62.28              |                                              
+| Recogna     | E      | 57.75       | 61.40              | 53.07               | 58.77              |                       
+| TREND       | F      | 40.35       | 36.84              | 42.11               | 42.11              |                     
+| USTC_Entry1 | G      | 50.88       | 53.95              | 48.68               | 50.00              |                           
+| Bio-ASP     | H      | 64.77       | 71.49              | 58.77               | 64.04              |                            
+| Team-OPTIMAL| I      | 44.30       | 37.72              | 47.81               | 47.37              |                            
+| EnhanceTech | J      | 70.18       | 77.63              | 65.35               | 67.54              |                            
 |             | LSD    | 4.65        | 6.73               | 7.76                | 7.42               |  
 
 
@@ -41,11 +69,11 @@ Scores were calculated as the percentage of words correctly identified, computed
 # Binaural submissions
 | System name | Letter | **Overall** | **Speech & Noise** | **Speech & Speech** | **Speech & Music** |
 |-------------|--------|-------------|--------------------|---------------------|--------------------|
-| TBA         | P      | 48.98       | 52.63              | 48.68               | 45.61              |     
-| TBA         | Q      | 62.28       | 62.28              | 63.16               | 61.40              |       
-| TBA         | R      | 65.03       | 63.84              | 73.21               | 58.04              |       
-| TBA         | S      | 64.73       | 58.48              | 70.98               | 64.73              |
-| TBA         | U      | 85.23       | 87.28              | 89.04               | 79.39              |                     
+| Baseline    | P      | 48.98       | 52.63              | 48.68               | 45.61              |     
+| Unmodified  | Q      | 62.28       | 62.28              | 63.16               | 61.40              |       
+| TNP         | R      | 65.03       | 63.84              | 73.21               | 58.04              |       
+| Media NTU   | S      | 64.73       | 58.48              | 70.98               | 64.73              |
+| WHU DKU     | U      | 85.23       | 87.28              | 89.04               | 79.39              |                     
 |             | LSD    | 5.29        | 7.97               | 7.53                | 7.60               |  
 
 [//]: # (| TBA         | T      | 51.90       | 56.14              | 50.88               | 48.68              |                       )
@@ -77,36 +105,6 @@ Scores were calculated as the percentage of words correctly identified, computed
 - [TNP](https://challenge.cogmhear.org/submissions/avsec4_2025/TNP.pdf)
 - [WHU_DKU](https://challenge.cogmhear.org/submissions/avsec4_2025/WHU_DKU.pdf)
 
-
-
-[//]: # ()
-[//]: # (|             |        |             |                    |                     |                      |)
-
-[//]: # (|-------------|--------|-------------|--------------------|---------------------|----------------------|)
-
-[//]: # (| System name | Letter | **Overall** | **Speech & Noise** | **Speech & Speech** | **Speech and Music** | )
-
-[//]: # (| TBA         | A      | 65.20       | 63.60              | 68.86               | 63.16                |     )
-
-[//]: # (| TBA         | B      | 77.19       | 82.46              | 76.75               | 72.37                |       )
-
-[//]: # (| TBA         | C      | 50.58       | 55.70              | 45.61               | 50.44                |       )
-
-[//]: # (| TBA         | D      | 61.55       | 60.09              | 62.28               | 62.28                |                                              )
-
-[//]: # (| TBA         | E      | 57.75       | 61.40              | 53.07               | 58.77                |                       )
-
-[//]: # (| TBA         | F      | 40.35       | 36.84              | 42.11               | 42.11                |                     )
-
-[//]: # (| TBA         | G      | 50.88       | 53.95              | 48.68               | 50.00                |                           )
-
-[//]: # (| TBA         | H      | 64.77       | 71.49              | 58.77               | 64.04                |                            )
-
-[//]: # (| TBA         | I      | 44.30       | 37.72              | 47.81               | 47.37                |                            )
-
-[//]: # (| TBA         | J      | 70.18       | 77.63              | 65.35               | 67.54                |                            )
-
-[//]: # (|             | LSD    | 4.65        | 6.73               | 7.76                | 7.42                 |                 )
 
 # Results of previous editions: 
 
