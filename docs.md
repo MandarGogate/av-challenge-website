@@ -45,7 +45,7 @@ The AVSEC-4 timeline is available [here](important-dates.md) and the call for pa
 - [Data Specifications](/challenge-data/data-spec.md)  - the data that can be used to train and evaluate your system during development.
 
 ### Software
-- [Baseline model](/software/baseline.md)- TBA  (expected in late March 2025)
+- [Baseline model](/software/baseline.md)
 
 [//]: # (- a fully functioning baseline model is provided to challenge participants)
 - [Core Software](/software/core.md) - the tools that we are providing to help you generate more data and evaluate a challenge entry.
@@ -60,9 +60,9 @@ The AVSEC-4 timeline is available [here](important-dates.md) and the call for pa
 [//]: # (- the rules to which all challenge entries must adhere.)
 
 ### Download
-Scrips for binaural and single-channel versions of the baseline model, and model weights are available in the following link:
 - [Baseline model and Data](/download.md) 
-Baseline models of previous editions can be found on our website. 
+- [Listening test responses of previous editions of AVSEC](/download.md) 
+Baseline models of previous editions can be found on our website and [GitHub repo](https://github.com/cogmhear/avse_challenge/tree/main). 
 
 [//]: # (- #software and challenge data can be downloaded from here)
 
