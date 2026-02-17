@@ -60,13 +60,15 @@ The AVSEC-4 timeline is available [here](important-dates.md) and the call for pa
 [//]: # (- the rules to which all challenge entries must adhere.)
 
 ### Download
-- [Baseline model and Data](/download.md) - We are updating the baseline model of AVSEC-4. Baseline models of previous editions can be found on our website. 
+Scrips for binaural and single-channel versions of the baseline model, and model weights are available in the following link:
+- [Baseline model and Data](/download.md) 
+Baseline models of previous editions can be found on our website. 
 
 [//]: # (- #software and challenge data can be downloaded from here)
 
 ### Results
 
-TBA (July 2025)
+Results of the listening test are available [here](results.md)
 
 [//]: # (- [Listening test]&#40;/results.md&#41;)
 [//]: # (- [Leaderboard]&#40;/leaderboard.md&#41;)
